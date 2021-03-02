@@ -1,0 +1,4226 @@
+{
+  "0xd5575c3447646ab063f79ddbffad2cb52d987957": {
+    "snapshot": {
+      "total": "419503673181381932652",
+      "balances": {
+        "personal": "2460000000000000000",
+        "adelStaking": "303850000000000000000",
+        "adelStakingReward": "7768077674746094691",
+        "akroStakingReward": "105425595506635837961",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x346287b7106e5612666e3ffb4cdfe7f50f7035f2eff124395bccdb77c251589d",
+      "0xab96a19d058c1ae4d15af2118f8fea709fb2f93fb91d0a570f546ae83ac18d85",
+      "0xc88939451bdb65241b66ac81f5ebef14a0cfa30e52bfef0417e27f76664dfb25",
+      "0xdabaa9947dce6fc87202851a0cb73dc6cf482388fb8e0acaf034aa5bb2804b93",
+      "0x9cfcdfb045554fc4d706a0a54ff0be8fa807029ab3e28a08f8e81c6ef4133efb",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x66c37567e6740bce73bf8b20d0b11c8815e9a1e2": {
+    "snapshot": {
+      "total": "157710008421425533006",
+      "balances": {
+        "personal": "8644062757366474711",
+        "adelStaking": "145350000000000000000",
+        "adelStakingReward": "3715945664059058295",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x054a20937603796913005255eccd1a58a9560b761d9830f2ca67682f5f81a096",
+      "0xab96a19d058c1ae4d15af2118f8fea709fb2f93fb91d0a570f546ae83ac18d85",
+      "0xc88939451bdb65241b66ac81f5ebef14a0cfa30e52bfef0417e27f76664dfb25",
+      "0xdabaa9947dce6fc87202851a0cb73dc6cf482388fb8e0acaf034aa5bb2804b93",
+      "0x9cfcdfb045554fc4d706a0a54ff0be8fa807029ab3e28a08f8e81c6ef4133efb",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x17ec067fc8680427fda280805fd01cea46f2f9f8": {
+    "snapshot": {
+      "total": "1221408892910061855975",
+      "balances": {
+        "personal": "170413595217027966251",
+        "adelStaking": "1024795877013743755051",
+        "adelStakingReward": "26199420679290134673",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x2a5cdba91db059f2dc5007aa6e52b9bb70a64936cddc587f49106020a933d1da",
+      "0xa37f8db549b2bc169ff27731644a29aad637d84d069621d2a2d090c32861d58f",
+      "0xc88939451bdb65241b66ac81f5ebef14a0cfa30e52bfef0417e27f76664dfb25",
+      "0xdabaa9947dce6fc87202851a0cb73dc6cf482388fb8e0acaf034aa5bb2804b93",
+      "0x9cfcdfb045554fc4d706a0a54ff0be8fa807029ab3e28a08f8e81c6ef4133efb",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x972f0a9e96da7ed8de78947cf6b77f70ed909ddb": {
+    "snapshot": {
+      "total": "111119170378673747189",
+      "balances": {
+        "personal": "22971815512310650800",
+        "adelStaking": "85950000000000000000",
+        "adelStakingReward": "2197354866363096389",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x3f5da4932c2927822025d2910b49b68a278bade9f925c36fa1f543af5c470382",
+      "0xa37f8db549b2bc169ff27731644a29aad637d84d069621d2a2d090c32861d58f",
+      "0xc88939451bdb65241b66ac81f5ebef14a0cfa30e52bfef0417e27f76664dfb25",
+      "0xdabaa9947dce6fc87202851a0cb73dc6cf482388fb8e0acaf034aa5bb2804b93",
+      "0x9cfcdfb045554fc4d706a0a54ff0be8fa807029ab3e28a08f8e81c6ef4133efb",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0xe00567084e952c55272725ca289f48e18abee18a": {
+    "snapshot": {
+      "total": "162648728318787670595",
+      "balances": {
+        "personal": "150000000000000000",
+        "adelStaking": "158447927565997762620",
+        "adelStakingReward": "4050800752789907975",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xf1244d164cf3a25fa4cd2149cf64427410383d423b3b5d8fda44d3b19e383090",
+      "0x4b8b4f8ca336f1198d82acc1f800af2ec59ec9cfbe6e7801159a51dcd2d007ac",
+      "0x62a7aad1e2eeec5409d71fe029cef1e3e9b24bb76f6f2e73a4e62ab6f60fddef",
+      "0xdabaa9947dce6fc87202851a0cb73dc6cf482388fb8e0acaf034aa5bb2804b93",
+      "0x9cfcdfb045554fc4d706a0a54ff0be8fa807029ab3e28a08f8e81c6ef4133efb",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x3af2f409482b506e95ceb6ce39118dc6cd6557b4": {
+    "snapshot": {
+      "total": "611138059925828215685",
+      "balances": {
+        "personal": "2170000000000000000",
+        "adelStaking": "514470000000000000000",
+        "adelStakingReward": "13152683631155581162",
+        "akroStakingReward": "81345376294672634523",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x33d88108036ff6792d37e3bd24b5c35be4ec2f1c621c62b0ce97040cf0c62a8d",
+      "0x4b8b4f8ca336f1198d82acc1f800af2ec59ec9cfbe6e7801159a51dcd2d007ac",
+      "0x62a7aad1e2eeec5409d71fe029cef1e3e9b24bb76f6f2e73a4e62ab6f60fddef",
+      "0xdabaa9947dce6fc87202851a0cb73dc6cf482388fb8e0acaf034aa5bb2804b93",
+      "0x9cfcdfb045554fc4d706a0a54ff0be8fa807029ab3e28a08f8e81c6ef4133efb",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x10dfcecf0f2b305fa177da2165ca58d410b114ef": {
+    "snapshot": {
+      "total": "65779451899262053043",
+      "balances": {
+        "personal": "320000000000000000",
+        "adelStaking": "50880000000000000000",
+        "adelStakingReward": "1300772723683005750",
+        "akroStakingReward": "13278679175579047293",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xa4adbd2e061a911a55ec0263acd8ed7f0d3d58f56136e8ea779e5b48cd961550",
+      "0x36af06a717bc76d3036bbc55c56bb030b0b43b0c9832e811c0ca31dee54cb513",
+      "0x62a7aad1e2eeec5409d71fe029cef1e3e9b24bb76f6f2e73a4e62ab6f60fddef",
+      "0xdabaa9947dce6fc87202851a0cb73dc6cf482388fb8e0acaf034aa5bb2804b93",
+      "0x9cfcdfb045554fc4d706a0a54ff0be8fa807029ab3e28a08f8e81c6ef4133efb",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0xb8ce73f1f6b73965378743040e3662a549044538": {
+    "snapshot": {
+      "total": "151815693329667778789",
+      "balances": {
+        "personal": "1580000000000000000",
+        "adelStaking": "112481930942700454866",
+        "adelStakingReward": "2875656990516120940",
+        "akroStakingReward": "34878105396451202983",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xbb64b3c3022e9a493276676d5d98234e9cfe58bca4e5a1821272c8edc807ddbe",
+      "0x36af06a717bc76d3036bbc55c56bb030b0b43b0c9832e811c0ca31dee54cb513",
+      "0x62a7aad1e2eeec5409d71fe029cef1e3e9b24bb76f6f2e73a4e62ab6f60fddef",
+      "0xdabaa9947dce6fc87202851a0cb73dc6cf482388fb8e0acaf034aa5bb2804b93",
+      "0x9cfcdfb045554fc4d706a0a54ff0be8fa807029ab3e28a08f8e81c6ef4133efb",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0xe248514962789e159f40c55b8e5eeb1113c5722d": {
+    "snapshot": {
+      "total": "233854992030646997237",
+      "balances": {
+        "personal": "82443178159518256469",
+        "adelStaking": "147914113109030057891",
+        "adelStakingReward": "678703894992211037",
+        "akroStakingReward": "2818996867106471840",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xd6ddfcb9eba954cc626c8e38a9bead359a93f83024aa9c5e8f50cda2dc603f21",
+      "0xb6a7fa7b8f586f838a4f4dfc22c12d75c11dae9c97151c09b137cd918ce79aac",
+      "0x98258acbf503121f7f82e323fca0bfd62957ffc0c7f37585c218a25e71319838",
+      "0xa1b7fb8198d586523ec76d5f4b7c6db8eb7966c098edd9a139652bbc6aa95d1e",
+      "0x9cfcdfb045554fc4d706a0a54ff0be8fa807029ab3e28a08f8e81c6ef4133efb",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x1fd230a8ff8512b18ac254412dc47937540985c0": {
+    "snapshot": {
+      "total": "101763564076871984640",
+      "balances": {
+        "personal": "101763564076871984640",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x5171268cc3b505632ddd2704fd664dc6be73c1e42160e792cf032d228499a41f",
+      "0xb6a7fa7b8f586f838a4f4dfc22c12d75c11dae9c97151c09b137cd918ce79aac",
+      "0x98258acbf503121f7f82e323fca0bfd62957ffc0c7f37585c218a25e71319838",
+      "0xa1b7fb8198d586523ec76d5f4b7c6db8eb7966c098edd9a139652bbc6aa95d1e",
+      "0x9cfcdfb045554fc4d706a0a54ff0be8fa807029ab3e28a08f8e81c6ef4133efb",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x5ba44cfc6672522e2c560830bf87024604dbcdf8": {
+    "snapshot": {
+      "total": "1067935891689954549492",
+      "balances": {
+        "personal": "67935891689954549492",
+        "adelStaking": "1000000000000000000000",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xb7d76279525777d8f13c403adfd06028febbdce4354d5d3aa135b14700ae9fa3",
+      "0xa36d68429c51f4492f6275cc6d8d466ebad1a464ce229f7cd5bf731bebacbcdf",
+      "0x98258acbf503121f7f82e323fca0bfd62957ffc0c7f37585c218a25e71319838",
+      "0xa1b7fb8198d586523ec76d5f4b7c6db8eb7966c098edd9a139652bbc6aa95d1e",
+      "0x9cfcdfb045554fc4d706a0a54ff0be8fa807029ab3e28a08f8e81c6ef4133efb",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x5437c60b500476a9e3cfa8175f4f656140875413": {
+    "snapshot": {
+      "total": "371665049562314659725",
+      "balances": {
+        "personal": "9544221266340446978",
+        "adelStaking": "351810865725782210398",
+        "adelStakingReward": "0",
+        "akroStakingReward": "10309962570192002349",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x6e2e77b0a782f80651a0bf96d999e360a1f008bc2daaa910a284f6ee92b4a39f",
+      "0xa36d68429c51f4492f6275cc6d8d466ebad1a464ce229f7cd5bf731bebacbcdf",
+      "0x98258acbf503121f7f82e323fca0bfd62957ffc0c7f37585c218a25e71319838",
+      "0xa1b7fb8198d586523ec76d5f4b7c6db8eb7966c098edd9a139652bbc6aa95d1e",
+      "0x9cfcdfb045554fc4d706a0a54ff0be8fa807029ab3e28a08f8e81c6ef4133efb",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0xb5c967b43f61b75e038e33f2e25e5c023d3523e1": {
+    "snapshot": {
+      "total": "1801280832813112974127",
+      "balances": {
+        "personal": "9293538654437950658",
+        "adelStaking": "1772310232804432131962",
+        "adelStakingReward": "0",
+        "akroStakingReward": "19677061354242891507",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x67264590161a30aa4c3700dcb1f6730d7eceb1dc346637523982d2dfdacc7475",
+      "0x2b9f72cfd922c3d40b1706c6661a5cd53b633ba7084a28e6cf50dacec89106de",
+      "0x697e4815cc4027cd67c4eda25b8f611e7691d598808dc2b148279930b7b2f9b7",
+      "0xa1b7fb8198d586523ec76d5f4b7c6db8eb7966c098edd9a139652bbc6aa95d1e",
+      "0x9cfcdfb045554fc4d706a0a54ff0be8fa807029ab3e28a08f8e81c6ef4133efb",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0xe2cf757f55e9e85dc09ae2ee5d752b84e6eed3ef": {
+    "snapshot": {
+      "total": "153708023066922288836",
+      "balances": {
+        "personal": "0",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "153708023066922288836",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xf8426aa786a6d460efc5e5756cf10ecf7543072c58321041b99b47708a305eea",
+      "0x2b9f72cfd922c3d40b1706c6661a5cd53b633ba7084a28e6cf50dacec89106de",
+      "0x697e4815cc4027cd67c4eda25b8f611e7691d598808dc2b148279930b7b2f9b7",
+      "0xa1b7fb8198d586523ec76d5f4b7c6db8eb7966c098edd9a139652bbc6aa95d1e",
+      "0x9cfcdfb045554fc4d706a0a54ff0be8fa807029ab3e28a08f8e81c6ef4133efb",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0xb46b3935e78a0d88c7912ac72af86c952deabd6c": {
+    "snapshot": {
+      "total": "548370116773839783650",
+      "balances": {
+        "personal": "8977426373800100196",
+        "adelStaking": "539392690400039683454",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x8f30af4edcaae90435aab63948f4a1a50ae7a67d94783a5eec5e742c848bf31b",
+      "0x6bf177cf2cede984b337607c950863f429b9a58d2f3a6295695518727ce0b2f4",
+      "0x697e4815cc4027cd67c4eda25b8f611e7691d598808dc2b148279930b7b2f9b7",
+      "0xa1b7fb8198d586523ec76d5f4b7c6db8eb7966c098edd9a139652bbc6aa95d1e",
+      "0x9cfcdfb045554fc4d706a0a54ff0be8fa807029ab3e28a08f8e81c6ef4133efb",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x52f232a1bcdd8c63ded9849135eb26ab6f428e41": {
+    "snapshot": {
+      "total": "1765562067288758041604",
+      "balances": {
+        "personal": "0",
+        "adelStaking": "1562650763602917782038",
+        "adelStakingReward": "0",
+        "akroStakingReward": "202911303685840259566",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x4a8d8e5cdc3f78fcdcebdf8af088111b99204e62e5e316a2c36d5dccb937eb40",
+      "0x6bf177cf2cede984b337607c950863f429b9a58d2f3a6295695518727ce0b2f4",
+      "0x697e4815cc4027cd67c4eda25b8f611e7691d598808dc2b148279930b7b2f9b7",
+      "0xa1b7fb8198d586523ec76d5f4b7c6db8eb7966c098edd9a139652bbc6aa95d1e",
+      "0x9cfcdfb045554fc4d706a0a54ff0be8fa807029ab3e28a08f8e81c6ef4133efb",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0xdaacc5581a8ff1d67d587720ccae6c4ef0251355": {
+    "snapshot": {
+      "total": "4726739556281166203005",
+      "balances": {
+        "personal": "580892957746989996548",
+        "adelStaking": "4080941251885339807864",
+        "adelStakingReward": "0",
+        "akroStakingReward": "64905346648836398593",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x1124851191dae611271cee2261b4569693c396d605976590c5f948497d95bc4d",
+      "0x9494b94f5fcdbf0fb1203a69a5f887265dd1c85768eb6544fedba9550075f2a0",
+      "0xfd6589dc2a6218ea53fa358ae1361c92fcea8d018dc115b892c00cca588ddc04",
+      "0xb5fae5a612875ec5abb58a125b4d68feba00cecd08deec88f5e67f604689851f",
+      "0x3bc66bc236f8bcf02db97371a9d8fe74968d97a1247a9c6bf5c692d5647c2d62",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0xac71e8b6faf5708c15a405a2d1a6a2cbfcf08a4c": {
+    "snapshot": {
+      "total": "513053169920403584362",
+      "balances": {
+        "personal": "490000000000000000",
+        "adelStaking": "503421283214382656553",
+        "adelStakingReward": "9141886706020927809",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x10efc02198cce34f47ce1b43c238c82f43a9dfc9155363bfaa21a74c131c2fb0",
+      "0x9494b94f5fcdbf0fb1203a69a5f887265dd1c85768eb6544fedba9550075f2a0",
+      "0xfd6589dc2a6218ea53fa358ae1361c92fcea8d018dc115b892c00cca588ddc04",
+      "0xb5fae5a612875ec5abb58a125b4d68feba00cecd08deec88f5e67f604689851f",
+      "0x3bc66bc236f8bcf02db97371a9d8fe74968d97a1247a9c6bf5c692d5647c2d62",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x728742e8cb6ccf1fec195c5a7539fc87162daf23": {
+    "snapshot": {
+      "total": "26189519457942929773537",
+      "balances": {
+        "personal": "4291678034800000000000",
+        "adelStaking": "21897841423142929773537",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x9435cf1c241b9c29243774b9f22e5cd3a483c0ad357d80482ef1261d5ef76191",
+      "0x5c6d3c920bb9051d22f10024fb0b687aee77042d44233713646c2ed30797b58d",
+      "0xfd6589dc2a6218ea53fa358ae1361c92fcea8d018dc115b892c00cca588ddc04",
+      "0xb5fae5a612875ec5abb58a125b4d68feba00cecd08deec88f5e67f604689851f",
+      "0x3bc66bc236f8bcf02db97371a9d8fe74968d97a1247a9c6bf5c692d5647c2d62",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0xafae3d712a16c497ee127091540023f2824bfffd": {
+    "snapshot": {
+      "total": "23443866987804608178",
+      "balances": {
+        "personal": "23443866987804608178",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xc8e9dffa21fe27afb0e5b2cd0a7adea8ff89ce446025b4e5dd9970216875db44",
+      "0x5c6d3c920bb9051d22f10024fb0b687aee77042d44233713646c2ed30797b58d",
+      "0xfd6589dc2a6218ea53fa358ae1361c92fcea8d018dc115b892c00cca588ddc04",
+      "0xb5fae5a612875ec5abb58a125b4d68feba00cecd08deec88f5e67f604689851f",
+      "0x3bc66bc236f8bcf02db97371a9d8fe74968d97a1247a9c6bf5c692d5647c2d62",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x4702baa85c236d204230a439c72625cd014b17ea": {
+    "snapshot": {
+      "total": "1080000000000000000",
+      "balances": {
+        "personal": "1080000000000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x38bfea368a03a57477f0cda5f5b6110286f7fae08bb709fe9713b5f104bc29b7",
+      "0x9d603f14a2e1eba3d770a897b69d76d5b2429ca154c1c1bbc51773865bab577c",
+      "0xe05e634b384dd585b6c5381027cc3b4fb009c0991c677d1136aa9f360acae611",
+      "0xb5fae5a612875ec5abb58a125b4d68feba00cecd08deec88f5e67f604689851f",
+      "0x3bc66bc236f8bcf02db97371a9d8fe74968d97a1247a9c6bf5c692d5647c2d62",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x12634b07c68953c713b275b6420b16ff938a8328": {
+    "snapshot": {
+      "total": "700000000000000000",
+      "balances": {
+        "personal": "700000000000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xb49aa48a4aafff0398834093cf9a6594e8fbcd62227da6738fcd7ab9578e3f88",
+      "0x9d603f14a2e1eba3d770a897b69d76d5b2429ca154c1c1bbc51773865bab577c",
+      "0xe05e634b384dd585b6c5381027cc3b4fb009c0991c677d1136aa9f360acae611",
+      "0xb5fae5a612875ec5abb58a125b4d68feba00cecd08deec88f5e67f604689851f",
+      "0x3bc66bc236f8bcf02db97371a9d8fe74968d97a1247a9c6bf5c692d5647c2d62",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x1aea5e7a094ab5f411bc478ca8c86f0424c63de1": {
+    "snapshot": {
+      "total": "119325669574541082484",
+      "balances": {
+        "personal": "7307638841165663450",
+        "adelStaking": "100000000000000000000",
+        "adelStakingReward": "1815951571941753320",
+        "akroStakingReward": "10202079161433665714",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xa96a846c16fa86e6c493d0cbe943fb90ad7a181690dbf29137e91c91dd6120c1",
+      "0x66e4139d1a1343a767f66eefa9e93dc71002b1e4be0a936d5661e97d2917e603",
+      "0xe05e634b384dd585b6c5381027cc3b4fb009c0991c677d1136aa9f360acae611",
+      "0xb5fae5a612875ec5abb58a125b4d68feba00cecd08deec88f5e67f604689851f",
+      "0x3bc66bc236f8bcf02db97371a9d8fe74968d97a1247a9c6bf5c692d5647c2d62",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0xc2edf07f6823506a386e82aa595a2b5ebb9bdce6": {
+    "snapshot": {
+      "total": "1284992916600000000000",
+      "balances": {
+        "personal": "1284992916600000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xd33ac7bf4ca20846f69cdf001ac5ef6349334c9c80bb117f85c245ee5580d884",
+      "0x66e4139d1a1343a767f66eefa9e93dc71002b1e4be0a936d5661e97d2917e603",
+      "0xe05e634b384dd585b6c5381027cc3b4fb009c0991c677d1136aa9f360acae611",
+      "0xb5fae5a612875ec5abb58a125b4d68feba00cecd08deec88f5e67f604689851f",
+      "0x3bc66bc236f8bcf02db97371a9d8fe74968d97a1247a9c6bf5c692d5647c2d62",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0xbcf5ec0c8520a72c3e8c5af775f0662eb472fc1d": {
+    "snapshot": {
+      "total": "132434371564729922237",
+      "balances": {
+        "personal": "0",
+        "adelStaking": "132434371564729922237",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xe82e3291cf94c4eafd0c83b327c71fd2b461e1435a930da1203a4d2d7fb5bcf4",
+      "0xa59797e248aca5adc1b3bad4d07f943830dcc533042b059e8d4b219e60fa8906",
+      "0x2054918ed9d9cbc1609244f8b00e91ea2f7626d916c8488a69b2e6cb5ba71fca",
+      "0xdaca0fd1be11289a3a9ee4eadb19f296a4ce8f6ca2d0ee865b42a8da8c366ff1",
+      "0x3bc66bc236f8bcf02db97371a9d8fe74968d97a1247a9c6bf5c692d5647c2d62",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0xbb5c8245682975779f15798d70b0ca23bac7d37c": {
+    "snapshot": {
+      "total": "1092166550800000000000",
+      "balances": {
+        "personal": "1092166550800000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x6ae738f45265207d39dab1922cdb55a0721d612ea1df4262977ecd6858aa15a3",
+      "0xa59797e248aca5adc1b3bad4d07f943830dcc533042b059e8d4b219e60fa8906",
+      "0x2054918ed9d9cbc1609244f8b00e91ea2f7626d916c8488a69b2e6cb5ba71fca",
+      "0xdaca0fd1be11289a3a9ee4eadb19f296a4ce8f6ca2d0ee865b42a8da8c366ff1",
+      "0x3bc66bc236f8bcf02db97371a9d8fe74968d97a1247a9c6bf5c692d5647c2d62",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x1bfb3b57522eefd75957e5763399b9a4f4a61d2a": {
+    "snapshot": {
+      "total": "431770078466540608338",
+      "balances": {
+        "personal": "431770078466540608338",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xfa55c044dc8abb8f0898b061da9e6df0be04af1b7f6020075d3227fbf94ecd34",
+      "0xa5836d6d7650f510e1b7d309848d146d7e3dac734151033de82e46c8a934db2b",
+      "0x2054918ed9d9cbc1609244f8b00e91ea2f7626d916c8488a69b2e6cb5ba71fca",
+      "0xdaca0fd1be11289a3a9ee4eadb19f296a4ce8f6ca2d0ee865b42a8da8c366ff1",
+      "0x3bc66bc236f8bcf02db97371a9d8fe74968d97a1247a9c6bf5c692d5647c2d62",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x51b6142e21e3838a8ed79d2eceff41a3624da59a": {
+    "snapshot": {
+      "total": "410313200038951036246",
+      "balances": {
+        "personal": "390000000000000000",
+        "adelStaking": "402611961790000000000",
+        "adelStakingReward": "7311238248951036246",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x145c5292dbdb0e77c0ae08d4cd5104fcd3ec28e90360c0f21f54dec5575d929a",
+      "0xa5836d6d7650f510e1b7d309848d146d7e3dac734151033de82e46c8a934db2b",
+      "0x2054918ed9d9cbc1609244f8b00e91ea2f7626d916c8488a69b2e6cb5ba71fca",
+      "0xdaca0fd1be11289a3a9ee4eadb19f296a4ce8f6ca2d0ee865b42a8da8c366ff1",
+      "0x3bc66bc236f8bcf02db97371a9d8fe74968d97a1247a9c6bf5c692d5647c2d62",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x7df0bd39b94ce28076174eb039888947423fdd7f": {
+    "snapshot": {
+      "total": "269215374892320125856",
+      "balances": {
+        "personal": "260000000000000000",
+        "adelStaking": "264158386519896100021",
+        "adelStakingReward": "4796988372424025835",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xc573747fbbab27eae86aefe2d3f7a70f463ec9690f3be1cc02c37f85389117be",
+      "0xbb9ff20ac2962bbed63f77cf89dffe88798da8819a7396ba39e3e1924b9f4f00",
+      "0x096fdc8af452ca16dac33d5ad214862a9ff28ffe041c966b53d3d614c4a17001",
+      "0xdaca0fd1be11289a3a9ee4eadb19f296a4ce8f6ca2d0ee865b42a8da8c366ff1",
+      "0x3bc66bc236f8bcf02db97371a9d8fe74968d97a1247a9c6bf5c692d5647c2d62",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x882c34e0a3405f713581b8c8c9650f3cc28df488": {
+    "snapshot": {
+      "total": "762839243615353371781",
+      "balances": {
+        "personal": "3750786348419556274",
+        "adelStaking": "750000000000000000000",
+        "adelStakingReward": "9088457266933815507",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x2e047c24f2f4c3e51e132d7ebcdbc434903a01570baa232c15d884a7cfe66e06",
+      "0xbb9ff20ac2962bbed63f77cf89dffe88798da8819a7396ba39e3e1924b9f4f00",
+      "0x096fdc8af452ca16dac33d5ad214862a9ff28ffe041c966b53d3d614c4a17001",
+      "0xdaca0fd1be11289a3a9ee4eadb19f296a4ce8f6ca2d0ee865b42a8da8c366ff1",
+      "0x3bc66bc236f8bcf02db97371a9d8fe74968d97a1247a9c6bf5c692d5647c2d62",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x9d4535d31d1bd12ec1d2b6cc10b01f72f9b104f5": {
+    "snapshot": {
+      "total": "123815039993855461095",
+      "balances": {
+        "personal": "123815039993855461095",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xb50bf4f28996aba36a39fcf920266003a6e78426fa657e564312758f5114ea41",
+      "0xab66a268f6002048f5928b34b3f992a4ed4f6ee0ac5114585192a32e35c13f2b",
+      "0x096fdc8af452ca16dac33d5ad214862a9ff28ffe041c966b53d3d614c4a17001",
+      "0xdaca0fd1be11289a3a9ee4eadb19f296a4ce8f6ca2d0ee865b42a8da8c366ff1",
+      "0x3bc66bc236f8bcf02db97371a9d8fe74968d97a1247a9c6bf5c692d5647c2d62",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0xe60a9fd5fe190de7620341636c3f02abf5b20ea5": {
+    "snapshot": {
+      "total": "533006506479115078642",
+      "balances": {
+        "personal": "0",
+        "adelStaking": "523500000000000000000",
+        "adelStakingReward": "9506506479115078642",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x11cbbd99a397b2cb8a87088b032e623e38f6fdc9b6e01beed2f5c00d8952ae42",
+      "0xab66a268f6002048f5928b34b3f992a4ed4f6ee0ac5114585192a32e35c13f2b",
+      "0x096fdc8af452ca16dac33d5ad214862a9ff28ffe041c966b53d3d614c4a17001",
+      "0xdaca0fd1be11289a3a9ee4eadb19f296a4ce8f6ca2d0ee865b42a8da8c366ff1",
+      "0x3bc66bc236f8bcf02db97371a9d8fe74968d97a1247a9c6bf5c692d5647c2d62",
+      "0x3dfedfbf22e521c478dde8d36b92c98f6a10701169d7184b4b7121e10c654e2c",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x278335190b79429081b09fc57c6bc29e73a741da": {
+    "snapshot": {
+      "total": "350276194649863998032",
+      "balances": {
+        "personal": "16625706833894725618",
+        "adelStaking": "333650487815969272414",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x7d63db5bf7b9147e560f114351444a5ef4ba31a1026668384626c57e870f39b4",
+      "0x7ac3acd4c63b6f5c3673428cd1bd0129b1bad9f66462c7f2ff14ee3910fc869f",
+      "0x2fab973094c90b0d22951d197cd3bf6e01f2a7d6822faba650097081b265917d",
+      "0x13a7afbfed7e07d053a46573f5794752e3da074c16c4cabbfe405210478b159c",
+      "0x69cef0da9177fb09cdf9c55e676708651750c0805257bbc41270dcc9433e8e5e",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x7b4b04ce4760cc87356e8a4a69abf17cc9575f8a": {
+    "snapshot": {
+      "total": "1100003480860050993631",
+      "balances": {
+        "personal": "686840670500000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "374037826552553555390",
+        "Curve sUSD": "0",
+        "Compound USDC": "39124983807497438241",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xbf358e8e6989bfc32aed095bc3e42a09b573b6267e647feb7833104854175433",
+      "0x7ac3acd4c63b6f5c3673428cd1bd0129b1bad9f66462c7f2ff14ee3910fc869f",
+      "0x2fab973094c90b0d22951d197cd3bf6e01f2a7d6822faba650097081b265917d",
+      "0x13a7afbfed7e07d053a46573f5794752e3da074c16c4cabbfe405210478b159c",
+      "0x69cef0da9177fb09cdf9c55e676708651750c0805257bbc41270dcc9433e8e5e",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0xeaa6cb80a5593e14c5a5fd38ae3d16dcb5ef75f5": {
+    "snapshot": {
+      "total": "3024918412084482390243",
+      "balances": {
+        "personal": "7020000000000000000",
+        "adelStaking": "2806196859691280451976",
+        "adelStakingReward": "50959175985343925283",
+        "akroStakingReward": "160742376407858012984",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xe14bb8efa126ac50d3c896fcab9f76e09558a8c5dffe823cf37785b9d0e5a5c5",
+      "0x7689c6a4784e8051a8925b2b381c15f1fef7339737c90877f5be77056705089a",
+      "0x2fab973094c90b0d22951d197cd3bf6e01f2a7d6822faba650097081b265917d",
+      "0x13a7afbfed7e07d053a46573f5794752e3da074c16c4cabbfe405210478b159c",
+      "0x69cef0da9177fb09cdf9c55e676708651750c0805257bbc41270dcc9433e8e5e",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0xd9044041ced8fdd76a5e55a319643545214a99e4": {
+    "snapshot": {
+      "total": "516899703400000000000",
+      "balances": {
+        "personal": "516899703400000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x52d1f1348e915eefca4900151cad0efe405d1ad30229f583aace3ba37315a6fb",
+      "0x7689c6a4784e8051a8925b2b381c15f1fef7339737c90877f5be77056705089a",
+      "0x2fab973094c90b0d22951d197cd3bf6e01f2a7d6822faba650097081b265917d",
+      "0x13a7afbfed7e07d053a46573f5794752e3da074c16c4cabbfe405210478b159c",
+      "0x69cef0da9177fb09cdf9c55e676708651750c0805257bbc41270dcc9433e8e5e",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x1b410305e8df9d978b82cd90b4dd45ab3fa6bd00": {
+    "snapshot": {
+      "total": "511578872400000000000",
+      "balances": {
+        "personal": "511578872400000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x2b9d7ebe2f505b5f624260e3a187d8e863df235a6b600d368562739cd2c38dd6",
+      "0x0fd00ee17f552c029d5b390726dd9f6b52232de9d7d852978836f74be9e3b5e3",
+      "0xf2b54df30664b47036bbd03b2f747d1da8a1b119c3c8c403c7763a8f430e6e79",
+      "0x13a7afbfed7e07d053a46573f5794752e3da074c16c4cabbfe405210478b159c",
+      "0x69cef0da9177fb09cdf9c55e676708651750c0805257bbc41270dcc9433e8e5e",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x6cf093b8ba5f8ed509fcfab3a2ebc95ee3340a41": {
+    "snapshot": {
+      "total": "545618169000000000000",
+      "balances": {
+        "personal": "545618169000000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xff70d2772298fcba4a383e06de4a2a949cb750849490bf359bac92b7b70e2160",
+      "0x0fd00ee17f552c029d5b390726dd9f6b52232de9d7d852978836f74be9e3b5e3",
+      "0xf2b54df30664b47036bbd03b2f747d1da8a1b119c3c8c403c7763a8f430e6e79",
+      "0x13a7afbfed7e07d053a46573f5794752e3da074c16c4cabbfe405210478b159c",
+      "0x69cef0da9177fb09cdf9c55e676708651750c0805257bbc41270dcc9433e8e5e",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x8fd32b1c44c98274fee2954ee1503b9e09a7345e": {
+    "snapshot": {
+      "total": "6963388364149722338567",
+      "balances": {
+        "personal": "624286492900000000000",
+        "adelStaking": "6226040000000000000000",
+        "adelStakingReward": "113061871249722338567",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xdb07dd489e3fbcae7aff7622581d7f7562d892a812c74b54805aeacce9eea407",
+      "0x71de945dce90ba0c62980cc1217ccdab4c6fe9934de8c3112cec3f12b87f26b0",
+      "0xf2b54df30664b47036bbd03b2f747d1da8a1b119c3c8c403c7763a8f430e6e79",
+      "0x13a7afbfed7e07d053a46573f5794752e3da074c16c4cabbfe405210478b159c",
+      "0x69cef0da9177fb09cdf9c55e676708651750c0805257bbc41270dcc9433e8e5e",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x74d8d920623a657a73a8e322b77fc6560d2bb221": {
+    "snapshot": {
+      "total": "1150887562600000000000",
+      "balances": {
+        "personal": "1150887562600000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x8f1b79a9f92d9e01de656638de8da28d55303555f38f6a11d303974213fe5616",
+      "0x71de945dce90ba0c62980cc1217ccdab4c6fe9934de8c3112cec3f12b87f26b0",
+      "0xf2b54df30664b47036bbd03b2f747d1da8a1b119c3c8c403c7763a8f430e6e79",
+      "0x13a7afbfed7e07d053a46573f5794752e3da074c16c4cabbfe405210478b159c",
+      "0x69cef0da9177fb09cdf9c55e676708651750c0805257bbc41270dcc9433e8e5e",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x4907985b56ce53a84cd52470d9d133c6deced1b7": {
+    "snapshot": {
+      "total": "581650211600000000000",
+      "balances": {
+        "personal": "581650211600000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xaa8c0b0a79b614b8af6005cd8ce606771d82905827c63f369095d7f7a10f2f22",
+      "0x43ac298f9713a8696abedee09d5ed153039633fcd9972b6e82bc9ff7b68715a8",
+      "0xc853bf5bdfa4490a7784b39b485f3bd9ae375845494c48d8a50b83c406a2df7f",
+      "0x76ca9c591624d4e6da3da3068ad49f8ca89e34a6fc590355492dc9a990278ed0",
+      "0x69cef0da9177fb09cdf9c55e676708651750c0805257bbc41270dcc9433e8e5e",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x5e3dd85fab542df122aa0ce691d8c71d5e8446a5": {
+    "snapshot": {
+      "total": "1784178957400000000000",
+      "balances": {
+        "personal": "1784178957400000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x54a0df3ce552e677a272256aebe7abddda3be212708c8d25828914758c97b9c8",
+      "0x43ac298f9713a8696abedee09d5ed153039633fcd9972b6e82bc9ff7b68715a8",
+      "0xc853bf5bdfa4490a7784b39b485f3bd9ae375845494c48d8a50b83c406a2df7f",
+      "0x76ca9c591624d4e6da3da3068ad49f8ca89e34a6fc590355492dc9a990278ed0",
+      "0x69cef0da9177fb09cdf9c55e676708651750c0805257bbc41270dcc9433e8e5e",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x8c4743968b2ee3c7b214829207571f63f2759bd2": {
+    "snapshot": {
+      "total": "1772916020000000000000",
+      "balances": {
+        "personal": "1772916020000000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xc9e1e66b9237a241ed51b0c094676a3162aa2adfc80d54d568ea0202c0883be4",
+      "0x9218242ef67804a5d200dfc347c29abc7225fcab4dfa7a7943c4f9cd83c1784e",
+      "0xc853bf5bdfa4490a7784b39b485f3bd9ae375845494c48d8a50b83c406a2df7f",
+      "0x76ca9c591624d4e6da3da3068ad49f8ca89e34a6fc590355492dc9a990278ed0",
+      "0x69cef0da9177fb09cdf9c55e676708651750c0805257bbc41270dcc9433e8e5e",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x867af9ea1ea8d850bd1857b24bc25f5956763a72": {
+    "snapshot": {
+      "total": "1729484360800000000000",
+      "balances": {
+        "personal": "1729484360800000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xa623333b9e75bbbd70b6c75bfd8cda00645cb5c3a010ed758c485a023348ec56",
+      "0x9218242ef67804a5d200dfc347c29abc7225fcab4dfa7a7943c4f9cd83c1784e",
+      "0xc853bf5bdfa4490a7784b39b485f3bd9ae375845494c48d8a50b83c406a2df7f",
+      "0x76ca9c591624d4e6da3da3068ad49f8ca89e34a6fc590355492dc9a990278ed0",
+      "0x69cef0da9177fb09cdf9c55e676708651750c0805257bbc41270dcc9433e8e5e",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0xca705466e5cd52f4f02570a5d3c05d3935be0d99": {
+    "snapshot": {
+      "total": "1690684108000000000000",
+      "balances": {
+        "personal": "1690684108000000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xd714e4518db34120dd6d45b06c7ecd0bfe9f45d4446716640449def561c4032a",
+      "0xeeadb365d11983708bfa6281ad07712b22c57e7b2328d6346fa74f7b275f3d37",
+      "0xcca8a1eeaf191f816d1772e6149fe00daac2466758bc2e66b3713cff1c0137ad",
+      "0x76ca9c591624d4e6da3da3068ad49f8ca89e34a6fc590355492dc9a990278ed0",
+      "0x69cef0da9177fb09cdf9c55e676708651750c0805257bbc41270dcc9433e8e5e",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x0498612320a256d3fc6e37afd9efe4ef9d0edb6e": {
+    "snapshot": {
+      "total": "195707386786711706825",
+      "balances": {
+        "personal": "850000000000000000",
+        "adelStaking": "165120883917517137543",
+        "adelStakingReward": "2998515287104270211",
+        "akroStakingReward": "26737987582090299071",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x48183deb8d0807e4cd6c1fb5e5cece899ccc8d021ff8580f632606ccf6e22cf5",
+      "0xeeadb365d11983708bfa6281ad07712b22c57e7b2328d6346fa74f7b275f3d37",
+      "0xcca8a1eeaf191f816d1772e6149fe00daac2466758bc2e66b3713cff1c0137ad",
+      "0x76ca9c591624d4e6da3da3068ad49f8ca89e34a6fc590355492dc9a990278ed0",
+      "0x69cef0da9177fb09cdf9c55e676708651750c0805257bbc41270dcc9433e8e5e",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x83c832e0fc5a8feac5a2798ffd65136a3bd52d5c": {
+    "snapshot": {
+      "total": "1690611925400000000000",
+      "balances": {
+        "personal": "1690611925400000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x6e4b3e57db04b10f67cfa3d79d64155b6420bcff87ac33d5915ce117848a2945",
+      "0xcc3543aeca465ebbca798e47a80861edbce7c20bc0994cc1f4abf4e648b8b85d",
+      "0xcca8a1eeaf191f816d1772e6149fe00daac2466758bc2e66b3713cff1c0137ad",
+      "0x76ca9c591624d4e6da3da3068ad49f8ca89e34a6fc590355492dc9a990278ed0",
+      "0x69cef0da9177fb09cdf9c55e676708651750c0805257bbc41270dcc9433e8e5e",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0xbfa82faef8724c77a9eb84f255034954b380d05c": {
+    "snapshot": {
+      "total": "1684010068400000000000",
+      "balances": {
+        "personal": "1684010068400000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x6150b3357f192b67c2e0274b76754de7a5a0394db90150dbbb406e71d02c3993",
+      "0xcc3543aeca465ebbca798e47a80861edbce7c20bc0994cc1f4abf4e648b8b85d",
+      "0xcca8a1eeaf191f816d1772e6149fe00daac2466758bc2e66b3713cff1c0137ad",
+      "0x76ca9c591624d4e6da3da3068ad49f8ca89e34a6fc590355492dc9a990278ed0",
+      "0x69cef0da9177fb09cdf9c55e676708651750c0805257bbc41270dcc9433e8e5e",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x3860dd39957fb1b26378a88bd56c36fc7b82d55e": {
+    "snapshot": {
+      "total": "629321801900000000000",
+      "balances": {
+        "personal": "629321801900000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xc906367e1a31efe66b8b24c7b555de7a98b0e7b710f34ff13ee96e0b4665f28c",
+      "0x2839ad404b1b2b5c56fd25c09f69fbf5a95160e723063a8ffaba91292621d247",
+      "0x1a8c16bf81daadf85c36c447e2cf3ed7e63da36f4157b50fd5ae41229b7048bc",
+      "0x07e12cf99bcd0c93ace12e5fb3bd745fb8b0cf2e36776a2034072ea37731637b",
+      "0x7bbe479e61516cbcb853f809aa20906c41e531e1e0346c8dbafea0e03974599f",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x78783b07bb985705d245c94146dc453942c7937a": {
+    "snapshot": {
+      "total": "34700000000000000000",
+      "balances": {
+        "personal": "34700000000000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x4241f3189a976a68a6ba83997c4635b7c151ac4a790f54133352a6656e5f73e8",
+      "0x2839ad404b1b2b5c56fd25c09f69fbf5a95160e723063a8ffaba91292621d247",
+      "0x1a8c16bf81daadf85c36c447e2cf3ed7e63da36f4157b50fd5ae41229b7048bc",
+      "0x07e12cf99bcd0c93ace12e5fb3bd745fb8b0cf2e36776a2034072ea37731637b",
+      "0x7bbe479e61516cbcb853f809aa20906c41e531e1e0346c8dbafea0e03974599f",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0xd3f17693c289df5583b2c4134df88d2ef932687c": {
+    "snapshot": {
+      "total": "1316758110423928858091",
+      "balances": {
+        "personal": "2890000000000000000",
+        "adelStaking": "1261494573336686028429",
+        "adelStakingReward": "22908130534467464109",
+        "akroStakingReward": "29465406552775365553",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xe1db16cd38ddad6e4182b0a3e3501c5188d97629dc221e105fd82aa370eda035",
+      "0x9e2255136755a0c2ebe3d2205ec911c72548fe4ba6777d19a99732d7bee2317b",
+      "0x1a8c16bf81daadf85c36c447e2cf3ed7e63da36f4157b50fd5ae41229b7048bc",
+      "0x07e12cf99bcd0c93ace12e5fb3bd745fb8b0cf2e36776a2034072ea37731637b",
+      "0x7bbe479e61516cbcb853f809aa20906c41e531e1e0346c8dbafea0e03974599f",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x278aea15fd6074ad8c5f890a05bb28e336be3be5": {
+    "snapshot": {
+      "total": "165492998404429097366",
+      "balances": {
+        "personal": "41330000000000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "76339385439603032158",
+        "Curve sUSD": "47823612964826065208",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x409b48a29ea3d9dfe638bc8c6b0d2c6881d73582adac548cbb6da8f8ed2e4c07",
+      "0x9e2255136755a0c2ebe3d2205ec911c72548fe4ba6777d19a99732d7bee2317b",
+      "0x1a8c16bf81daadf85c36c447e2cf3ed7e63da36f4157b50fd5ae41229b7048bc",
+      "0x07e12cf99bcd0c93ace12e5fb3bd745fb8b0cf2e36776a2034072ea37731637b",
+      "0x7bbe479e61516cbcb853f809aa20906c41e531e1e0346c8dbafea0e03974599f",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x1fe4ec75f38583e75c20d9e2a597e716cda5c3f9": {
+    "snapshot": {
+      "total": "549075100700000000000",
+      "balances": {
+        "personal": "549075100700000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xe6e6c466f412e750f858fa1391c736d4011f67b90b53fd6a9ed2b3d7c271f0da",
+      "0x2ecb59de8ec2b22f42f7cc03381b337538cbca82ff07283933878ce69367e64a",
+      "0x14612ac62cd62299901a12e75dfaf3721306a3d7129d7ffacc8b83357ccccf0e",
+      "0x07e12cf99bcd0c93ace12e5fb3bd745fb8b0cf2e36776a2034072ea37731637b",
+      "0x7bbe479e61516cbcb853f809aa20906c41e531e1e0346c8dbafea0e03974599f",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x649d88d0ab8fca2a45d1fbc557d9d453261b56fc": {
+    "snapshot": {
+      "total": "1106363174660321520685",
+      "balances": {
+        "personal": "1074216190200000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "32146984460321520685",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xb5bda9078b12c76de845e541709c8130c9bf94a4e663a63f051c5fcaeca0299c",
+      "0x2ecb59de8ec2b22f42f7cc03381b337538cbca82ff07283933878ce69367e64a",
+      "0x14612ac62cd62299901a12e75dfaf3721306a3d7129d7ffacc8b83357ccccf0e",
+      "0x07e12cf99bcd0c93ace12e5fb3bd745fb8b0cf2e36776a2034072ea37731637b",
+      "0x7bbe479e61516cbcb853f809aa20906c41e531e1e0346c8dbafea0e03974599f",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x3c3b04835a0fc640f78e63dede6b3d4ac55d688c": {
+    "snapshot": {
+      "total": "165651566535874679883",
+      "balances": {
+        "personal": "165651566535874679883",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x03e43347278601cb98c0cf29f5a0bb983ca143b63c9748bb193b30f198d1bc31",
+      "0x31c85603e4aecf4b9a750e1e8a575108af5c70e574e72a40ade37bcf3e5d699a",
+      "0x14612ac62cd62299901a12e75dfaf3721306a3d7129d7ffacc8b83357ccccf0e",
+      "0x07e12cf99bcd0c93ace12e5fb3bd745fb8b0cf2e36776a2034072ea37731637b",
+      "0x7bbe479e61516cbcb853f809aa20906c41e531e1e0346c8dbafea0e03974599f",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0xa14f9b86da08467dd05b8c6e2c3a2f2c6214c60f": {
+    "snapshot": {
+      "total": "819662663463449262694",
+      "balances": {
+        "personal": "695471490000000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "76384516748534780482",
+        "Curve sUSD": "47806656714914482212",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x9e3e3ae93d10c4ff62944056e60e17eb8f525061a5990dbeb8665a0a9e63d32e",
+      "0x31c85603e4aecf4b9a750e1e8a575108af5c70e574e72a40ade37bcf3e5d699a",
+      "0x14612ac62cd62299901a12e75dfaf3721306a3d7129d7ffacc8b83357ccccf0e",
+      "0x07e12cf99bcd0c93ace12e5fb3bd745fb8b0cf2e36776a2034072ea37731637b",
+      "0x7bbe479e61516cbcb853f809aa20906c41e531e1e0346c8dbafea0e03974599f",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x8b9fa7432c73c7135e3ec3014cc0b39720634fc2": {
+    "snapshot": {
+      "total": "19826701764800000000000",
+      "balances": {
+        "personal": "1651741764800000000000",
+        "adelStaking": "18174960000000000000000",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xa0af659ade8a25bcb020732da52c938d4e706018caa5d6bdb7d0ff5011cb9774",
+      "0x05601a496c707919c8ea35bc817fdf1bbec92b6caf6b2e9ec6a25ecec0a8c616",
+      "0x706bb6116031b1c0ab9cfc845a5c7448ebbb5baaab7888f49482e4ab6bf7f57d",
+      "0x532517cf52a558508d3825d5b3276ec1ac9f4337975f7a5b6d2ae27668a24537",
+      "0x7bbe479e61516cbcb853f809aa20906c41e531e1e0346c8dbafea0e03974599f",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x7b8ea0a8778ca882c6314040f7b7dd6dd9cc77ec": {
+    "snapshot": {
+      "total": "1199952151917534534935",
+      "balances": {
+        "personal": "513391128600000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "562439378628722193645",
+        "Compound DAI": "0",
+        "Curve yPool": "76312625798509687623",
+        "Curve sUSD": "47809018890302653667",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x793d97a1e3bb7730d16e84b51e96064d558c6081ec61210bac571bccd2564ef1",
+      "0x05601a496c707919c8ea35bc817fdf1bbec92b6caf6b2e9ec6a25ecec0a8c616",
+      "0x706bb6116031b1c0ab9cfc845a5c7448ebbb5baaab7888f49482e4ab6bf7f57d",
+      "0x532517cf52a558508d3825d5b3276ec1ac9f4337975f7a5b6d2ae27668a24537",
+      "0x7bbe479e61516cbcb853f809aa20906c41e531e1e0346c8dbafea0e03974599f",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x052d35d356c4a7c07fc538eec4012003341d3919": {
+    "snapshot": {
+      "total": "297135663117656803630",
+      "balances": {
+        "personal": "33210459424847978362",
+        "adelStaking": "259217931589356998111",
+        "adelStakingReward": "4707272103451827157",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x5eae0073e83f9cc3c44433e03947ec358c5666df7134fce38c3108ee00630a87",
+      "0x543736c0d5b171cdce8970ff5a0ae394484e693002a6bb6b306e3d59284f9197",
+      "0x706bb6116031b1c0ab9cfc845a5c7448ebbb5baaab7888f49482e4ab6bf7f57d",
+      "0x532517cf52a558508d3825d5b3276ec1ac9f4337975f7a5b6d2ae27668a24537",
+      "0x7bbe479e61516cbcb853f809aa20906c41e531e1e0346c8dbafea0e03974599f",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x7e2b6a9227554f4e217c591a34df023124b4a83c": {
+    "snapshot": {
+      "total": "4163259190029143101",
+      "balances": {
+        "personal": "0",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "1486169657604069023",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "2677089532425074078",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x3649b0a8ff91f46faa844689048fde74a2695564c9356c107d2583c4c284940e",
+      "0x543736c0d5b171cdce8970ff5a0ae394484e693002a6bb6b306e3d59284f9197",
+      "0x706bb6116031b1c0ab9cfc845a5c7448ebbb5baaab7888f49482e4ab6bf7f57d",
+      "0x532517cf52a558508d3825d5b3276ec1ac9f4337975f7a5b6d2ae27668a24537",
+      "0x7bbe479e61516cbcb853f809aa20906c41e531e1e0346c8dbafea0e03974599f",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x93bb2d258786109439cb268c0a425b314d8abf56": {
+    "snapshot": {
+      "total": "561779256136004196445",
+      "balances": {
+        "personal": "0",
+        "adelStaking": "561779256136004196445",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x9b95ddce43c28de97136938e27654832f8780e0ddf7baf2157391ef2618c2251",
+      "0x1c4b7cb61eccd70b8d4d9e8e377e3f63ce1c24423811ffcf79b109fc7b7255ff",
+      "0x7cb4ab3baeae3556470a174f10f73bf4dae558d6a4921b426b414b7f71f06277",
+      "0x532517cf52a558508d3825d5b3276ec1ac9f4337975f7a5b6d2ae27668a24537",
+      "0x7bbe479e61516cbcb853f809aa20906c41e531e1e0346c8dbafea0e03974599f",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0xa7c141b7d467525ce0ad47d1439bc5198b7fce87": {
+    "snapshot": {
+      "total": "273842890520390694037",
+      "balances": {
+        "personal": "273842890520390694037",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x5bcdcc5dc18e1394a938253fef1328133ae82af2a42c28227fa56da84d802d92",
+      "0x1c4b7cb61eccd70b8d4d9e8e377e3f63ce1c24423811ffcf79b109fc7b7255ff",
+      "0x7cb4ab3baeae3556470a174f10f73bf4dae558d6a4921b426b414b7f71f06277",
+      "0x532517cf52a558508d3825d5b3276ec1ac9f4337975f7a5b6d2ae27668a24537",
+      "0x7bbe479e61516cbcb853f809aa20906c41e531e1e0346c8dbafea0e03974599f",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0xf42311171d213ab9e46afbf960c4cd792fc21704": {
+    "snapshot": {
+      "total": "6439515829305090622571",
+      "balances": {
+        "personal": "0",
+        "adelStaking": "6439515829305090622571",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x8944fdd685bebae5fe866482a066f59108c94f8040678c56287a940eb3f11230",
+      "0x4d9ef532ce1f6c1a07d3797fe278827f4b26f12c64b73c44f7a4635669aab6d9",
+      "0x7cb4ab3baeae3556470a174f10f73bf4dae558d6a4921b426b414b7f71f06277",
+      "0x532517cf52a558508d3825d5b3276ec1ac9f4337975f7a5b6d2ae27668a24537",
+      "0x7bbe479e61516cbcb853f809aa20906c41e531e1e0346c8dbafea0e03974599f",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0xe0a5552ec36ce42ed1e33a01e2d1e64cc2306dda": {
+    "snapshot": {
+      "total": "704530768909582167297",
+      "balances": {
+        "personal": "127547228181551468910",
+        "adelStaking": "516780000000000000000",
+        "adelStakingReward": "9384474533480592817",
+        "akroStakingReward": "50819066194550105570",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x1fa1c90e9309e5415213f71afed80c9138ab7b61cadd12214d32cf5606a53c4e",
+      "0x4d9ef532ce1f6c1a07d3797fe278827f4b26f12c64b73c44f7a4635669aab6d9",
+      "0x7cb4ab3baeae3556470a174f10f73bf4dae558d6a4921b426b414b7f71f06277",
+      "0x532517cf52a558508d3825d5b3276ec1ac9f4337975f7a5b6d2ae27668a24537",
+      "0x7bbe479e61516cbcb853f809aa20906c41e531e1e0346c8dbafea0e03974599f",
+      "0x036078008cf12e139eca3492dd867149b94a51fa92af87301b27789bd3f4886f",
+      "0x73c50dcd39831825a25eaaf7c16ef70ade18039e8b844b4ac95c7b0cc5ccafa9"
+    ]
+  },
+  "0x7a5509e03b1a9d75a4106900f5a014888833dc91": {
+    "snapshot": {
+      "total": "103582876496545098040",
+      "balances": {
+        "personal": "650000000000000000",
+        "adelStaking": "73650000000000000000",
+        "adelStakingReward": "1337448332735101321",
+        "akroStakingReward": "27945428163809996719",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x32c0712ec73a25babd1f4272273fe908af7a733b8160a2ef1e248b23b098c98c",
+      "0xf0204e6fdc04e56a2a0df441b0e85539ba67d71eb3ac96717c99a4b6e443c435",
+      "0x78c19e20d5fff10a2d048e914dfccfebfa75d0eb61718a4d183304dbf6280223",
+      "0x6e111399ebe877637c0d1d9e428f354d1a413f93ebc0543e8de81f2e825169d9",
+      "0x1c2cd8b41622915d6b9191182c2da7f0881c9dbc833845d307a1a606907f0f58",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x770051cf07e21993fee5f920ab7963126c133082": {
+    "snapshot": {
+      "total": "6633918088447476797989",
+      "balances": {
+        "personal": "612166427871210500899",
+        "adelStaking": "5935921505652999028248",
+        "adelStakingReward": "0",
+        "akroStakingReward": "85830154923267268842",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xe9dd7092cba15a10c875215875b452ea5b2e810442838fdc148b6ec073bb0816",
+      "0xf0204e6fdc04e56a2a0df441b0e85539ba67d71eb3ac96717c99a4b6e443c435",
+      "0x78c19e20d5fff10a2d048e914dfccfebfa75d0eb61718a4d183304dbf6280223",
+      "0x6e111399ebe877637c0d1d9e428f354d1a413f93ebc0543e8de81f2e825169d9",
+      "0x1c2cd8b41622915d6b9191182c2da7f0881c9dbc833845d307a1a606907f0f58",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xd78aa5944633c5d0590fbbbe3f1cddde63799ad4": {
+    "snapshot": {
+      "total": "113318593953564284365",
+      "balances": {
+        "personal": "590000000000000000",
+        "adelStaking": "86385000000000000000",
+        "adelStakingReward": "1568709765421883605",
+        "akroStakingReward": "24774884188142400760",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xcaa7640f87d29eedd6b213cb5f442f5f79f139b79d6e96129f09b6d0c07dae5d",
+      "0x3b9fc012de3e015f5a56376ca24f771b75591cb8a60e30357b2b16dcc0707f45",
+      "0x78c19e20d5fff10a2d048e914dfccfebfa75d0eb61718a4d183304dbf6280223",
+      "0x6e111399ebe877637c0d1d9e428f354d1a413f93ebc0543e8de81f2e825169d9",
+      "0x1c2cd8b41622915d6b9191182c2da7f0881c9dbc833845d307a1a606907f0f58",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x929f472b2296ca57868acc3beae4ab4ca13a6000": {
+    "snapshot": {
+      "total": "29573722787900401083",
+      "balances": {
+        "personal": "29573722787900401083",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x02b25f8ee62dcccc7d9c408709a09bf9bb25fe7b52090573aabbb1d2975723dc",
+      "0x3b9fc012de3e015f5a56376ca24f771b75591cb8a60e30357b2b16dcc0707f45",
+      "0x78c19e20d5fff10a2d048e914dfccfebfa75d0eb61718a4d183304dbf6280223",
+      "0x6e111399ebe877637c0d1d9e428f354d1a413f93ebc0543e8de81f2e825169d9",
+      "0x1c2cd8b41622915d6b9191182c2da7f0881c9dbc833845d307a1a606907f0f58",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x6221d51b7dafdbdfc8dc0c40e2265d1557ed90a0": {
+    "snapshot": {
+      "total": "56753259893076544253",
+      "balances": {
+        "personal": "1892517831733427004",
+        "adelStaking": "54860742061343117249",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x653f112ff073a184ea456b3623d65e4bc4692d26415393130d8de33f77d5a965",
+      "0x3a197ce579171a8edf6c00193fb55d67d91c6c266a055880e6e7fd80221b409d",
+      "0xac40b8c7f7067a451d4899aecf77fc12b6e4cf663d8a097fbc2e2d50ad0e1009",
+      "0x6e111399ebe877637c0d1d9e428f354d1a413f93ebc0543e8de81f2e825169d9",
+      "0x1c2cd8b41622915d6b9191182c2da7f0881c9dbc833845d307a1a606907f0f58",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x5907f6596de3235d9a1ddcf4e23535257e88d592": {
+    "snapshot": {
+      "total": "61249795190613093287",
+      "balances": {
+        "personal": "754858151410802838",
+        "adelStaking": "60494937039202290449",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xa89fc70c752678016ff05b21446542ddafc8efc7325f221909bd3db3c4fd9310",
+      "0x3a197ce579171a8edf6c00193fb55d67d91c6c266a055880e6e7fd80221b409d",
+      "0xac40b8c7f7067a451d4899aecf77fc12b6e4cf663d8a097fbc2e2d50ad0e1009",
+      "0x6e111399ebe877637c0d1d9e428f354d1a413f93ebc0543e8de81f2e825169d9",
+      "0x1c2cd8b41622915d6b9191182c2da7f0881c9dbc833845d307a1a606907f0f58",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xc53e7040ce1d891d59f67cd2dff36b32d4db1f80": {
+    "snapshot": {
+      "total": "95311904791686667797",
+      "balances": {
+        "personal": "12200000000000000000",
+        "adelStaking": "81580000000000000000",
+        "adelStakingReward": "1481453292390082358",
+        "akroStakingReward": "50451499296585439",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xecca4cd40f85f00679157a642c8b092028ae4f2b4d16f6073d7950d66074ae7a",
+      "0x0a7ea424c4943277d18107c653ea3ede3e1631addec704fee4535d6785707d1f",
+      "0xac40b8c7f7067a451d4899aecf77fc12b6e4cf663d8a097fbc2e2d50ad0e1009",
+      "0x6e111399ebe877637c0d1d9e428f354d1a413f93ebc0543e8de81f2e825169d9",
+      "0x1c2cd8b41622915d6b9191182c2da7f0881c9dbc833845d307a1a606907f0f58",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xe9fa9a9d648f558d46c055b0acae6d4f534df1aa": {
+    "snapshot": {
+      "total": "342035309058537758343",
+      "balances": {
+        "personal": "28564686808077527821",
+        "adelStaking": "313052163902450823714",
+        "adelStakingReward": "418458348009406808",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x5c724a8edca7d1a89ad96a82d916002133d0a9abcda6393cca4675e8b4371d82",
+      "0x0a7ea424c4943277d18107c653ea3ede3e1631addec704fee4535d6785707d1f",
+      "0xac40b8c7f7067a451d4899aecf77fc12b6e4cf663d8a097fbc2e2d50ad0e1009",
+      "0x6e111399ebe877637c0d1d9e428f354d1a413f93ebc0543e8de81f2e825169d9",
+      "0x1c2cd8b41622915d6b9191182c2da7f0881c9dbc833845d307a1a606907f0f58",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x9fb4e69bdbbeee2d4b59d01118923b84d9b30b80": {
+    "snapshot": {
+      "total": "246941879274664432287",
+      "balances": {
+        "personal": "240000000000000000",
+        "adelStaking": "242301796001335087374",
+        "adelStakingReward": "4400083273329344913",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xcf890451fd0ccee9f0dd68b865b83f467d9d497c74ad6b3585c92f1429fb788d",
+      "0xce17bd2bac0ce92f296168ec701b03b08f03e3ff4fe9c2b278e6396311700d3c",
+      "0x5e0501152039728bbcefd6fd10a07b4f2d8f391511c8df129fa033580d676aec",
+      "0x3ebb7beaf325cb4ca7e559a53f6c1a3a77bcf13c56476c6507baab6aee8c202b",
+      "0x1c2cd8b41622915d6b9191182c2da7f0881c9dbc833845d307a1a606907f0f58",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x67922a9561423548a9ccfd67ad80d6c637c26bfe": {
+    "snapshot": {
+      "total": "2452548946057190655072",
+      "balances": {
+        "personal": "223018609381870388636",
+        "adelStaking": "2229530336675320266436",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x59b8f254a020793c66fef94413982eb2dec162c83a485661b5c241a95394c5af",
+      "0xce17bd2bac0ce92f296168ec701b03b08f03e3ff4fe9c2b278e6396311700d3c",
+      "0x5e0501152039728bbcefd6fd10a07b4f2d8f391511c8df129fa033580d676aec",
+      "0x3ebb7beaf325cb4ca7e559a53f6c1a3a77bcf13c56476c6507baab6aee8c202b",
+      "0x1c2cd8b41622915d6b9191182c2da7f0881c9dbc833845d307a1a606907f0f58",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x202cb437b827b8a21f5ce747b2325ba8158a1667": {
+    "snapshot": {
+      "total": "102301932736114742431",
+      "balances": {
+        "personal": "102301932736114742431",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x5daaee7041e34e0049bbc8e44ab8c84b2016efbfb6bd61961d370ec6edf4aacb",
+      "0xb0e09d6a324d2f9e3c6bbbc3485301c352c0420c8a6f2d984d4674428ced0523",
+      "0x5e0501152039728bbcefd6fd10a07b4f2d8f391511c8df129fa033580d676aec",
+      "0x3ebb7beaf325cb4ca7e559a53f6c1a3a77bcf13c56476c6507baab6aee8c202b",
+      "0x1c2cd8b41622915d6b9191182c2da7f0881c9dbc833845d307a1a606907f0f58",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xc3e20f2873a957ee88ce42d36796e35c072d3037": {
+    "snapshot": {
+      "total": "440000000000000000",
+      "balances": {
+        "personal": "440000000000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xa8441f673b370952090b0fe8283aa129f07c53167165fb4698eaa34f06ef8466",
+      "0xb0e09d6a324d2f9e3c6bbbc3485301c352c0420c8a6f2d984d4674428ced0523",
+      "0x5e0501152039728bbcefd6fd10a07b4f2d8f391511c8df129fa033580d676aec",
+      "0x3ebb7beaf325cb4ca7e559a53f6c1a3a77bcf13c56476c6507baab6aee8c202b",
+      "0x1c2cd8b41622915d6b9191182c2da7f0881c9dbc833845d307a1a606907f0f58",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x6806d45314ca420e29035c926426e14c6dbe9154": {
+    "snapshot": {
+      "total": "5047867707012788206127",
+      "balances": {
+        "personal": "1065881540300000000000",
+        "adelStaking": "3113000000000000000000",
+        "adelStakingReward": "56530572434546780932",
+        "akroStakingReward": "812455594278241425195",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x6bd312eae4b24a34322586a4e32c440a7b5d776acfced6cab4d65d968831d44e",
+      "0x5bab2ee1e9962981e3f686d08ab63e7192efee0c410960dfae7d4c6bf35f163d",
+      "0xd994725928aea73bf3aafe7de8a4bc062bc79114cb881e7a6353555b56117b1b",
+      "0x3ebb7beaf325cb4ca7e559a53f6c1a3a77bcf13c56476c6507baab6aee8c202b",
+      "0x1c2cd8b41622915d6b9191182c2da7f0881c9dbc833845d307a1a606907f0f58",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x6e37d29b046598fceb6a7c7e0da6a0af01ccbda5": {
+    "snapshot": {
+      "total": "12182301094404660717",
+      "balances": {
+        "personal": "157261406130155835",
+        "adelStaking": "12025039688274504882",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xee0e979263ad59e27fcf2be4ed68d198c97ccf45fd79f5e1acca7e0f767fa760",
+      "0x5bab2ee1e9962981e3f686d08ab63e7192efee0c410960dfae7d4c6bf35f163d",
+      "0xd994725928aea73bf3aafe7de8a4bc062bc79114cb881e7a6353555b56117b1b",
+      "0x3ebb7beaf325cb4ca7e559a53f6c1a3a77bcf13c56476c6507baab6aee8c202b",
+      "0x1c2cd8b41622915d6b9191182c2da7f0881c9dbc833845d307a1a606907f0f58",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xa6adedd1adc8237ac8c5d3009cc5d4b90fc0a8cf": {
+    "snapshot": {
+      "total": "381922386214793959737",
+      "balances": {
+        "personal": "750000000000000000",
+        "adelStaking": "371999577155295854117",
+        "adelStakingReward": "4507869680391140251",
+        "akroStakingReward": "4664939379106965369",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x9ff6c3238191f79aef8a6bb81c970bd5af86acb2ddc562f39531032195bc35e4",
+      "0xd1b4e2355300dbefdcdba98d068ac4037e4b54d972dd91f0dac81e8ac7eccaee",
+      "0xd994725928aea73bf3aafe7de8a4bc062bc79114cb881e7a6353555b56117b1b",
+      "0x3ebb7beaf325cb4ca7e559a53f6c1a3a77bcf13c56476c6507baab6aee8c202b",
+      "0x1c2cd8b41622915d6b9191182c2da7f0881c9dbc833845d307a1a606907f0f58",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xd5213b83c7e3bcf71808b12f5d6b5a10c2ce5401": {
+    "snapshot": {
+      "total": "5392833154260586332785",
+      "balances": {
+        "personal": "1291593154260586332785",
+        "adelStaking": "4101240000000000000000",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x71b8ebb1af4607a93f198c35dfabf3c8772d1985ae3aac5dcf2228156dd455fb",
+      "0xd1b4e2355300dbefdcdba98d068ac4037e4b54d972dd91f0dac81e8ac7eccaee",
+      "0xd994725928aea73bf3aafe7de8a4bc062bc79114cb881e7a6353555b56117b1b",
+      "0x3ebb7beaf325cb4ca7e559a53f6c1a3a77bcf13c56476c6507baab6aee8c202b",
+      "0x1c2cd8b41622915d6b9191182c2da7f0881c9dbc833845d307a1a606907f0f58",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x7deadcee585c04cd53c390d960d305f9ac0ac56c": {
+    "snapshot": {
+      "total": "643699498637685876928",
+      "balances": {
+        "personal": "620000000000000000",
+        "adelStaking": "635380000000000000000",
+        "adelStakingReward": "7699498637685876928",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x7e72c380d133ccc97b634cfd1d65750c4617e5a996ad4d701d87ce7b13890ff4",
+      "0xbe8514151910ba3c64c6c7114d28d30c4984f1653f4eb74e3a62591a3c64474f",
+      "0x5d33829b6d2090b8cc77c3ae73b00982b86ba399d6622e9e0ba79277ac46895a",
+      "0x667e8251db0172fc92b3527df58b8d57e48df8cdad309e4fcba92fd0c0ae8a90",
+      "0xdc0994c538e7cafd740d4a37e9a6678522c434845c987408efe44ef1a59d076e",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x9b4be1d746ec4ee903efe4ff74cbd7850b50d767": {
+    "snapshot": {
+      "total": "151831547289651550671",
+      "balances": {
+        "personal": "300000000000000000",
+        "adelStaking": "141690000000000000000",
+        "adelStakingReward": "1716991346869136424",
+        "akroStakingReward": "8124555942782414247",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xf37eb3bffa14d80a59d424b8972773e8676236ae8f513e6b7f39fef70191afda",
+      "0xbe8514151910ba3c64c6c7114d28d30c4984f1653f4eb74e3a62591a3c64474f",
+      "0x5d33829b6d2090b8cc77c3ae73b00982b86ba399d6622e9e0ba79277ac46895a",
+      "0x667e8251db0172fc92b3527df58b8d57e48df8cdad309e4fcba92fd0c0ae8a90",
+      "0xdc0994c538e7cafd740d4a37e9a6678522c434845c987408efe44ef1a59d076e",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x164d39d1db5ec3b4472a18f0e588f0c1f0d98d9e": {
+    "snapshot": {
+      "total": "3470000000000000000",
+      "balances": {
+        "personal": "3470000000000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x54bb521deedab4233c11efd872c2f20f81235bbd0130783413a8a049d1d9c4b8",
+      "0x482cc98e74e64978adec284cb6995ae83fa753cb02f5bf8bc8b09ce400039bb8",
+      "0x5d33829b6d2090b8cc77c3ae73b00982b86ba399d6622e9e0ba79277ac46895a",
+      "0x667e8251db0172fc92b3527df58b8d57e48df8cdad309e4fcba92fd0c0ae8a90",
+      "0xdc0994c538e7cafd740d4a37e9a6678522c434845c987408efe44ef1a59d076e",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x95b2a2e56bf05b54030e3713c783b35f8ff6a48f": {
+    "snapshot": {
+      "total": "4027928598734676145029",
+      "balances": {
+        "personal": "4027928598734676145029",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x3359310e10c05a890fcaedb75110a320bf92487b939c65f1dc0d62880c806e65",
+      "0x482cc98e74e64978adec284cb6995ae83fa753cb02f5bf8bc8b09ce400039bb8",
+      "0x5d33829b6d2090b8cc77c3ae73b00982b86ba399d6622e9e0ba79277ac46895a",
+      "0x667e8251db0172fc92b3527df58b8d57e48df8cdad309e4fcba92fd0c0ae8a90",
+      "0xdc0994c538e7cafd740d4a37e9a6678522c434845c987408efe44ef1a59d076e",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xaeabbc98b002f555c3e67c21c3da813d005c8656": {
+    "snapshot": {
+      "total": "37827530102565014570",
+      "balances": {
+        "personal": "7467896312454900903",
+        "adelStaking": "30359633790110113667",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x8f7f66033fd1005a1a45e25524722b47f09b0083b1789a7d5b0fa7e8a4cc50c1",
+      "0x0853ecb3ad08b086c4b353451f2712efb102022518d324639060db6d9f698713",
+      "0x8ede1981c20348fdce700788a500cefb14538ffe062d7b1f4736304a0b155812",
+      "0x667e8251db0172fc92b3527df58b8d57e48df8cdad309e4fcba92fd0c0ae8a90",
+      "0xdc0994c538e7cafd740d4a37e9a6678522c434845c987408efe44ef1a59d076e",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x4e547d0408ad6d35fdca30ca63ce9ed8a148940c": {
+    "snapshot": {
+      "total": "3402506286579124106169",
+      "balances": {
+        "personal": "1817224665036682660885",
+        "adelStaking": "1245210000000000000000",
+        "adelStakingReward": "15089383831144875210",
+        "akroStakingReward": "324982237711296570074",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x6ae1b6b9fb0e8c6f703cfca0b11b559c2cdcaee04eb519aa5e72f8648db5d134",
+      "0x0853ecb3ad08b086c4b353451f2712efb102022518d324639060db6d9f698713",
+      "0x8ede1981c20348fdce700788a500cefb14538ffe062d7b1f4736304a0b155812",
+      "0x667e8251db0172fc92b3527df58b8d57e48df8cdad309e4fcba92fd0c0ae8a90",
+      "0xdc0994c538e7cafd740d4a37e9a6678522c434845c987408efe44ef1a59d076e",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x3b36451f975f070b4d509a471789015a1f9aa6ce": {
+    "snapshot": {
+      "total": "383006746432149618455",
+      "balances": {
+        "personal": "710000000000000000",
+        "adelStaking": "366786416770789422566",
+        "adelStakingReward": "4444696899884128303",
+        "akroStakingReward": "11065632761476067586",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xb46b5c1f1b62bfc82535007fb6feb17ec43a524623a0b346ee9a0fa369831c1e",
+      "0x0d859805c4cb4430f231ea4517be5878e6852f7da38d1e62d5642fd69d5116b5",
+      "0x8ede1981c20348fdce700788a500cefb14538ffe062d7b1f4736304a0b155812",
+      "0x667e8251db0172fc92b3527df58b8d57e48df8cdad309e4fcba92fd0c0ae8a90",
+      "0xdc0994c538e7cafd740d4a37e9a6678522c434845c987408efe44ef1a59d076e",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xfc2755e9829520665f592ed1ddca87be6793d2ec": {
+    "snapshot": {
+      "total": "216136434072429862976",
+      "balances": {
+        "personal": "570000000000000000",
+        "adelStaking": "206557705893378789526",
+        "adelStakingReward": "2503054510890475025",
+        "akroStakingReward": "6505673668160598425",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x592dbc33c80e63ab17e5e5f7b49726f60267355c0f57ce445f47c35b013ddc65",
+      "0x0d859805c4cb4430f231ea4517be5878e6852f7da38d1e62d5642fd69d5116b5",
+      "0x8ede1981c20348fdce700788a500cefb14538ffe062d7b1f4736304a0b155812",
+      "0x667e8251db0172fc92b3527df58b8d57e48df8cdad309e4fcba92fd0c0ae8a90",
+      "0xdc0994c538e7cafd740d4a37e9a6678522c434845c987408efe44ef1a59d076e",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x0db20b0d097981a6b9968699a12353669a6383d9": {
+    "snapshot": {
+      "total": "500403538290677352618",
+      "balances": {
+        "personal": "0",
+        "adelStaking": "500403538290677352618",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xe77643fbaf7eff357e6141d5e90f37f85d2725d46584e48824dc30caf05c43c2",
+      "0xd526e5d04821b3f379f15b6b10cd646f39f05d9d6b103223223c27bd323aff2a",
+      "0x743bc02ae303c59766b674234d766eba192b870385717d49c2bee7b0bc580e9b",
+      "0x88b26a55d642707606ccf62132046820569a5c87fcc7d6ff7fc60c6968ae393e",
+      "0xdc0994c538e7cafd740d4a37e9a6678522c434845c987408efe44ef1a59d076e",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x08ae17bab5ae4237a3e25098b406961c2b81609f": {
+    "snapshot": {
+      "total": "620000000000000000",
+      "balances": {
+        "personal": "620000000000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x471eee9f0a91abef8bf1e9de67a07e3146a4d5a451ff5baf83fb9349085d9833",
+      "0xd526e5d04821b3f379f15b6b10cd646f39f05d9d6b103223223c27bd323aff2a",
+      "0x743bc02ae303c59766b674234d766eba192b870385717d49c2bee7b0bc580e9b",
+      "0x88b26a55d642707606ccf62132046820569a5c87fcc7d6ff7fc60c6968ae393e",
+      "0xdc0994c538e7cafd740d4a37e9a6678522c434845c987408efe44ef1a59d076e",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x5fad77e5a483aad5a775c9e2fc4bbf5182e2ee7a": {
+    "snapshot": {
+      "total": "1132794534539370803347",
+      "balances": {
+        "personal": "62985868764505412692",
+        "adelStaking": "1057000000000000000000",
+        "adelStakingReward": "12808665774865390655",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xdd38b8a786224526b939afd763025ec45eb99cef1d27f69cd6a42af1b926e711",
+      "0xcaa116c29214e0baf6bf9398002fbdcfde8be6499506d7b33191499df780b3ca",
+      "0x743bc02ae303c59766b674234d766eba192b870385717d49c2bee7b0bc580e9b",
+      "0x88b26a55d642707606ccf62132046820569a5c87fcc7d6ff7fc60c6968ae393e",
+      "0xdc0994c538e7cafd740d4a37e9a6678522c434845c987408efe44ef1a59d076e",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xe89f71e91dafec474ae97b8baa53029b30a5e9ec": {
+    "snapshot": {
+      "total": "29364677169481858093",
+      "balances": {
+        "personal": "29364677169481858093",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x346b087a2aeb74a6d19b92da38f0a68a8e66953eb612d6caa5470574463fabe1",
+      "0xcaa116c29214e0baf6bf9398002fbdcfde8be6499506d7b33191499df780b3ca",
+      "0x743bc02ae303c59766b674234d766eba192b870385717d49c2bee7b0bc580e9b",
+      "0x88b26a55d642707606ccf62132046820569a5c87fcc7d6ff7fc60c6968ae393e",
+      "0xdc0994c538e7cafd740d4a37e9a6678522c434845c987408efe44ef1a59d076e",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xa59e113fbef3b4129baef6b5355dff683851afa7": {
+    "snapshot": {
+      "total": "60867074633660098307",
+      "balances": {
+        "personal": "6654153274815079708",
+        "adelStaking": "53563837824022878465",
+        "adelStakingReward": "649083534822140134",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x24e1b2d48b8cffeb2f96838e13fd1266f2f7ed0229d211922c53294fa7560f29",
+      "0x34a3c68bcb6fd52be3ccfc642a67c4307c091920460e4dde7ffa95cd98a84463",
+      "0x7698506b53054b9cfc0675c99c5d80816c67d89be8fbed3cfa705b1d7ff9fba5",
+      "0x88b26a55d642707606ccf62132046820569a5c87fcc7d6ff7fc60c6968ae393e",
+      "0xdc0994c538e7cafd740d4a37e9a6678522c434845c987408efe44ef1a59d076e",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xd09753a6188592d5e41b207f81184749b3302d9e": {
+    "snapshot": {
+      "total": "14724190707732747552",
+      "balances": {
+        "personal": "0",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "14724190707732747552",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x5e70935222eaf1cea8fcab2265ebf9f0944ab7c3e30b3bcc384538e175569792",
+      "0x34a3c68bcb6fd52be3ccfc642a67c4307c091920460e4dde7ffa95cd98a84463",
+      "0x7698506b53054b9cfc0675c99c5d80816c67d89be8fbed3cfa705b1d7ff9fba5",
+      "0x88b26a55d642707606ccf62132046820569a5c87fcc7d6ff7fc60c6968ae393e",
+      "0xdc0994c538e7cafd740d4a37e9a6678522c434845c987408efe44ef1a59d076e",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xc149d68d58b83cb2c612f882bbc0eb3b2b473a9a": {
+    "snapshot": {
+      "total": "2005105541629988608424",
+      "balances": {
+        "personal": "0",
+        "adelStaking": "2005105541629988608424",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x20a6edf4395170caa518b8885670b5bd2add340e7d3b9cf465ea9816a235ebd1",
+      "0xbfce453f827f6346aadb8ef616fa12231c1d4a9884c538ebb34d8a43f74892ef",
+      "0x7698506b53054b9cfc0675c99c5d80816c67d89be8fbed3cfa705b1d7ff9fba5",
+      "0x88b26a55d642707606ccf62132046820569a5c87fcc7d6ff7fc60c6968ae393e",
+      "0xdc0994c538e7cafd740d4a37e9a6678522c434845c987408efe44ef1a59d076e",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x199819f4de70e3da056dc131724358255a7cb337": {
+    "snapshot": {
+      "total": "511975281262605417935",
+      "balances": {
+        "personal": "900000000000000000",
+        "adelStaking": "500000000000000000000",
+        "adelStakingReward": "6058971511289210337",
+        "akroStakingReward": "5016309751316207598",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x132ace42716d1e1794e976c664da3316a2a902ef36e1018ba61f0a98ffcefa75",
+      "0xbfce453f827f6346aadb8ef616fa12231c1d4a9884c538ebb34d8a43f74892ef",
+      "0x7698506b53054b9cfc0675c99c5d80816c67d89be8fbed3cfa705b1d7ff9fba5",
+      "0x88b26a55d642707606ccf62132046820569a5c87fcc7d6ff7fc60c6968ae393e",
+      "0xdc0994c538e7cafd740d4a37e9a6678522c434845c987408efe44ef1a59d076e",
+      "0x1739974deacd56d18cc625e6f63730c8b0f0080df96fc1953f211e4a87b54054",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x37a64bdeb4dbfb32d1a6f5c1833af0e550c6d185": {
+    "snapshot": {
+      "total": "527595530428962096814",
+      "balances": {
+        "personal": "0",
+        "adelStaking": "527595530428962096814",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xd9580e67db199d49b13921f504636133f9770fe14752b515319fd8a444914fa8",
+      "0xdd85ee33f7471e31f29dcbce03a3ce15ffec2aad67e1adba9c52aae14ffcb574",
+      "0x3ca4add7d1e80047c19d3413a1a3ad381509aab7d9b940deb7ea7dcc17d7e77f",
+      "0x3099bad04be86747a1588acf6d361a0dc00e85988b687138d8c4a933d6efa521",
+      "0x6e1d845943fdbc036a61a91b4e1c2ad39998a8c0a035921b1e4e24e251a9dd11",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x88fc2463ebce09822819d5fde8f0c57b95994230": {
+    "snapshot": {
+      "total": "430000000000000000",
+      "balances": {
+        "personal": "430000000000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x192092b3f1b612736ff2740ca06b4e6a241ea9c327fd322552cc1b1a310709de",
+      "0xdd85ee33f7471e31f29dcbce03a3ce15ffec2aad67e1adba9c52aae14ffcb574",
+      "0x3ca4add7d1e80047c19d3413a1a3ad381509aab7d9b940deb7ea7dcc17d7e77f",
+      "0x3099bad04be86747a1588acf6d361a0dc00e85988b687138d8c4a933d6efa521",
+      "0x6e1d845943fdbc036a61a91b4e1c2ad39998a8c0a035921b1e4e24e251a9dd11",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x73d06d94ae19bf1489a1e3d45c5473ac86dad599": {
+    "snapshot": {
+      "total": "209034600739261422222",
+      "balances": {
+        "personal": "20274604365550546768",
+        "adelStaking": "186500000000000000000",
+        "adelStakingReward": "2259996373710875454",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x93fc1b3b84550c5192af7c13ed859790b6b430e87a2ab2d3cbde38b314cadef0",
+      "0x42b144ad79f1e742549ea8b63b774f2d259dc3564086b2bffecf19faad3d640d",
+      "0x3ca4add7d1e80047c19d3413a1a3ad381509aab7d9b940deb7ea7dcc17d7e77f",
+      "0x3099bad04be86747a1588acf6d361a0dc00e85988b687138d8c4a933d6efa521",
+      "0x6e1d845943fdbc036a61a91b4e1c2ad39998a8c0a035921b1e4e24e251a9dd11",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xaeeabd35c92f979945f11a298f709f33d084d1b5": {
+    "snapshot": {
+      "total": "6580044743373425538065",
+      "balances": {
+        "personal": "7256994139279108899",
+        "adelStaking": "6504387249175549525755",
+        "adelStakingReward": "0",
+        "akroStakingReward": "68400500058596903411",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xc38906ac4524d9c67f3b2763f0f623e6a492f97f4482ef611c43784d7f897140",
+      "0x42b144ad79f1e742549ea8b63b774f2d259dc3564086b2bffecf19faad3d640d",
+      "0x3ca4add7d1e80047c19d3413a1a3ad381509aab7d9b940deb7ea7dcc17d7e77f",
+      "0x3099bad04be86747a1588acf6d361a0dc00e85988b687138d8c4a933d6efa521",
+      "0x6e1d845943fdbc036a61a91b4e1c2ad39998a8c0a035921b1e4e24e251a9dd11",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x08552cf44954c4ba5c0e6da22593fcb159870315": {
+    "snapshot": {
+      "total": "1136200715882596909492",
+      "balances": {
+        "personal": "6520000000000000000",
+        "adelStaking": "1050772440964713304243",
+        "adelStakingReward": "12733200569306043039",
+        "akroStakingReward": "66175074348577562210",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xafe1f8ae4e34659a5cc46c73a0ac981d56a697cea2f1803a8e2015c64031ce92",
+      "0x3beb2bc5b7b6653e30578bb6cc632e7ad6e1d6ca05ad1ef00212113852894176",
+      "0x09bc1f4884a0d4ab9e2b1889ea9f5996219addce0ff4082b8737b46eba7fe6d0",
+      "0x3099bad04be86747a1588acf6d361a0dc00e85988b687138d8c4a933d6efa521",
+      "0x6e1d845943fdbc036a61a91b4e1c2ad39998a8c0a035921b1e4e24e251a9dd11",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xfe58ac51dd3d82a5d1c965a87614cc018a3aa278": {
+    "snapshot": {
+      "total": "16276904026192",
+      "balances": {
+        "personal": "16276904026192",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xc9e6acc17baa527d178d6b9fd248c4218b66596cebbfb2da7f08a1adb638432e",
+      "0x3beb2bc5b7b6653e30578bb6cc632e7ad6e1d6ca05ad1ef00212113852894176",
+      "0x09bc1f4884a0d4ab9e2b1889ea9f5996219addce0ff4082b8737b46eba7fe6d0",
+      "0x3099bad04be86747a1588acf6d361a0dc00e85988b687138d8c4a933d6efa521",
+      "0x6e1d845943fdbc036a61a91b4e1c2ad39998a8c0a035921b1e4e24e251a9dd11",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x7018ffc9b3198aa706e55ccca17c5a7010df540e": {
+    "snapshot": {
+      "total": "515557219858669367769",
+      "balances": {
+        "personal": "3237117613997954757",
+        "adelStaking": "512320102244671413012",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x55ef9491662e13b4fe32a2bb29054a9444ffeeec61871c847793360a8a565583",
+      "0x8a5bfb7e060777cdb4eadf0cecf23c152c95896bfd61f775e6ab6deab062ad70",
+      "0x09bc1f4884a0d4ab9e2b1889ea9f5996219addce0ff4082b8737b46eba7fe6d0",
+      "0x3099bad04be86747a1588acf6d361a0dc00e85988b687138d8c4a933d6efa521",
+      "0x6e1d845943fdbc036a61a91b4e1c2ad39998a8c0a035921b1e4e24e251a9dd11",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xb462fb0098f104e88837a46e5f4fdfb5ebff7d96": {
+    "snapshot": {
+      "total": "6369000000000000857958",
+      "balances": {
+        "personal": "0",
+        "adelStaking": "6369000000000000857958",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x04a40a3ff13c023eac4d9357039563d8a80b6214d678529b756370d4c3875a9c",
+      "0x8a5bfb7e060777cdb4eadf0cecf23c152c95896bfd61f775e6ab6deab062ad70",
+      "0x09bc1f4884a0d4ab9e2b1889ea9f5996219addce0ff4082b8737b46eba7fe6d0",
+      "0x3099bad04be86747a1588acf6d361a0dc00e85988b687138d8c4a933d6efa521",
+      "0x6e1d845943fdbc036a61a91b4e1c2ad39998a8c0a035921b1e4e24e251a9dd11",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x69e4ca33ea6aba47b7c17630a32a91d3522682b7": {
+    "snapshot": {
+      "total": "203639238648718131171",
+      "balances": {
+        "personal": "4221640334979504947",
+        "adelStaking": "197030000000000000000",
+        "adelStakingReward": "2387598313738626224",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xa10c7ab09c5cb73f03c2cb4e2054fc2f040f772be0b7929cfe7780dd6406d7b9",
+      "0x2c6dc0f27a9fc2c33e6fa32297aff3b920e0961882205913a0433660bdefce73",
+      "0x46ca217cb434c38d6adc335ef998047c3e07c7e1e4eccd546092cafb11d9ca02",
+      "0x8fc3b83891f74f2d097b6dfc190b211c2228e401ee20e26b02599788c45c7290",
+      "0x6e1d845943fdbc036a61a91b4e1c2ad39998a8c0a035921b1e4e24e251a9dd11",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xcc22fff5092fbbb7e90aebbd3ed5cdd8c3a20a1f": {
+    "snapshot": {
+      "total": "75877153363318888271",
+      "balances": {
+        "personal": "1348194114793758906",
+        "adelStaking": "67888625643938276646",
+        "adelStakingReward": "0",
+        "akroStakingReward": "6640333604586852719",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x0d7119dc15d8c2ec27664534d76619212a3136f04f0615460afba428c04d92f5",
+      "0x2c6dc0f27a9fc2c33e6fa32297aff3b920e0961882205913a0433660bdefce73",
+      "0x46ca217cb434c38d6adc335ef998047c3e07c7e1e4eccd546092cafb11d9ca02",
+      "0x8fc3b83891f74f2d097b6dfc190b211c2228e401ee20e26b02599788c45c7290",
+      "0x6e1d845943fdbc036a61a91b4e1c2ad39998a8c0a035921b1e4e24e251a9dd11",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xe5546ea6535859c5d16373ecabde6de89fb2a4ce": {
+    "snapshot": {
+      "total": "95466969022201160828",
+      "balances": {
+        "personal": "1460000000000000000",
+        "adelStaking": "94006969022201160828",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xfb5d786e78aa299154ead3c087f361297e3efc19f8d4254df18f1cd2d24c2923",
+      "0xeb2296dfa2ed690d3b15fca43c4eaab5200fd744f630de25eb7ae43daa38f0fd",
+      "0x46ca217cb434c38d6adc335ef998047c3e07c7e1e4eccd546092cafb11d9ca02",
+      "0x8fc3b83891f74f2d097b6dfc190b211c2228e401ee20e26b02599788c45c7290",
+      "0x6e1d845943fdbc036a61a91b4e1c2ad39998a8c0a035921b1e4e24e251a9dd11",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xf35147a9a2b5eeb9aa64fcd0b911f977ed00a83c": {
+    "snapshot": {
+      "total": "1400000000000000000",
+      "balances": {
+        "personal": "1400000000000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xc180944f87e81020404e59acda9b9ed5e5b0d88acf3e737555b71257d68f13a1",
+      "0xeb2296dfa2ed690d3b15fca43c4eaab5200fd744f630de25eb7ae43daa38f0fd",
+      "0x46ca217cb434c38d6adc335ef998047c3e07c7e1e4eccd546092cafb11d9ca02",
+      "0x8fc3b83891f74f2d097b6dfc190b211c2228e401ee20e26b02599788c45c7290",
+      "0x6e1d845943fdbc036a61a91b4e1c2ad39998a8c0a035921b1e4e24e251a9dd11",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xf6e31f365a7f1de3e7e9d74180cbbc22d9843769": {
+    "snapshot": {
+      "total": "202694558039957490407",
+      "balances": {
+        "personal": "190000000000000000",
+        "adelStaking": "200080000000000000000",
+        "adelStakingReward": "2424558039957490407",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xf92db344c32bededa0d4fd2c4e166f08899a0cb6516bfba31e8fec7f2c593f39",
+      "0x40a42581fee8098b9c665afc55340e0fd3b59682fcd06f5ad81e68e53c3be7d0",
+      "0x58fab9afbf0b0db2e7a1f1e2c819aab26b567e8fc804e955805b07497ed60ce7",
+      "0x8fc3b83891f74f2d097b6dfc190b211c2228e401ee20e26b02599788c45c7290",
+      "0x6e1d845943fdbc036a61a91b4e1c2ad39998a8c0a035921b1e4e24e251a9dd11",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x97a7565d976fbabc1e2897e6eec152599508358d": {
+    "snapshot": {
+      "total": "1872144539209984566290",
+      "balances": {
+        "personal": "0",
+        "adelStaking": "1872144539209984566290",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xe8abfe1fcde956e59ab89b01a86ea0c4a2770e3743993a0d51796e2252951502",
+      "0x40a42581fee8098b9c665afc55340e0fd3b59682fcd06f5ad81e68e53c3be7d0",
+      "0x58fab9afbf0b0db2e7a1f1e2c819aab26b567e8fc804e955805b07497ed60ce7",
+      "0x8fc3b83891f74f2d097b6dfc190b211c2228e401ee20e26b02599788c45c7290",
+      "0x6e1d845943fdbc036a61a91b4e1c2ad39998a8c0a035921b1e4e24e251a9dd11",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x81137b563cecf6fc8b304a659ef31bd12e61370d": {
+    "snapshot": {
+      "total": "1020070479368268800528",
+      "balances": {
+        "personal": "1510000000000000000",
+        "adelStaking": "1000000000000000000000",
+        "adelStakingReward": "12117943022578420676",
+        "akroStakingReward": "6442536345690379852",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x8d73b37118699ed2af16fde2824d7f9d0dce36fbb516d4767a621873ce7f5b8b",
+      "0x435e990aa5f969737522fef32e2903ed95b915e78e2100866de3d6f3a378a651",
+      "0x58fab9afbf0b0db2e7a1f1e2c819aab26b567e8fc804e955805b07497ed60ce7",
+      "0x8fc3b83891f74f2d097b6dfc190b211c2228e401ee20e26b02599788c45c7290",
+      "0x6e1d845943fdbc036a61a91b4e1c2ad39998a8c0a035921b1e4e24e251a9dd11",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x929aec528e1b5829482705ca96a880aea19f82c2": {
+    "snapshot": {
+      "total": "455545126586675555164",
+      "balances": {
+        "personal": "25283667828347242751",
+        "adelStaking": "425110000000000000000",
+        "adelStakingReward": "5151458758328312413",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x95d926a3404674bb07aa8e099800c92ad7ef3dd7d7e8a356117d488e9694da83",
+      "0x435e990aa5f969737522fef32e2903ed95b915e78e2100866de3d6f3a378a651",
+      "0x58fab9afbf0b0db2e7a1f1e2c819aab26b567e8fc804e955805b07497ed60ce7",
+      "0x8fc3b83891f74f2d097b6dfc190b211c2228e401ee20e26b02599788c45c7290",
+      "0x6e1d845943fdbc036a61a91b4e1c2ad39998a8c0a035921b1e4e24e251a9dd11",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xf6f9e2eb2df8dee61f11a4e2937f9f1936bf46d6": {
+    "snapshot": {
+      "total": "15060000000000000000",
+      "balances": {
+        "personal": "15060000000000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xb14f0538b096030db8e103e086acccf90b1ff6ba44ed137f783b84797839242f",
+      "0xb5f4ea7a97ea8617db64832644603a3fb0a2734fe7759223c1c7607c3800168b",
+      "0x4e47266d8d1a2f7f042447092281dfdb8f7b79f64b7ac0c8f91eba9f53a3c806",
+      "0x6520357a00d9942a96bec46f37dc2d7aec6977a0a471f8d87b935a81281f718a",
+      "0xaf135479a81ac22067a8bfdf417abd0209bb7de28d67c184d02eab702ea4e746",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xff3fc772434505abff38eecde3c689d4b0254528": {
+    "snapshot": {
+      "total": "2320349791308667314014",
+      "balances": {
+        "personal": "402750651740369335062",
+        "adelStaking": "1894640000000000000000",
+        "adelStakingReward": "22959139568297978952",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xcdadf45f3d0c6b3aee1decd4852dadcb3ca9106af7c52e799b83d12f1e12b32b",
+      "0xb5f4ea7a97ea8617db64832644603a3fb0a2734fe7759223c1c7607c3800168b",
+      "0x4e47266d8d1a2f7f042447092281dfdb8f7b79f64b7ac0c8f91eba9f53a3c806",
+      "0x6520357a00d9942a96bec46f37dc2d7aec6977a0a471f8d87b935a81281f718a",
+      "0xaf135479a81ac22067a8bfdf417abd0209bb7de28d67c184d02eab702ea4e746",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x9d112c935e0d77d6a78e85cff22156eaf3652919": {
+    "snapshot": {
+      "total": "119808",
+      "balances": {
+        "personal": "119808",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xb75fabe258599db498524c24e0264367d7f18c86f1ce8c0b3a23ba3fbe87e2b2",
+      "0x86642515c8ef484c7e35db89c9778b789a6e4f2426611f879813221e5c54e9db",
+      "0x4e47266d8d1a2f7f042447092281dfdb8f7b79f64b7ac0c8f91eba9f53a3c806",
+      "0x6520357a00d9942a96bec46f37dc2d7aec6977a0a471f8d87b935a81281f718a",
+      "0xaf135479a81ac22067a8bfdf417abd0209bb7de28d67c184d02eab702ea4e746",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xb69d22aed0de811e1e4145b58393d2442f22a4fc": {
+    "snapshot": {
+      "total": "753132412560948177165",
+      "balances": {
+        "personal": "3360000000000000000",
+        "adelStaking": "740795494961620480672",
+        "adelStakingReward": "8976917599327696493",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x3ea7f12efbee3b6e6bfd5882fbd95af0bc02a428e2ddc860cedbb73104f884be",
+      "0x86642515c8ef484c7e35db89c9778b789a6e4f2426611f879813221e5c54e9db",
+      "0x4e47266d8d1a2f7f042447092281dfdb8f7b79f64b7ac0c8f91eba9f53a3c806",
+      "0x6520357a00d9942a96bec46f37dc2d7aec6977a0a471f8d87b935a81281f718a",
+      "0xaf135479a81ac22067a8bfdf417abd0209bb7de28d67c184d02eab702ea4e746",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x2acf8996c1e5afb042d115ebebf530b883b25fbe": {
+    "snapshot": {
+      "total": "456888144335656386709",
+      "balances": {
+        "personal": "2620000000000000000",
+        "adelStaking": "422537340944398159732",
+        "adelStakingReward": "5120283422476008903",
+        "akroStakingReward": "26610519968782218074",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xac9ffd1bc2cfbdb80695c355401cd25a1bbccc8bbe472c301d2c186fe100de06",
+      "0x9aa2b97db19727e9dcfadb893fd5c336d4c5028a0c8ef5ba817644a7848b9880",
+      "0x4bf0285842447e63fcbab1bbed84b5c3a836bb6dbd0a8be35c7dfef392221a72",
+      "0x6520357a00d9942a96bec46f37dc2d7aec6977a0a471f8d87b935a81281f718a",
+      "0xaf135479a81ac22067a8bfdf417abd0209bb7de28d67c184d02eab702ea4e746",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xa425ab99b35da90284e2e0bbcf08690f31f27ddc": {
+    "snapshot": {
+      "total": "1424876558855210515523",
+      "balances": {
+        "personal": "8820000000000000000",
+        "adelStaking": "1266146601376705763717",
+        "adelStakingReward": "15343092373714232576",
+        "akroStakingReward": "134566865104790519230",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x9c0e31198c173a09a1ce60a2300b51b5de2cde5a37268d81b07cf363f7ad8b30",
+      "0x9aa2b97db19727e9dcfadb893fd5c336d4c5028a0c8ef5ba817644a7848b9880",
+      "0x4bf0285842447e63fcbab1bbed84b5c3a836bb6dbd0a8be35c7dfef392221a72",
+      "0x6520357a00d9942a96bec46f37dc2d7aec6977a0a471f8d87b935a81281f718a",
+      "0xaf135479a81ac22067a8bfdf417abd0209bb7de28d67c184d02eab702ea4e746",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xdf5bed67a35b9a43c5fe2a942fd3a165262cf39b": {
+    "snapshot": {
+      "total": "7210000000000000000",
+      "balances": {
+        "personal": "7210000000000000000",
+        "adelStaking": "0",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xbca7a645de470b5bfddeda34476d2b119ea6f544d94a3819bfa34b3e04ce4e5d",
+      "0x55c127b8e8c98318f98d9d08b6395c03a441160d331a8e168ffce0144d818652",
+      "0x4bf0285842447e63fcbab1bbed84b5c3a836bb6dbd0a8be35c7dfef392221a72",
+      "0x6520357a00d9942a96bec46f37dc2d7aec6977a0a471f8d87b935a81281f718a",
+      "0xaf135479a81ac22067a8bfdf417abd0209bb7de28d67c184d02eab702ea4e746",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xb57efba074966fc499835996746acde35d7ad38e": {
+    "snapshot": {
+      "total": "21919392379262846826956",
+      "balances": {
+        "personal": "2215802597058902661117",
+        "adelStaking": "19703589782203944165839",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xeb0ddad4142ef4fb92a929034037eb0f98a6dfb3f5835605f3e50b49ccc09bdd",
+      "0x55c127b8e8c98318f98d9d08b6395c03a441160d331a8e168ffce0144d818652",
+      "0x4bf0285842447e63fcbab1bbed84b5c3a836bb6dbd0a8be35c7dfef392221a72",
+      "0x6520357a00d9942a96bec46f37dc2d7aec6977a0a471f8d87b935a81281f718a",
+      "0xaf135479a81ac22067a8bfdf417abd0209bb7de28d67c184d02eab702ea4e746",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xfcc993d70b19c78374cb280f952bac2aa589af99": {
+    "snapshot": {
+      "total": "513068543212868659455",
+      "balances": {
+        "personal": "990000000000000000",
+        "adelStaking": "500000000000000000000",
+        "adelStakingReward": "6058971511289210337",
+        "akroStakingReward": "6019571701579449118",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x27296b4d54eb62fba0b2d2e76baaf05eb1767902d449b2bd162bfef0b2b308dc",
+      "0xa0e903675b7e89015355ce1dcdaf6948685f59b2d5e6d78e82e848690f961a41",
+      "0xed2dacd2ecc2c573575f88b16c2e8823fd82f4970ea8d3303fecdf1fc395f4b4",
+      "0x89090c0a748e090fc8f035e9530f17397127418648539e6e4bc7f6bf6045f0dd",
+      "0xaf135479a81ac22067a8bfdf417abd0209bb7de28d67c184d02eab702ea4e746",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x7bfbc7bdbab66bc557d3acab2c0f2c54040faadc": {
+    "snapshot": {
+      "total": "817571861000322359380",
+      "balances": {
+        "personal": "9918235486559959996",
+        "adelStaking": "797983704450287754272",
+        "adelStakingReward": "9669921063474645112",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x32fab49241ae14c6306e09e1069686d0d3a3d1915ea9d2cbe7f4ca738446c820",
+      "0xa0e903675b7e89015355ce1dcdaf6948685f59b2d5e6d78e82e848690f961a41",
+      "0xed2dacd2ecc2c573575f88b16c2e8823fd82f4970ea8d3303fecdf1fc395f4b4",
+      "0x89090c0a748e090fc8f035e9530f17397127418648539e6e4bc7f6bf6045f0dd",
+      "0xaf135479a81ac22067a8bfdf417abd0209bb7de28d67c184d02eab702ea4e746",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x4c9c3626cf1828da7b58a50dc2f6aa2c4546609e": {
+    "snapshot": {
+      "total": "1039351276924528542603",
+      "balances": {
+        "personal": "1000000000000000000",
+        "adelStaking": "1025919245956263919617",
+        "adelStakingReward": "12432030968264622986",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x57c5b922f394bf8cb3e7a570f65d91aa0653a66c73a90d189c6032991d63b649",
+      "0x118e310358926510e05a53d9ecd5bcdf59f50d91b777b405eb5d2b7399006bd1",
+      "0xed2dacd2ecc2c573575f88b16c2e8823fd82f4970ea8d3303fecdf1fc395f4b4",
+      "0x89090c0a748e090fc8f035e9530f17397127418648539e6e4bc7f6bf6045f0dd",
+      "0xaf135479a81ac22067a8bfdf417abd0209bb7de28d67c184d02eab702ea4e746",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x609fec828e13dbfb6ca8668df22295b6e08b477c": {
+    "snapshot": {
+      "total": "69462058135976138440",
+      "balances": {
+        "personal": "572058135976138440",
+        "adelStaking": "68890000000000000000",
+        "adelStakingReward": "0",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xdb39b3660058dde3629d82fe554862b09e1bce03b52fc84eb4db6c90ee049eeb",
+      "0x118e310358926510e05a53d9ecd5bcdf59f50d91b777b405eb5d2b7399006bd1",
+      "0xed2dacd2ecc2c573575f88b16c2e8823fd82f4970ea8d3303fecdf1fc395f4b4",
+      "0x89090c0a748e090fc8f035e9530f17397127418648539e6e4bc7f6bf6045f0dd",
+      "0xaf135479a81ac22067a8bfdf417abd0209bb7de28d67c184d02eab702ea4e746",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x92dd5c21d52211d7843b7cbe1a86e26d12444bbf": {
+    "snapshot": {
+      "total": "171414470104582480095",
+      "balances": {
+        "personal": "960000000000000000",
+        "adelStaking": "128720000000000000000",
+        "adelStakingReward": "1111690390670408842",
+        "akroStakingReward": "40622779713912071253",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xb77b76e7ab9371dedec6ebe825c84161c3dd50e7cf329c69371473fdf898216e",
+      "0xa277fcfdfbf1f69e77f354375f03fb2e03f379292af3c83d9d043e3ae6ea353a",
+      "0x87ebc7afdc96558c35b342cb4512bfbaeec7adb05ca4aa84a242dc4ddfaf009c",
+      "0x89090c0a748e090fc8f035e9530f17397127418648539e6e4bc7f6bf6045f0dd",
+      "0xaf135479a81ac22067a8bfdf417abd0209bb7de28d67c184d02eab702ea4e746",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xdcb7e8f1b586c94dde9b430557e4df6727779aca": {
+    "snapshot": {
+      "total": "1002467705389970774118",
+      "balances": {
+        "personal": "8890000000000000000",
+        "adelStaking": "917324978663327438806",
+        "adelStakingReward": "7922477966920128468",
+        "akroStakingReward": "0",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "68330248759723206844",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0x8fda62285582a3e8ebe187c46fb3cd6fe149742715393af9ec849aa5880b2761",
+      "0xa277fcfdfbf1f69e77f354375f03fb2e03f379292af3c83d9d043e3ae6ea353a",
+      "0x87ebc7afdc96558c35b342cb4512bfbaeec7adb05ca4aa84a242dc4ddfaf009c",
+      "0x89090c0a748e090fc8f035e9530f17397127418648539e6e4bc7f6bf6045f0dd",
+      "0xaf135479a81ac22067a8bfdf417abd0209bb7de28d67c184d02eab702ea4e746",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0xa6fa7239d9e7fd3a8cfdb8a80d634bfbcaf4bc14": {
+    "snapshot": {
+      "total": "5193168515795986334699",
+      "balances": {
+        "personal": "9533925495788383571",
+        "adelStaking": "5172756134092754227987",
+        "adelStakingReward": "0",
+        "akroStakingReward": "10878456207443723141",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xf0dc2db0f86f15ba5aa3dc2f79a6ae75c1625d28553d7964451ea677c581bdbb",
+      "0xf8fb5a0d4505e55abb8070ced33592a38ec8207f0a7f76daf4d1168f4df816b0",
+      "0x87ebc7afdc96558c35b342cb4512bfbaeec7adb05ca4aa84a242dc4ddfaf009c",
+      "0x89090c0a748e090fc8f035e9530f17397127418648539e6e4bc7f6bf6045f0dd",
+      "0xaf135479a81ac22067a8bfdf417abd0209bb7de28d67c184d02eab702ea4e746",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  },
+  "0x234ef83bd3859c04c93eaafd0ecf6dfefe2d5a4b": {
+    "snapshot": {
+      "total": "498290953379862342628",
+      "balances": {
+        "personal": "890000000000000000",
+        "adelStaking": "489632978807870691473",
+        "adelStakingReward": "4228715642449019442",
+        "akroStakingReward": "3539258929542631713",
+        "test": "0",
+        "Aave BUSD": "0",
+        "Compound DAI": "0",
+        "Curve yPool": "0",
+        "Curve sUSD": "0",
+        "Compound USDC": "0",
+        "Aave sUSD": "0",
+        "Uniswap ADEL/wETH": "0",
+        "Uniswap ADEL/USDT": "0",
+        "Balancer ADEL/wETH": "0",
+        "Balancer AKRO/ADEL": "0",
+        "Mooniswap ADEL/USDC": "0"
+      }
+    },
+    "merkleIndex": 7,
+    "merkleProofs": [
+      "0xdc86cce9a54229f558ed757b6b60656aed1187b6d418b0705ab3cf2728cd4a3d",
+      "0xf8fb5a0d4505e55abb8070ced33592a38ec8207f0a7f76daf4d1168f4df816b0",
+      "0x87ebc7afdc96558c35b342cb4512bfbaeec7adb05ca4aa84a242dc4ddfaf009c",
+      "0x89090c0a748e090fc8f035e9530f17397127418648539e6e4bc7f6bf6045f0dd",
+      "0xaf135479a81ac22067a8bfdf417abd0209bb7de28d67c184d02eab702ea4e746",
+      "0xdfdac7be33f572b59d7192463c3881ad467cbaa7e03023eab34d5902d20a6bc2",
+      "0xb5af195c4537a4e3b43dafb91f2fe86214b445d092e4e5fc348b24be463f271a"
+    ]
+  }
+}
