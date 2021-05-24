@@ -1,0 +1,2818 @@
+{
+  "0xf9cbf1aaf551e992675ed53ee58975b0e8795656": {
+    "snapshot": {
+      "total": "825238317995439276832",
+      "balances": {
+        "initial": "1946284344798971782411",
+        "current": "1121046026803532505579",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "825238317995439276832"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xe0c6529f0b452dba5141a3b381d1e9580195d4a69cfe3a478edf9e186cf31690",
+      "0xb6a4b11db1e34891fd0ebb0cca15959645707e110f30d2beee1203e8c0f1562e",
+      "0x75da356490f137acaaaa3375e9ce74f5108ba8751b85459437bdf2601264de6a",
+      "0x6d5d286962165a4a15f554091636410daa123f44b627dde8c5eb54cc5c0fb6c0",
+      "0x61c1c27f08ddd8b5d2795ccaeb683ed2a9a6630953aef761b859271f258c2b2c",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x1b410305e8df9d978b82cd90b4dd45ab3fa6bd00": {
+    "snapshot": {
+      "total": "1135420088300222016759",
+      "balances": {
+        "initial": "2757478902994921601493",
+        "current": "1622058814694699584734",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1135420088300222016759"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x6ab8c2d12477e250b3095725e23d11f66befa824e9bf8c3308008b1d98cf5813",
+      "0xb6a4b11db1e34891fd0ebb0cca15959645707e110f30d2beee1203e8c0f1562e",
+      "0x75da356490f137acaaaa3375e9ce74f5108ba8751b85459437bdf2601264de6a",
+      "0x6d5d286962165a4a15f554091636410daa123f44b627dde8c5eb54cc5c0fb6c0",
+      "0x61c1c27f08ddd8b5d2795ccaeb683ed2a9a6630953aef761b859271f258c2b2c",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0xb3826ff8bdf978b6b31b4ef264ccafb92b50f670": {
+    "snapshot": {
+      "total": "3508203901435403104820",
+      "balances": {
+        "initial": "8076665028944331426220",
+        "current": "4568461127508928321400",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "3508203901435403104820"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xc6f86befacad70e1bc6b55cb5e75991cfd9574d58778aa15028bd87f269a6e17",
+      "0x25024dd69d1c12faa9a92fa4d725909774761dbd63ad41aaba442f3184e61d67",
+      "0x75da356490f137acaaaa3375e9ce74f5108ba8751b85459437bdf2601264de6a",
+      "0x6d5d286962165a4a15f554091636410daa123f44b627dde8c5eb54cc5c0fb6c0",
+      "0x61c1c27f08ddd8b5d2795ccaeb683ed2a9a6630953aef761b859271f258c2b2c",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x19870de096523b6eaed10da9fbeb82285451c7bd": {
+    "snapshot": {
+      "total": "438980969179312193468",
+      "balances": {
+        "initial": "1249484076375714842465",
+        "current": "810503107196402648997",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "438980969179312193468"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x1f6961762a8e8b27979d93ca6af96986108c5a0db2dd8505b94f924c1a79d616",
+      "0x25024dd69d1c12faa9a92fa4d725909774761dbd63ad41aaba442f3184e61d67",
+      "0x75da356490f137acaaaa3375e9ce74f5108ba8751b85459437bdf2601264de6a",
+      "0x6d5d286962165a4a15f554091636410daa123f44b627dde8c5eb54cc5c0fb6c0",
+      "0x61c1c27f08ddd8b5d2795ccaeb683ed2a9a6630953aef761b859271f258c2b2c",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x91585d09079223f84eaa0e53f8e6fc6dfc4463de": {
+    "snapshot": {
+      "total": "1298254028055345045236",
+      "balances": {
+        "initial": "2313225174623426135189",
+        "current": "1014971146568081089953",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1298254028055345045236"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xce56abf8c9221458ee4a460216fceeccaa7e6ef2efab2391bd4fe0c978d3a117",
+      "0x42350b457e2945e1409675cbb8463048d97212733c253e9dc5f1407330e0c3cb",
+      "0x35b9447d72e03a3af2ebcb346a63c41c657dabca05481d0699b64bfa9617acb2",
+      "0x6d5d286962165a4a15f554091636410daa123f44b627dde8c5eb54cc5c0fb6c0",
+      "0x61c1c27f08ddd8b5d2795ccaeb683ed2a9a6630953aef761b859271f258c2b2c",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x0e2e4ff0dcd154a9ab2dad034675841f937773f2": {
+    "snapshot": {
+      "total": "441781320541134246568",
+      "balances": {
+        "initial": "1240316640668728899860",
+        "current": "798535320127594653292",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "441781320541134246568"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xb9e7299aae6cf6d7cd6ed6f9cdc0e3f3ec85bc2e7fc987ff85b0a5f62259cf19",
+      "0x42350b457e2945e1409675cbb8463048d97212733c253e9dc5f1407330e0c3cb",
+      "0x35b9447d72e03a3af2ebcb346a63c41c657dabca05481d0699b64bfa9617acb2",
+      "0x6d5d286962165a4a15f554091636410daa123f44b627dde8c5eb54cc5c0fb6c0",
+      "0x61c1c27f08ddd8b5d2795ccaeb683ed2a9a6630953aef761b859271f258c2b2c",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x963eb0638a2fe075269b4e83f886e89d855ea4a8": {
+    "snapshot": {
+      "total": "383463266765950371031",
+      "balances": {
+        "initial": "985315918805787123295",
+        "current": "601852652039836752264",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "383463266765950371031"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x4aa93236b75aeec7038cd6c411c9921c7366c9e72767a9e9ae634352f9a02e8c",
+      "0xeb21be17af99240afbfaa55de9b198958e784cbc70119c2ceaa7bf1aeae866aa",
+      "0x35b9447d72e03a3af2ebcb346a63c41c657dabca05481d0699b64bfa9617acb2",
+      "0x6d5d286962165a4a15f554091636410daa123f44b627dde8c5eb54cc5c0fb6c0",
+      "0x61c1c27f08ddd8b5d2795ccaeb683ed2a9a6630953aef761b859271f258c2b2c",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x6cf093b8ba5f8ed509fcfab3a2ebc95ee3340a41": {
+    "snapshot": {
+      "total": "1220494261494030102438",
+      "balances": {
+        "initial": "2971856192179894080433",
+        "current": "1751361930685863977995",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1220494261494030102438"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x2d96ec0ea9634ef121899554c5912b354cd2004df08a0663de2a9f10ea75a760",
+      "0xeb21be17af99240afbfaa55de9b198958e784cbc70119c2ceaa7bf1aeae866aa",
+      "0x35b9447d72e03a3af2ebcb346a63c41c657dabca05481d0699b64bfa9617acb2",
+      "0x6d5d286962165a4a15f554091636410daa123f44b627dde8c5eb54cc5c0fb6c0",
+      "0x61c1c27f08ddd8b5d2795ccaeb683ed2a9a6630953aef761b859271f258c2b2c",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0xce739b179c12f3b4c3561249b8a6ec67cba1d7b0": {
+    "snapshot": {
+      "total": "4819707699132773762338",
+      "balances": {
+        "initial": "11189680834951992631286",
+        "current": "6369973135819218868948",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "4819707699132773762338"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xe881cc0e9058c00604446b8a6c089253c0ac26c67c84fa64bf5204ed94832cdd",
+      "0x690a33aad310e5b6030418d7c59ea4e08fd5f907132b6434364c2c4f598530e2",
+      "0x2af82691beef32f24cc7cbba2b1b85dd39a29c6ad48f953c106bbe4d7f68b299",
+      "0x1b80c5c2b0ccfe6221346350035bc355f7222b7c6781ae3cd03c3bd0d63ca8af",
+      "0x61c1c27f08ddd8b5d2795ccaeb683ed2a9a6630953aef761b859271f258c2b2c",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x2086280e38478a13e2705125d4bbcb5d16b4ab46": {
+    "snapshot": {
+      "total": "1863518663481468724569",
+      "balances": {
+        "initial": "4797694627942591844166",
+        "current": "2934175964461123119597",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1863518663481468724569"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xabc4de560265da266cc33f6eebdbe56a5406d0142781d83f934dc6fbb2a7aaa4",
+      "0x690a33aad310e5b6030418d7c59ea4e08fd5f907132b6434364c2c4f598530e2",
+      "0x2af82691beef32f24cc7cbba2b1b85dd39a29c6ad48f953c106bbe4d7f68b299",
+      "0x1b80c5c2b0ccfe6221346350035bc355f7222b7c6781ae3cd03c3bd0d63ca8af",
+      "0x61c1c27f08ddd8b5d2795ccaeb683ed2a9a6630953aef761b859271f258c2b2c",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x2dc500655d93559fa70e77bbe1263058bbc396be": {
+    "snapshot": {
+      "total": "433186443182688109369",
+      "balances": {
+        "initial": "889734406357357760753",
+        "current": "456547963174669651384",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "433186443182688109369"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x28aada960c5e39aa83106f7f0d0713caa453740966cc98655167acb26ab04115",
+      "0xd082bc3020cc57ee43633df01bd7ad2b01ab40f0b5df4dd6fac8897b96a1fd77",
+      "0x2af82691beef32f24cc7cbba2b1b85dd39a29c6ad48f953c106bbe4d7f68b299",
+      "0x1b80c5c2b0ccfe6221346350035bc355f7222b7c6781ae3cd03c3bd0d63ca8af",
+      "0x61c1c27f08ddd8b5d2795ccaeb683ed2a9a6630953aef761b859271f258c2b2c",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x70a464617606459c4875c2f9222156519d44eec5": {
+    "snapshot": {
+      "total": "506158598680310659991",
+      "balances": {
+        "initial": "1075670348143431572696",
+        "current": "569511749463120912705",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "506158598680310659991"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x618f8c410532a1ebbadb679c83d53a2a0343b370a42b135d476a054e6d29b8d4",
+      "0xd082bc3020cc57ee43633df01bd7ad2b01ab40f0b5df4dd6fac8897b96a1fd77",
+      "0x2af82691beef32f24cc7cbba2b1b85dd39a29c6ad48f953c106bbe4d7f68b299",
+      "0x1b80c5c2b0ccfe6221346350035bc355f7222b7c6781ae3cd03c3bd0d63ca8af",
+      "0x61c1c27f08ddd8b5d2795ccaeb683ed2a9a6630953aef761b859271f258c2b2c",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x844d584d166f3855a28daad86745223b6930d175": {
+    "snapshot": {
+      "total": "1332763277057900283352",
+      "balances": {
+        "initial": "2928836146832021889142",
+        "current": "1596072869774121605790",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1332763277057900283352"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x6a7adae90939e2a40cbfad5400c2879920e152265e3e7e3ed8e3ae43d9363779",
+      "0x392de1aa388a6c7fe20346b2c75b0592b67bf6bcfacd90cdc764dfb3bd2044e3",
+      "0x637bd7daf90d4f676c7e070ffcb03d935d5c99acffe78f95126f00473567879c",
+      "0x1b80c5c2b0ccfe6221346350035bc355f7222b7c6781ae3cd03c3bd0d63ca8af",
+      "0x61c1c27f08ddd8b5d2795ccaeb683ed2a9a6630953aef761b859271f258c2b2c",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x970dafec8079e8b7500177a7d66873bf7d01f7af": {
+    "snapshot": {
+      "total": "1628167382358169931273",
+      "balances": {
+        "initial": "3489797682389502046763",
+        "current": "1861630300031332115490",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1628167382358169931273"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xe71b00f7770adb988eda898eb622f848fe8a7716a88aacd8225abf8f49f09a4e",
+      "0x392de1aa388a6c7fe20346b2c75b0592b67bf6bcfacd90cdc764dfb3bd2044e3",
+      "0x637bd7daf90d4f676c7e070ffcb03d935d5c99acffe78f95126f00473567879c",
+      "0x1b80c5c2b0ccfe6221346350035bc355f7222b7c6781ae3cd03c3bd0d63ca8af",
+      "0x61c1c27f08ddd8b5d2795ccaeb683ed2a9a6630953aef761b859271f258c2b2c",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x2b8fb86debcaba415b1372d7f6bf120fddc7fecb": {
+    "snapshot": {
+      "total": "1827259178106473767184",
+      "balances": {
+        "initial": "3627194592439397375760",
+        "current": "1799935414332923608576",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1827259178106473767184"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x277a2c1fb4cf90cf09f7470ff6b623a0821cae6300529509f20c34291953848f",
+      "0x874ad984d77c8ea866c736ae34be2439df5efff6e8e50ff31e578f2722aa1d35",
+      "0x637bd7daf90d4f676c7e070ffcb03d935d5c99acffe78f95126f00473567879c",
+      "0x1b80c5c2b0ccfe6221346350035bc355f7222b7c6781ae3cd03c3bd0d63ca8af",
+      "0x61c1c27f08ddd8b5d2795ccaeb683ed2a9a6630953aef761b859271f258c2b2c",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x17e5a662b373673475c51b6db9d79bd291dce573": {
+    "snapshot": {
+      "total": "525268407583358155145",
+      "balances": {
+        "initial": "910844508771204774334",
+        "current": "385576101187846619189",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "525268407583358155145"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x5421a2ef4343d9c8a092bbf88aebcc6cd5cc8b1697d22d7564d194480952b27c",
+      "0x874ad984d77c8ea866c736ae34be2439df5efff6e8e50ff31e578f2722aa1d35",
+      "0x637bd7daf90d4f676c7e070ffcb03d935d5c99acffe78f95126f00473567879c",
+      "0x1b80c5c2b0ccfe6221346350035bc355f7222b7c6781ae3cd03c3bd0d63ca8af",
+      "0x61c1c27f08ddd8b5d2795ccaeb683ed2a9a6630953aef761b859271f258c2b2c",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x6a316f344bda31e6687173c97c839c7160dd2cd1": {
+    "snapshot": {
+      "total": "4667683347404773102251",
+      "balances": {
+        "initial": "10728441006668124487814",
+        "current": "6060757659263351385563",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "4667683347404773102251"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xc1b1efc938aaf31986684258c7a856f1825e9fbbfab729a46c4b9e9dada5ec14",
+      "0x0cd585edae49cf6b6e881c64bb8f800b786c6f9516dd3ff9798a556c1119e6c1",
+      "0x182bce294ce25734e9b9ffd1ef955a6e19bd40d98983d909624731e27e700136",
+      "0x8167126a6495947dcd24ae04484cace89a85ce93c87e0e94f3ebae181a322cc9",
+      "0x14dd048a5cbe8ffc5404c500251e04635f2ed2d748b71015bdc4c8818905a1aa",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0xa3b75dbb7654ba680a412d79ad937c4262cab1b6": {
+    "snapshot": {
+      "total": "448321322084223875814",
+      "balances": {
+        "initial": "1331379128220317036081",
+        "current": "883057806136093160267",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "448321322084223875814"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xd0ad7a3d5a65dc112258b68985763755db21b78f15cd91e591d054651ca670b2",
+      "0x0cd585edae49cf6b6e881c64bb8f800b786c6f9516dd3ff9798a556c1119e6c1",
+      "0x182bce294ce25734e9b9ffd1ef955a6e19bd40d98983d909624731e27e700136",
+      "0x8167126a6495947dcd24ae04484cace89a85ce93c87e0e94f3ebae181a322cc9",
+      "0x14dd048a5cbe8ffc5404c500251e04635f2ed2d748b71015bdc4c8818905a1aa",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x059a8677d45a51490ad3eca47dc5aa02be0d696a": {
+    "snapshot": {
+      "total": "336581039512147380778",
+      "balances": {
+        "initial": "669232457857942780294",
+        "current": "332651418345795399516",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "336581039512147380778"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x861bed3f233af1ecae0a182d08f437571d6f6825e8849778044498f3195c6fdd",
+      "0xbb75bdb60244d8aac38c03f936aa8885103500c42b03713ab0e4f485b5303ac8",
+      "0x182bce294ce25734e9b9ffd1ef955a6e19bd40d98983d909624731e27e700136",
+      "0x8167126a6495947dcd24ae04484cace89a85ce93c87e0e94f3ebae181a322cc9",
+      "0x14dd048a5cbe8ffc5404c500251e04635f2ed2d748b71015bdc4c8818905a1aa",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x4a450c67f3e71173fccea3bc05be46eaff4589d6": {
+    "snapshot": {
+      "total": "527692319446057912616",
+      "balances": {
+        "initial": "965512713369548386982",
+        "current": "437820393923490474366",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "527692319446057912616"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xe97579bc482ee3e60c982d3b6581632faf84ebc7b407a1b2e4a8b2727bc20c04",
+      "0xbb75bdb60244d8aac38c03f936aa8885103500c42b03713ab0e4f485b5303ac8",
+      "0x182bce294ce25734e9b9ffd1ef955a6e19bd40d98983d909624731e27e700136",
+      "0x8167126a6495947dcd24ae04484cace89a85ce93c87e0e94f3ebae181a322cc9",
+      "0x14dd048a5cbe8ffc5404c500251e04635f2ed2d748b71015bdc4c8818905a1aa",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0xc26f827f1b8cf661a7bca954bb21eb6138a27101": {
+    "snapshot": {
+      "total": "2971267713931685192244",
+      "balances": {
+        "initial": "7609414742001232589549",
+        "current": "4638147028069547397305",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "2971267713931685192244"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x2a266cf2b33f1bf9da1cfe099352664f322e9126954b7da9f4893cf2e0dc0d1e",
+      "0x8eb6b959e8cf31c7c42e77a2cf113911dc2b772815b40b0e2d6676c1b195bbff",
+      "0x41492339d4d98b5cc35453a701a26fa204ffa36f57347eb0c9ee247ce74c43da",
+      "0x8167126a6495947dcd24ae04484cace89a85ce93c87e0e94f3ebae181a322cc9",
+      "0x14dd048a5cbe8ffc5404c500251e04635f2ed2d748b71015bdc4c8818905a1aa",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x6f2b6d7a53f1e4c288289bdaecfe68e07948e10d": {
+    "snapshot": {
+      "total": "6724014153423474167515",
+      "balances": {
+        "initial": "14716137743369609386892",
+        "current": "7992123589946135219377",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "6724014153423474167515"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x5186cae0630b296a7fbd997cefdb7e7f76796bd4621f5936e3c6066803ccdaf4",
+      "0x8eb6b959e8cf31c7c42e77a2cf113911dc2b772815b40b0e2d6676c1b195bbff",
+      "0x41492339d4d98b5cc35453a701a26fa204ffa36f57347eb0c9ee247ce74c43da",
+      "0x8167126a6495947dcd24ae04484cace89a85ce93c87e0e94f3ebae181a322cc9",
+      "0x14dd048a5cbe8ffc5404c500251e04635f2ed2d748b71015bdc4c8818905a1aa",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x81b272e9b70f310c1ce8eda6eb06ecfd2bbeb7ba": {
+    "snapshot": {
+      "total": "16506748088593550860800",
+      "balances": {
+        "initial": "38435574773626837261252",
+        "current": "21928826685033286400452",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "16506748088593550860800"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xb622371505aeed518ac9f641a11a734fd05bdc4970a487ebc9fd4e32fe3ad2f9",
+      "0x85433009ba4c81efba0d0a48cb3e70f30fca08ad74d45e3216890cd66a906ef4",
+      "0x41492339d4d98b5cc35453a701a26fa204ffa36f57347eb0c9ee247ce74c43da",
+      "0x8167126a6495947dcd24ae04484cace89a85ce93c87e0e94f3ebae181a322cc9",
+      "0x14dd048a5cbe8ffc5404c500251e04635f2ed2d748b71015bdc4c8818905a1aa",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x6806d45314ca420e29035c926426e14c6dbe9154": {
+    "snapshot": {
+      "total": "3267952905463777387194",
+      "balances": {
+        "initial": "7525784307178566742119",
+        "current": "4257831401714789354925",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "3267952905463777387194"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x7f5a4690508f6b79dd3e6d7259f54fe8cd08d81ca743d3203066db0588bb4632",
+      "0x85433009ba4c81efba0d0a48cb3e70f30fca08ad74d45e3216890cd66a906ef4",
+      "0x41492339d4d98b5cc35453a701a26fa204ffa36f57347eb0c9ee247ce74c43da",
+      "0x8167126a6495947dcd24ae04484cace89a85ce93c87e0e94f3ebae181a322cc9",
+      "0x14dd048a5cbe8ffc5404c500251e04635f2ed2d748b71015bdc4c8818905a1aa",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x51d26fb6408cf88c80c2780a5560d7481ad2365c": {
+    "snapshot": {
+      "total": "16369793147992391561419",
+      "balances": {
+        "initial": "37566321518805412996271",
+        "current": "21196528370813021434852",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "16369793147992391561419"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x263c395e20412a69cd27c307254ed02e75ff8a14e49363285317e042bc90ecf7",
+      "0x5711d23fd908f7adb6992dff9125140fc4a9957587372042794fd791d78fc2f9",
+      "0x1444438eade2c38b07d836c4f5d75f56cac41dfa47849c900b39bfac7b4d0ad0",
+      "0x6f01db352a3b77b22ff19f88326f182fb94cd55e00ffc8c57854ab0968da4e28",
+      "0x14dd048a5cbe8ffc5404c500251e04635f2ed2d748b71015bdc4c8818905a1aa",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x6133954cfc1748a4495d203214cf7d96c6bb2c96": {
+    "snapshot": {
+      "total": "1341390520274838314892",
+      "balances": {
+        "initial": "3862873341011551854841",
+        "current": "2521482820736713539949",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1341390520274838314892"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x4cbd661f86bd3a5d2fe8e6675f0faf8ed8f51d395843e905e5e018d736267920",
+      "0x5711d23fd908f7adb6992dff9125140fc4a9957587372042794fd791d78fc2f9",
+      "0x1444438eade2c38b07d836c4f5d75f56cac41dfa47849c900b39bfac7b4d0ad0",
+      "0x6f01db352a3b77b22ff19f88326f182fb94cd55e00ffc8c57854ab0968da4e28",
+      "0x14dd048a5cbe8ffc5404c500251e04635f2ed2d748b71015bdc4c8818905a1aa",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x1e15d2eddc94c6518f2b98fbe975b4563d338249": {
+    "snapshot": {
+      "total": "506833858557745602931",
+      "balances": {
+        "initial": "1294182275867732580178",
+        "current": "787348417309986977247",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "506833858557745602931"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x165c9e8192fee39f4944f18688029f643eaab1e04c6a4d49f356ef496f2dc99e",
+      "0x973dc4725b7d13630d2d3e1372141bd2774d84e1f8e4f0c7573bcd8e901e12b1",
+      "0x1444438eade2c38b07d836c4f5d75f56cac41dfa47849c900b39bfac7b4d0ad0",
+      "0x6f01db352a3b77b22ff19f88326f182fb94cd55e00ffc8c57854ab0968da4e28",
+      "0x14dd048a5cbe8ffc5404c500251e04635f2ed2d748b71015bdc4c8818905a1aa",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x1fe4ec75f38583e75c20d9e2a597e716cda5c3f9": {
+    "snapshot": {
+      "total": "536531569135291326040",
+      "balances": {
+        "initial": "1770976163381531048563",
+        "current": "1234444594246239722523",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "536531569135291326040"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x5265b4fc7532d8ebc8d72e5cbd62b802066fda652cde2515a2bbc29853f3c479",
+      "0x973dc4725b7d13630d2d3e1372141bd2774d84e1f8e4f0c7573bcd8e901e12b1",
+      "0x1444438eade2c38b07d836c4f5d75f56cac41dfa47849c900b39bfac7b4d0ad0",
+      "0x6f01db352a3b77b22ff19f88326f182fb94cd55e00ffc8c57854ab0968da4e28",
+      "0x14dd048a5cbe8ffc5404c500251e04635f2ed2d748b71015bdc4c8818905a1aa",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0xdc4b39961c809ad7d2ac8cd820634af6f6dbe670": {
+    "snapshot": {
+      "total": "3425827953863309280235",
+      "balances": {
+        "initial": "7887727953334008228750",
+        "current": "4461899999470698948515",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "3425827953863309280235"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x1281b5c4b88a221f510134bd9b1cc829b49eb336a75ee6353a21b16dfe2d3c1f",
+      "0x6fddb3e9b0cfa31a00c287579687b65bf454ad15663e4d4fe2dd018b855375f3",
+      "0xd4b40afa8e22c55d01290bd1ab6f5e6d2fc0ac882264f541a209427d2cd6e16a",
+      "0x6f01db352a3b77b22ff19f88326f182fb94cd55e00ffc8c57854ab0968da4e28",
+      "0x14dd048a5cbe8ffc5404c500251e04635f2ed2d748b71015bdc4c8818905a1aa",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0xe02d3750e3a4e58e29d531f0b35f924793c4604d": {
+    "snapshot": {
+      "total": "509028299968984136921",
+      "balances": {
+        "initial": "1199119069575987610837",
+        "current": "690090769607003473916",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "509028299968984136921"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x0541c68fef1635e844e3b44c385d8cb844d8bbaa88ff833901c4cfadfbb84615",
+      "0x6fddb3e9b0cfa31a00c287579687b65bf454ad15663e4d4fe2dd018b855375f3",
+      "0xd4b40afa8e22c55d01290bd1ab6f5e6d2fc0ac882264f541a209427d2cd6e16a",
+      "0x6f01db352a3b77b22ff19f88326f182fb94cd55e00ffc8c57854ab0968da4e28",
+      "0x14dd048a5cbe8ffc5404c500251e04635f2ed2d748b71015bdc4c8818905a1aa",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x161f47eeffbcad412bb3d8b890bf4cb3a7e80a95": {
+    "snapshot": {
+      "total": "1055297640437219206745",
+      "balances": {
+        "initial": "2679079531165553015870",
+        "current": "1623781890728333809125",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1055297640437219206745"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x7a8cafb663368749f67854d6a41df2a2e29e54166459804e3d56a7c0217fd47f",
+      "0xbafa41fbdb8e35515044f943f31c94148ee0e7a3ae45a9ec371fee44b6f83cfa",
+      "0xd4b40afa8e22c55d01290bd1ab6f5e6d2fc0ac882264f541a209427d2cd6e16a",
+      "0x6f01db352a3b77b22ff19f88326f182fb94cd55e00ffc8c57854ab0968da4e28",
+      "0x14dd048a5cbe8ffc5404c500251e04635f2ed2d748b71015bdc4c8818905a1aa",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x4a80de234e210ad7b38fe8549e903d298e2889ad": {
+    "snapshot": {
+      "total": "449155952025060445607",
+      "balances": {
+        "initial": "1228153988722054198770",
+        "current": "778998036696993753163",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "449155952025060445607"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xe9208d43e417d46e918d6c551abbbc30285cdce730016917c4c8d07b86eb42bd",
+      "0xbafa41fbdb8e35515044f943f31c94148ee0e7a3ae45a9ec371fee44b6f83cfa",
+      "0xd4b40afa8e22c55d01290bd1ab6f5e6d2fc0ac882264f541a209427d2cd6e16a",
+      "0x6f01db352a3b77b22ff19f88326f182fb94cd55e00ffc8c57854ab0968da4e28",
+      "0x14dd048a5cbe8ffc5404c500251e04635f2ed2d748b71015bdc4c8818905a1aa",
+      "0xfa3d349f2f43b083b7257e7586e00ecf5362bec1363c022275677d643e20d52c",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x4996de5a4e624fce5a718b2a2547901fb050c2b4": {
+    "snapshot": {
+      "total": "1217179274609141813189",
+      "balances": {
+        "initial": "3101920015348144612952",
+        "current": "1884740740739002799763",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1217179274609141813189"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x6bceb9e137fc27e0d998628e4f9e68885854c47d1d94517a214871d9c8f6a8e1",
+      "0x66d081fb8b615923613b153e11b8fdb90f389e96ebc27e361606e1a57d141bd2",
+      "0xcd2395e03460dcad5934b036d764191f8c92a0128400f4a651595c0335ee4d34",
+      "0xd785f077b90727a2000c26e2d995e9b0726da60fc1b5f4fb725643018af1cdbd",
+      "0x7a06c93344bf9118d23f659b0e2cbc338ee46b2d6d2f9eb95a05476bf77e82ae",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0xf57d86f6bfcc76aa2c7f62616b2436c60ad397e2": {
+    "snapshot": {
+      "total": "818304198347569982993",
+      "balances": {
+        "initial": "1631410136476203670519",
+        "current": "813105938128633687526",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "818304198347569982993"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xbbbfb778eaa34716d5012365e3c8cea0b7767849a6f78c98a32e91aeaa5a6810",
+      "0x66d081fb8b615923613b153e11b8fdb90f389e96ebc27e361606e1a57d141bd2",
+      "0xcd2395e03460dcad5934b036d764191f8c92a0128400f4a651595c0335ee4d34",
+      "0xd785f077b90727a2000c26e2d995e9b0726da60fc1b5f4fb725643018af1cdbd",
+      "0x7a06c93344bf9118d23f659b0e2cbc338ee46b2d6d2f9eb95a05476bf77e82ae",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x80750bdedf97f7f7b72af43ebc0ed37da210be73": {
+    "snapshot": {
+      "total": "526374809732428573266",
+      "balances": {
+        "initial": "1509543972504352836587",
+        "current": "983169162771924263321",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "526374809732428573266"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xdf8e089312e20a28be0cb70bfc43f0ddfeb65b0439100ef5f07b3a57fffdbd53",
+      "0x240f01e01bf8f21a37f39c43c357b6418076f792f431b0c5ae81bd2b4493f710",
+      "0xcd2395e03460dcad5934b036d764191f8c92a0128400f4a651595c0335ee4d34",
+      "0xd785f077b90727a2000c26e2d995e9b0726da60fc1b5f4fb725643018af1cdbd",
+      "0x7a06c93344bf9118d23f659b0e2cbc338ee46b2d6d2f9eb95a05476bf77e82ae",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x0aa2321c2065df48e8a690711f02f8e2ed39f44c": {
+    "snapshot": {
+      "total": "3930826655010595334670",
+      "balances": {
+        "initial": "10142493560411768104522",
+        "current": "6211666905401172769852",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "3930826655010595334670"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xfa538dd3a91625936f6ea136634b97af5316d67decbfb598b194bd080354761d",
+      "0x240f01e01bf8f21a37f39c43c357b6418076f792f431b0c5ae81bd2b4493f710",
+      "0xcd2395e03460dcad5934b036d764191f8c92a0128400f4a651595c0335ee4d34",
+      "0xd785f077b90727a2000c26e2d995e9b0726da60fc1b5f4fb725643018af1cdbd",
+      "0x7a06c93344bf9118d23f659b0e2cbc338ee46b2d6d2f9eb95a05476bf77e82ae",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0xaf36969be0ef14ed1915a0bc2ded7afcac9d3ceb": {
+    "snapshot": {
+      "total": "542144558234172824341",
+      "balances": {
+        "initial": "1856935278673386638455",
+        "current": "1314790720439213814114",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "542144558234172824341"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x5435e67514dfb971bbda6d0a5def77d3a31f6f63dfc6cf8f6dc35a93c0b7f756",
+      "0xe27e5cd7137dff73c76bc93c825f526de4ceb2606259555134b0bad514fd8eac",
+      "0x86082bc0d7c7c9fd29ca223abb0cc93529253ad967af96f01f7c8a554575bfb8",
+      "0xd785f077b90727a2000c26e2d995e9b0726da60fc1b5f4fb725643018af1cdbd",
+      "0x7a06c93344bf9118d23f659b0e2cbc338ee46b2d6d2f9eb95a05476bf77e82ae",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x20a73256f10e739c550e31b914ba61fce99594cb": {
+    "snapshot": {
+      "total": "420471631977699020186",
+      "balances": {
+        "initial": "865239240818515190919",
+        "current": "444767608840816170733",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "420471631977699020186"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xc73aebfd77b6cd1887017c3c542653d42ee1edffd0edee1484b2703dcacb3c42",
+      "0xe27e5cd7137dff73c76bc93c825f526de4ceb2606259555134b0bad514fd8eac",
+      "0x86082bc0d7c7c9fd29ca223abb0cc93529253ad967af96f01f7c8a554575bfb8",
+      "0xd785f077b90727a2000c26e2d995e9b0726da60fc1b5f4fb725643018af1cdbd",
+      "0x7a06c93344bf9118d23f659b0e2cbc338ee46b2d6d2f9eb95a05476bf77e82ae",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0xe72a1bd12a3fe6f45f1a357aeeb3b8849711fd6c": {
+    "snapshot": {
+      "total": "452937932020212349201",
+      "balances": {
+        "initial": "1213218974785090881516",
+        "current": "760281042764878532315",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "452937932020212349201"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xf85398e23f6e8d915cf47e6313c610ba3bb2c55507d9411d6a95120b7db76e8a",
+      "0x353eef8f387e099b6f50f9f67355364baf046ea78ebdb4147d76205659bce57b",
+      "0x86082bc0d7c7c9fd29ca223abb0cc93529253ad967af96f01f7c8a554575bfb8",
+      "0xd785f077b90727a2000c26e2d995e9b0726da60fc1b5f4fb725643018af1cdbd",
+      "0x7a06c93344bf9118d23f659b0e2cbc338ee46b2d6d2f9eb95a05476bf77e82ae",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x7f493f8c3d2c5a02ac73aeed566ed410d5c1b291": {
+    "snapshot": {
+      "total": "2172581934051429831245",
+      "balances": {
+        "initial": "6205444537335851634415",
+        "current": "4032862603284421803170",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "2172581934051429831245"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xfb7ac6098378f4a6930c5f76b2ef231eca78cc488aa5374ef3649750679d204c",
+      "0x353eef8f387e099b6f50f9f67355364baf046ea78ebdb4147d76205659bce57b",
+      "0x86082bc0d7c7c9fd29ca223abb0cc93529253ad967af96f01f7c8a554575bfb8",
+      "0xd785f077b90727a2000c26e2d995e9b0726da60fc1b5f4fb725643018af1cdbd",
+      "0x7a06c93344bf9118d23f659b0e2cbc338ee46b2d6d2f9eb95a05476bf77e82ae",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x8aad2005b207b6abd3065b10ef1b8c1df1dd100b": {
+    "snapshot": {
+      "total": "3045731397155337197169",
+      "balances": {
+        "initial": "7605678897112960491730",
+        "current": "4559947499957623294561",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "3045731397155337197169"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x1085d87c47b40559a032031ee69d4c09ecc4c72c091803e01a747d83704a2fe6",
+      "0x098d7b0d070450fca7e0027be7963e2c145ddf13bd4371cd1d8d515602a75451",
+      "0xb75db84c7944db66a9275d975f506cab4a32800a42cbe7148a936a5218d00210",
+      "0x109f51a2f10c6dd8c4da49f3de17a393d1eac0ee76ca8528f15aa80959342cc9",
+      "0x7a06c93344bf9118d23f659b0e2cbc338ee46b2d6d2f9eb95a05476bf77e82ae",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x76bbd639c87aac623aad1c3b648e6187a9392dea": {
+    "snapshot": {
+      "total": "1238426526828567005096",
+      "balances": {
+        "initial": "3171789128752255851748",
+        "current": "1933362601923688846652",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1238426526828567005096"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xb57b62410407a5c9b5086b7ea2dfde8bf7a7b60a05f4b98e52944aa3c45798dc",
+      "0x098d7b0d070450fca7e0027be7963e2c145ddf13bd4371cd1d8d515602a75451",
+      "0xb75db84c7944db66a9275d975f506cab4a32800a42cbe7148a936a5218d00210",
+      "0x109f51a2f10c6dd8c4da49f3de17a393d1eac0ee76ca8528f15aa80959342cc9",
+      "0x7a06c93344bf9118d23f659b0e2cbc338ee46b2d6d2f9eb95a05476bf77e82ae",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x8c4743968b2ee3c7b214829207571f63f2759bd2": {
+    "snapshot": {
+      "total": "3844947671980089057718",
+      "balances": {
+        "initial": "9946610843863030092974",
+        "current": "6101663171882941035256",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "3844947671980089057718"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x9fecb75d191161ccb86e4d761e252b4d9f4fbbc2029e806d53d3836e21063485",
+      "0xa405642827446286c933182656141f9a07bd9762c083a79b6ae1b3963025f624",
+      "0xb75db84c7944db66a9275d975f506cab4a32800a42cbe7148a936a5218d00210",
+      "0x109f51a2f10c6dd8c4da49f3de17a393d1eac0ee76ca8528f15aa80959342cc9",
+      "0x7a06c93344bf9118d23f659b0e2cbc338ee46b2d6d2f9eb95a05476bf77e82ae",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x000b79f52356189c80a9d3ada3911d4438218516": {
+    "snapshot": {
+      "total": "550804821005449921661",
+      "balances": {
+        "initial": "1664210433711844233955",
+        "current": "1113405612706394312294",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "550804821005449921661"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x7b98a8d4061a3e24b94c63b9773b153e7e3b457b875b4345398e468c6000b604",
+      "0xa405642827446286c933182656141f9a07bd9762c083a79b6ae1b3963025f624",
+      "0xb75db84c7944db66a9275d975f506cab4a32800a42cbe7148a936a5218d00210",
+      "0x109f51a2f10c6dd8c4da49f3de17a393d1eac0ee76ca8528f15aa80959342cc9",
+      "0x7a06c93344bf9118d23f659b0e2cbc338ee46b2d6d2f9eb95a05476bf77e82ae",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x62f15c2c4140047ce8e492acd6f3e2702140e550": {
+    "snapshot": {
+      "total": "440277649512011963085",
+      "balances": {
+        "initial": "874789077687478099006",
+        "current": "434511428175466135921",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "440277649512011963085"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xb3df22d6b92c0b86cb396e71e9fa56a7755b89ff02940bd5d15d49ac872221ad",
+      "0xca5032fddeb3784d087451d1b6dbcad64709cf3bf2a79e96ef6bdb362d390cc0",
+      "0xcb5137d46554ca7e30b089e96b7f62d49887236e1b977019dc288f4a6cca9a7d",
+      "0x109f51a2f10c6dd8c4da49f3de17a393d1eac0ee76ca8528f15aa80959342cc9",
+      "0x7a06c93344bf9118d23f659b0e2cbc338ee46b2d6d2f9eb95a05476bf77e82ae",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x2ecac106bd9f42bd0e20c1e8cc3e2c31825952e4": {
+    "snapshot": {
+      "total": "896577272082474560057",
+      "balances": {
+        "initial": "1928739172656699623290",
+        "current": "1032161900574225063233",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "896577272082474560057"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x4673468bd77aafbbb5c5e1fdbb06b990bab30b943be93c63fa37f92ff3e8d261",
+      "0xca5032fddeb3784d087451d1b6dbcad64709cf3bf2a79e96ef6bdb362d390cc0",
+      "0xcb5137d46554ca7e30b089e96b7f62d49887236e1b977019dc288f4a6cca9a7d",
+      "0x109f51a2f10c6dd8c4da49f3de17a393d1eac0ee76ca8528f15aa80959342cc9",
+      "0x7a06c93344bf9118d23f659b0e2cbc338ee46b2d6d2f9eb95a05476bf77e82ae",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x867af9ea1ea8d850bd1857b24bc25f5956763a72": {
+    "snapshot": {
+      "total": "3750520722258075711804",
+      "balances": {
+        "initial": "9702015490346782412406",
+        "current": "5951494768088706700602",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "3750520722258075711804"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xa73bc22205983723120cb302ea045c283ee38828d67f535e57c203b8cc2ad75f",
+      "0x1114f99442f80789a803f1b36bbdb34793f7ec4c37f732805aa9b19eee7fc2e4",
+      "0xcb5137d46554ca7e30b089e96b7f62d49887236e1b977019dc288f4a6cca9a7d",
+      "0x109f51a2f10c6dd8c4da49f3de17a393d1eac0ee76ca8528f15aa80959342cc9",
+      "0x7a06c93344bf9118d23f659b0e2cbc338ee46b2d6d2f9eb95a05476bf77e82ae",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x23be060093db74f38b1a3daf57afdc1a23db0077": {
+    "snapshot": {
+      "total": "2179549970827097175058",
+      "balances": {
+        "initial": "6253974166116236374763",
+        "current": "4074424195289139199705",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "2179549970827097175058"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x277ccf62ba5456d6ff99e202379a12217a7b2127bca2500cc1d945f3d37be69b",
+      "0x1114f99442f80789a803f1b36bbdb34793f7ec4c37f732805aa9b19eee7fc2e4",
+      "0xcb5137d46554ca7e30b089e96b7f62d49887236e1b977019dc288f4a6cca9a7d",
+      "0x109f51a2f10c6dd8c4da49f3de17a393d1eac0ee76ca8528f15aa80959342cc9",
+      "0x7a06c93344bf9118d23f659b0e2cbc338ee46b2d6d2f9eb95a05476bf77e82ae",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x8a0244cab663a25ad9c82bd144b27c0e6cfa3c92": {
+    "snapshot": {
+      "total": "503964351466271448339",
+      "balances": {
+        "initial": "1184183191070529892079",
+        "current": "680218839604258443740",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "503964351466271448339"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xb9a2bd4fee2d4e00ff5c097493956fda8111b74978d0b82f8810c2a16f417010",
+      "0x69e3cf9ae85ec2b3b8725e73319fb3d2f5886ea6ffa5f1db91f64a83b8fbd2c4",
+      "0xac95599c2a60c5dd0a5563a4d05b4947ba6fb8c85912e044203db53d23fd6912",
+      "0x5e7a00c59178a65815c62ca3f8e879baefe53da4a63740b4c87d6893393b1dde",
+      "0x1a2a257d350b0ff094588146dfe2d59cd9dbdb47f10bdbf401a5cb9c1b49ee74",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x8410fb2d0cb776b9b6a6a3c911c220267b7f24d4": {
+    "snapshot": {
+      "total": "498960443108997696292",
+      "balances": {
+        "initial": "1495465197168678697760",
+        "current": "996504754059681001468",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "498960443108997696292"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x24c3080495e5c0c2dccb43a7b10cecd9174ee5cdb8734b55455a94c3fb860527",
+      "0x69e3cf9ae85ec2b3b8725e73319fb3d2f5886ea6ffa5f1db91f64a83b8fbd2c4",
+      "0xac95599c2a60c5dd0a5563a4d05b4947ba6fb8c85912e044203db53d23fd6912",
+      "0x5e7a00c59178a65815c62ca3f8e879baefe53da4a63740b4c87d6893393b1dde",
+      "0x1a2a257d350b0ff094588146dfe2d59cd9dbdb47f10bdbf401a5cb9c1b49ee74",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x4558ef17b852c4c19b765c8880ab31d669e1e03f": {
+    "snapshot": {
+      "total": "551502081305130448212",
+      "balances": {
+        "initial": "1624106801473170253534",
+        "current": "1072604720168039805322",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "551502081305130448212"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x2525af09b67597ca1000a3426121b9eb582d7bb1acde3fdb21afa15f6d6b47ef",
+      "0xa90dd504c98f3401bac979a4283c5973e2708531c1ce837c3dea7b556fd0a106",
+      "0xac95599c2a60c5dd0a5563a4d05b4947ba6fb8c85912e044203db53d23fd6912",
+      "0x5e7a00c59178a65815c62ca3f8e879baefe53da4a63740b4c87d6893393b1dde",
+      "0x1a2a257d350b0ff094588146dfe2d59cd9dbdb47f10bdbf401a5cb9c1b49ee74",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0xe4d3df079fbef6529c893ee4e9298711d480ff35": {
+    "snapshot": {
+      "total": "6753932933276928865256",
+      "balances": {
+        "initial": "15991197650744884866655",
+        "current": "9237264717467956001399",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "6753932933276928865256"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xe85ffb7a801a82f59ee7c7d1be308df8a0f0844350504416d940b32e4d50a000",
+      "0xa90dd504c98f3401bac979a4283c5973e2708531c1ce837c3dea7b556fd0a106",
+      "0xac95599c2a60c5dd0a5563a4d05b4947ba6fb8c85912e044203db53d23fd6912",
+      "0x5e7a00c59178a65815c62ca3f8e879baefe53da4a63740b4c87d6893393b1dde",
+      "0x1a2a257d350b0ff094588146dfe2d59cd9dbdb47f10bdbf401a5cb9c1b49ee74",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x434c6633cee5f79ec3b1914b8939f21eaef9aef8": {
+    "snapshot": {
+      "total": "1166145434771546397136",
+      "balances": {
+        "initial": "2669406662127587930208",
+        "current": "1503261227356041533072",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1166145434771546397136"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x22ac3b15ce1fef0d297ac0cee6cf1c58a6133fa42009aa0690cf525ddeeda042",
+      "0x64636764aaa87890d6c43bbc5e04dc960e2b45d0715975d2d9935f8cdb8c1021",
+      "0xa056092d82e6f5849c2976837f8b2eb9646cf6d1d96d0d91556781f059dd8728",
+      "0x5e7a00c59178a65815c62ca3f8e879baefe53da4a63740b4c87d6893393b1dde",
+      "0x1a2a257d350b0ff094588146dfe2d59cd9dbdb47f10bdbf401a5cb9c1b49ee74",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0xca705466e5cd52f4f02570a5d3c05d3935be0d99": {
+    "snapshot": {
+      "total": "3655596876068978402653",
+      "balances": {
+        "initial": "9456065184231751281558",
+        "current": "5800468308162772878905",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "3655596876068978402653"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x0721ff6a9aabb670f0f35af62935f4a263769baec2dc816d5cf64b499e0f72a1",
+      "0x64636764aaa87890d6c43bbc5e04dc960e2b45d0715975d2d9935f8cdb8c1021",
+      "0xa056092d82e6f5849c2976837f8b2eb9646cf6d1d96d0d91556781f059dd8728",
+      "0x5e7a00c59178a65815c62ca3f8e879baefe53da4a63740b4c87d6893393b1dde",
+      "0x1a2a257d350b0ff094588146dfe2d59cd9dbdb47f10bdbf401a5cb9c1b49ee74",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x09d8f7cd6179dc97335277c1d91792b120049a3a": {
+    "snapshot": {
+      "total": "9534494363820712797948",
+      "balances": {
+        "initial": "20181515661962794865446",
+        "current": "10647021298142082067498",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "9534494363820712797948"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xcf4e6f30cf6db75088357a057e1a9ef58408bea55823a732aa324925d58364c4",
+      "0x2d87c8aa526623ac4dafc3f8cba9cd6990b1d1a8c7b4d10eb2b1827c4dec00f9",
+      "0xa056092d82e6f5849c2976837f8b2eb9646cf6d1d96d0d91556781f059dd8728",
+      "0x5e7a00c59178a65815c62ca3f8e879baefe53da4a63740b4c87d6893393b1dde",
+      "0x1a2a257d350b0ff094588146dfe2d59cd9dbdb47f10bdbf401a5cb9c1b49ee74",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x9f6deae863d7f617e99fe75fb98ef2e0d7d1d13a": {
+    "snapshot": {
+      "total": "519711491909644507587",
+      "balances": {
+        "initial": "1155457240324395299579",
+        "current": "635745748414750791992",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "519711491909644507587"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x67aad29ba3ab54dce7efb1d59d957646b6d9125b111b35abcaa6b7b67b5271b0",
+      "0x2d87c8aa526623ac4dafc3f8cba9cd6990b1d1a8c7b4d10eb2b1827c4dec00f9",
+      "0xa056092d82e6f5849c2976837f8b2eb9646cf6d1d96d0d91556781f059dd8728",
+      "0x5e7a00c59178a65815c62ca3f8e879baefe53da4a63740b4c87d6893393b1dde",
+      "0x1a2a257d350b0ff094588146dfe2d59cd9dbdb47f10bdbf401a5cb9c1b49ee74",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x731915e8bc8369ed9d3314393b5c94f6b84a1485": {
+    "snapshot": {
+      "total": "511569917533259362742",
+      "balances": {
+        "initial": "2334194012394936962545",
+        "current": "1822624094861677599803",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "511569917533259362742"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xf536457d5d085cf6e48d218dafcb3899fa8feb589dbece6aa9f21dfda2f5e699",
+      "0x1986cdf23351a3f65b6c4fa1e37399ee8f8b301e6e94c03724d8346819ce0872",
+      "0xabbd1781cee4c5e007d4cb4cc494682891f69191e13684af11d30e81966a1ad4",
+      "0x25e327b177a153493071e53b0905197343e0304ae5588bd268a2944c2cf65b65",
+      "0x1a2a257d350b0ff094588146dfe2d59cd9dbdb47f10bdbf401a5cb9c1b49ee74",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0xca64ca7b2accaef0f8ca21519bcbf1fc769d264a": {
+    "snapshot": {
+      "total": "1301650478714214333613",
+      "balances": {
+        "initial": "2404318463772740707719",
+        "current": "1102667985058526374106",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1301650478714214333613"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x686a7bcb2b9516b6e28544e0f4c2a250a02d76c8d3afb6ef9f37d24e82d07e28",
+      "0x1986cdf23351a3f65b6c4fa1e37399ee8f8b301e6e94c03724d8346819ce0872",
+      "0xabbd1781cee4c5e007d4cb4cc494682891f69191e13684af11d30e81966a1ad4",
+      "0x25e327b177a153493071e53b0905197343e0304ae5588bd268a2944c2cf65b65",
+      "0x1a2a257d350b0ff094588146dfe2d59cd9dbdb47f10bdbf401a5cb9c1b49ee74",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x1e9b5f0e66fce216eb00cf4059381addefe82246": {
+    "snapshot": {
+      "total": "1939550015386469720613",
+      "balances": {
+        "initial": "4027805702621848515470",
+        "current": "2088255687235378794857",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1939550015386469720613"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x40f70069b53e687148d0fe8ee6bb392469036cd8dd78f9798dde4dadf23aa5bf",
+      "0xe4f820ad0447dabba8d5d3c0f44b89b432969a492b0e92d364bf6ba192e7e98c",
+      "0xabbd1781cee4c5e007d4cb4cc494682891f69191e13684af11d30e81966a1ad4",
+      "0x25e327b177a153493071e53b0905197343e0304ae5588bd268a2944c2cf65b65",
+      "0x1a2a257d350b0ff094588146dfe2d59cd9dbdb47f10bdbf401a5cb9c1b49ee74",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x83c832e0fc5a8feac5a2798ffd65136a3bd52d5c": {
+    "snapshot": {
+      "total": "3655214909571141771582",
+      "balances": {
+        "initial": "9455039589147008839766",
+        "current": "5799824679575867068184",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "3655214909571141771582"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xf957d59f9628bc3b234ce89823cda696a0f03ca2868bca77863992edc61de09c",
+      "0xe4f820ad0447dabba8d5d3c0f44b89b432969a492b0e92d364bf6ba192e7e98c",
+      "0xabbd1781cee4c5e007d4cb4cc494682891f69191e13684af11d30e81966a1ad4",
+      "0x25e327b177a153493071e53b0905197343e0304ae5588bd268a2944c2cf65b65",
+      "0x1a2a257d350b0ff094588146dfe2d59cd9dbdb47f10bdbf401a5cb9c1b49ee74",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x5fb6e7e6cd299449a02fe47cccd5cb70ff9dc632": {
+    "snapshot": {
+      "total": "1259453673915467731978",
+      "balances": {
+        "initial": "2515921650484177945848",
+        "current": "1256467976568710213870",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1259453673915467731978"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xb3a04a9ce8b4120cc36976af5ab25450e5bd2aea310ab140d5fb13a11f7b2b66",
+      "0xbb75a67f850214c34350de9be8282449d753080530bc7ee8ef5f951cf659a030",
+      "0x177a43c36012cd739cf41ec6d6b674bd0c6218afe9151a2391283def229107ce",
+      "0x25e327b177a153493071e53b0905197343e0304ae5588bd268a2944c2cf65b65",
+      "0x1a2a257d350b0ff094588146dfe2d59cd9dbdb47f10bdbf401a5cb9c1b49ee74",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0xaa257d53f02412c8f48995953071aba4b7911df7": {
+    "snapshot": {
+      "total": "1900051380571624310096",
+      "balances": {
+        "initial": "4371121220010443218328",
+        "current": "2471069839438818908232",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1900051380571624310096"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x766cd0f39d53822a25c808f11444bcb56331297d440b1cdeb7db221335bd0f3a",
+      "0xbb75a67f850214c34350de9be8282449d753080530bc7ee8ef5f951cf659a030",
+      "0x177a43c36012cd739cf41ec6d6b674bd0c6218afe9151a2391283def229107ce",
+      "0x25e327b177a153493071e53b0905197343e0304ae5588bd268a2944c2cf65b65",
+      "0x1a2a257d350b0ff094588146dfe2d59cd9dbdb47f10bdbf401a5cb9c1b49ee74",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x17ec067fc8680427fda280805fd01cea46f2f9f8": {
+    "snapshot": {
+      "total": "867392250893144969571",
+      "balances": {
+        "initial": "1640135088355203543813",
+        "current": "772742837462058574242",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "867392250893144969571"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x1624a87a6288a7556a50e0bd304972e6db6be5cb96bdb7cd18234057c8eddbca",
+      "0x2aa62e0a8dff6b54dd509ab6f55965f48883878d0a9eb18d88eacf918423b139",
+      "0x177a43c36012cd739cf41ec6d6b674bd0c6218afe9151a2391283def229107ce",
+      "0x25e327b177a153493071e53b0905197343e0304ae5588bd268a2944c2cf65b65",
+      "0x1a2a257d350b0ff094588146dfe2d59cd9dbdb47f10bdbf401a5cb9c1b49ee74",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0xe80928c5916b893daa91d730a5e3260bea655094": {
+    "snapshot": {
+      "total": "433444093470883623788",
+      "balances": {
+        "initial": "923077372039172644068",
+        "current": "489633278568289020280",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "433444093470883623788"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xdfb2c8ac43a5fe78b999f20f47cb9079c4d99429ade01199af57e566d7b1447e",
+      "0x2aa62e0a8dff6b54dd509ab6f55965f48883878d0a9eb18d88eacf918423b139",
+      "0x177a43c36012cd739cf41ec6d6b674bd0c6218afe9151a2391283def229107ce",
+      "0x25e327b177a153493071e53b0905197343e0304ae5588bd268a2944c2cf65b65",
+      "0x1a2a257d350b0ff094588146dfe2d59cd9dbdb47f10bdbf401a5cb9c1b49ee74",
+      "0xfc765859dd6ad4e666446a5afabbfc1c967699bb1e58b367331d92fd60fcd259",
+      "0x7c7ed4d6345d6750a9d998047b0658d80737815887b767009ea20b999a14f011"
+    ]
+  },
+  "0x83b7d6227369e662bed4ae13600f35f87eb853ac": {
+    "snapshot": {
+      "total": "6019861680961267255769",
+      "balances": {
+        "initial": "12631237875892405589503",
+        "current": "6611376194931138333734",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "6019861680961267255769"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x359555f300b183dc878b3ad60760c0ad45b5f2b09b0cfad84ab855fb0b43e8f1",
+      "0x7dff8bbd5619706c4ac597615b159c5efae28c714a060aae89465bc40195c482",
+      "0x935b75f7985093133283267c4c464ffc8e6c57dc94627b0514b8dbffdac013f9",
+      "0x61a6776c4f36acbd4af74a6742f9eb6bbe478f7fe565099ea9109acaeeda82bb",
+      "0x549b46094466e6a2fabb0e8a2177be922b17116008ef9da44051d16c72442085",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x81995f69314aa53a13ca315b89fcf44ac55bf39b": {
+    "snapshot": {
+      "total": "1315227030538321572551",
+      "balances": {
+        "initial": "3275477846696878418227",
+        "current": "1960250816158556845676",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1315227030538321572551"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x369f26d0afcfc86af75859ce1099319d73379f5e3f37f60f18322e3d050f9ccb",
+      "0x7dff8bbd5619706c4ac597615b159c5efae28c714a060aae89465bc40195c482",
+      "0x935b75f7985093133283267c4c464ffc8e6c57dc94627b0514b8dbffdac013f9",
+      "0x61a6776c4f36acbd4af74a6742f9eb6bbe478f7fe565099ea9109acaeeda82bb",
+      "0x549b46094466e6a2fabb0e8a2177be922b17116008ef9da44051d16c72442085",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xcdca0bbc8b3ba779c43b4870157e3c5c7398e6d7": {
+    "snapshot": {
+      "total": "4327461459898087681928",
+      "balances": {
+        "initial": "9974854340144313516374",
+        "current": "5647392880246225834446",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "4327461459898087681928"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x381b12b2ad8ef622dd79dc8548bec16932557fa0d758ea4ba4c7aab9de38f37d",
+      "0xf87d68a2cc94d24dc511c746260976115e843182e47e865f269f5a9a7eea9a18",
+      "0x935b75f7985093133283267c4c464ffc8e6c57dc94627b0514b8dbffdac013f9",
+      "0x61a6776c4f36acbd4af74a6742f9eb6bbe478f7fe565099ea9109acaeeda82bb",
+      "0x549b46094466e6a2fabb0e8a2177be922b17116008ef9da44051d16c72442085",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x5b6fcab2c8ca0fc445eb5ad8aa4b51a028c0b964": {
+    "snapshot": {
+      "total": "2641244874809372415657",
+      "balances": {
+        "initial": "6659607599454835476228",
+        "current": "4018362724645463060571",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "2641244874809372415657"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x92d1bf8d3ca673c03917280b3b3d4a95c028b1d7292c3b50f4c66f0e0f06bfb2",
+      "0xf87d68a2cc94d24dc511c746260976115e843182e47e865f269f5a9a7eea9a18",
+      "0x935b75f7985093133283267c4c464ffc8e6c57dc94627b0514b8dbffdac013f9",
+      "0x61a6776c4f36acbd4af74a6742f9eb6bbe478f7fe565099ea9109acaeeda82bb",
+      "0x549b46094466e6a2fabb0e8a2177be922b17116008ef9da44051d16c72442085",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x69afaa78f94905ac58d8d7c2df6241b6c1051a5b": {
+    "snapshot": {
+      "total": "435316353147338022276",
+      "balances": {
+        "initial": "936032461691580328953",
+        "current": "500716108544242306677",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "435316353147338022276"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xb59812b12b527498afa6228d6a8d9c9ba79229b3cb1bbe8cb8081582ed3b9cdc",
+      "0xbd4cf78f638bc805368ce5d59ba34592b7017ecb1a2c8078e20e8fbee21cf07b",
+      "0x11a1d761c74674b7e77e4c2fa95d0d7c2694e5f61631b3c3372abe9687346330",
+      "0x61a6776c4f36acbd4af74a6742f9eb6bbe478f7fe565099ea9109acaeeda82bb",
+      "0x549b46094466e6a2fabb0e8a2177be922b17116008ef9da44051d16c72442085",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x45a91f8cab47f5ba152a12cce5a3c314d50e4b7a": {
+    "snapshot": {
+      "total": "517699972975167034737",
+      "balances": {
+        "initial": "829745025396242532362",
+        "current": "312045052421075497625",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "517699972975167034737"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xb339c0612af0e161359cd399f7c61f75acd116d1f40d47480260fccb60e03487",
+      "0xbd4cf78f638bc805368ce5d59ba34592b7017ecb1a2c8078e20e8fbee21cf07b",
+      "0x11a1d761c74674b7e77e4c2fa95d0d7c2694e5f61631b3c3372abe9687346330",
+      "0x61a6776c4f36acbd4af74a6742f9eb6bbe478f7fe565099ea9109acaeeda82bb",
+      "0x549b46094466e6a2fabb0e8a2177be922b17116008ef9da44051d16c72442085",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xfae486b5167a9bbf02055e73fc7fdb18189400a4": {
+    "snapshot": {
+      "total": "1274849762495523978192",
+      "balances": {
+        "initial": "2309844885841787132147",
+        "current": "1034995123346263153955",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1274849762495523978192"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xf66c6aa35cf53b55dbd919757b9ffc63016d23c08623c5ad4e35a1d3d2d9a310",
+      "0x50991ba34612e00ecd0efe455a67108309f8afc4211cdd850ebb11b4d6737030",
+      "0x11a1d761c74674b7e77e4c2fa95d0d7c2694e5f61631b3c3372abe9687346330",
+      "0x61a6776c4f36acbd4af74a6742f9eb6bbe478f7fe565099ea9109acaeeda82bb",
+      "0x549b46094466e6a2fabb0e8a2177be922b17116008ef9da44051d16c72442085",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x821906ce2e228032552c02667dc0b04d0cdb8bce": {
+    "snapshot": {
+      "total": "384688051444530417336",
+      "balances": {
+        "initial": "915292648277836622687",
+        "current": "530604596833306205351",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "384688051444530417336"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x5909403ec4c68b7455c832020b864cfe91cd13e2864e3b37353d25fb16723f41",
+      "0x50991ba34612e00ecd0efe455a67108309f8afc4211cdd850ebb11b4d6737030",
+      "0x11a1d761c74674b7e77e4c2fa95d0d7c2694e5f61631b3c3372abe9687346330",
+      "0x61a6776c4f36acbd4af74a6742f9eb6bbe478f7fe565099ea9109acaeeda82bb",
+      "0x549b46094466e6a2fabb0e8a2177be922b17116008ef9da44051d16c72442085",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x68e51752bc764ff5f598ebec21fe5527b56a03b6": {
+    "snapshot": {
+      "total": "488041583506718348624",
+      "balances": {
+        "initial": "1168130404062600155438",
+        "current": "680088820555881806814",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "488041583506718348624"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x07226cad33f312dbc6a74bd5b58af5862f1ced651ed0bf8409d88fe00fae3f76",
+      "0x91b303b144f53ccc70e567e292ebbdf96a9d6d547d18d9b024f90e0e1415a39c",
+      "0x6eb628996b42c8ced34d7ed2e5969de4321514b487cfd2a18cf96c8df2b95bcd",
+      "0x06374b9d2d2939a28a8da72a00a137f4a030555fb7a435f18d19954941e0c9c3",
+      "0x549b46094466e6a2fabb0e8a2177be922b17116008ef9da44051d16c72442085",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xee7a77775090c39293f6d199ae7bfd442cb33873": {
+    "snapshot": {
+      "total": "1708696966582630589321",
+      "balances": {
+        "initial": "4380126858194853466198",
+        "current": "2671429891612222876877",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1708696966582630589321"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x7bcf53474e5d88b2311b19f0a8996a8120388527c2975671c9dc9f035b90a937",
+      "0x91b303b144f53ccc70e567e292ebbdf96a9d6d547d18d9b024f90e0e1415a39c",
+      "0x6eb628996b42c8ced34d7ed2e5969de4321514b487cfd2a18cf96c8df2b95bcd",
+      "0x06374b9d2d2939a28a8da72a00a137f4a030555fb7a435f18d19954941e0c9c3",
+      "0x549b46094466e6a2fabb0e8a2177be922b17116008ef9da44051d16c72442085",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xd2d986f32aa02b87948c88cd1f82037e7afce418": {
+    "snapshot": {
+      "total": "520556483644418952388",
+      "balances": {
+        "initial": "1677823567448426120432",
+        "current": "1157267083804007168044",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "520556483644418952388"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x5b958780e780f69735fa68355d5a7f62eef98c1f791ebcb1cd69404351eecf1e",
+      "0xe637a87f2d1d6d59f3d451823533110159a5cabc64b5fd5e31509efe00b84b3a",
+      "0x6eb628996b42c8ced34d7ed2e5969de4321514b487cfd2a18cf96c8df2b95bcd",
+      "0x06374b9d2d2939a28a8da72a00a137f4a030555fb7a435f18d19954941e0c9c3",
+      "0x549b46094466e6a2fabb0e8a2177be922b17116008ef9da44051d16c72442085",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x8fd32b1c44c98274fee2954ee1503b9e09a7345e": {
+    "snapshot": {
+      "total": "2403749066026773188120",
+      "balances": {
+        "initial": "4662143060127044452217",
+        "current": "2258393994100271264097",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "2403749066026773188120"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x28e0b0187e200160e02b2c16893f340fa886696ea2f0465e211035bfacfa94b0",
+      "0xe637a87f2d1d6d59f3d451823533110159a5cabc64b5fd5e31509efe00b84b3a",
+      "0x6eb628996b42c8ced34d7ed2e5969de4321514b487cfd2a18cf96c8df2b95bcd",
+      "0x06374b9d2d2939a28a8da72a00a137f4a030555fb7a435f18d19954941e0c9c3",
+      "0x549b46094466e6a2fabb0e8a2177be922b17116008ef9da44051d16c72442085",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xedc24c8a0b98715c4c42f23fa1a966d68d71da40": {
+    "snapshot": {
+      "total": "448760982083225117554",
+      "balances": {
+        "initial": "891698592198276373716",
+        "current": "442937610115051256162",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "448760982083225117554"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x931f6c7ceaffbe43546594c53e0e5b626cfc6097a45db5575473e688776523f2",
+      "0x48ea07fad3d73dc711475f1640e4d6a144a1f7625c98e3d3bfb1a022863f1f8c",
+      "0x4dddc664d8f6d6cfb54eedaa146fab4d67416ad120e97df3182f39f936836825",
+      "0x06374b9d2d2939a28a8da72a00a137f4a030555fb7a435f18d19954941e0c9c3",
+      "0x549b46094466e6a2fabb0e8a2177be922b17116008ef9da44051d16c72442085",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x72a9c839209c54ea0d776f7263adbededd5a83b8": {
+    "snapshot": {
+      "total": "1410486135958809578847",
+      "balances": {
+        "initial": "3472755138048150689501",
+        "current": "2062269002089341110654",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1410486135958809578847"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xa111d7638149da8f0af2f622410d4503dc984edc3cd8271b32e960591b856d8a",
+      "0x48ea07fad3d73dc711475f1640e4d6a144a1f7625c98e3d3bfb1a022863f1f8c",
+      "0x4dddc664d8f6d6cfb54eedaa146fab4d67416ad120e97df3182f39f936836825",
+      "0x06374b9d2d2939a28a8da72a00a137f4a030555fb7a435f18d19954941e0c9c3",
+      "0x549b46094466e6a2fabb0e8a2177be922b17116008ef9da44051d16c72442085",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xd9044041ced8fdd76a5e55a319643545214a99e4": {
+    "snapshot": {
+      "total": "552492287414384965703",
+      "balances": {
+        "initial": "1895505568118484002337",
+        "current": "1343013280704099036634",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "552492287414384965703"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x8e962bef536678f9a3da5af028ef70f34214a68b64fbc29ef3b17f095975d3ab",
+      "0x5b35e89dea6f3bbf9496108d45cf10eb1eb215bb81233187c633b2afbf112ddf",
+      "0x4dddc664d8f6d6cfb54eedaa146fab4d67416ad120e97df3182f39f936836825",
+      "0x06374b9d2d2939a28a8da72a00a137f4a030555fb7a435f18d19954941e0c9c3",
+      "0x549b46094466e6a2fabb0e8a2177be922b17116008ef9da44051d16c72442085",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x74d8d920623a657a73a8e322b77fc6560d2bb221": {
+    "snapshot": {
+      "total": "564901240569782541262",
+      "balances": {
+        "initial": "1804148816940464582505",
+        "current": "1239247576370682041243",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "564901240569782541262"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x25a8842cff29300b80701d4835493b2a6286015a88c0f41fe3d6689b21cd3fc3",
+      "0x5b35e89dea6f3bbf9496108d45cf10eb1eb215bb81233187c633b2afbf112ddf",
+      "0x4dddc664d8f6d6cfb54eedaa146fab4d67416ad120e97df3182f39f936836825",
+      "0x06374b9d2d2939a28a8da72a00a137f4a030555fb7a435f18d19954941e0c9c3",
+      "0x549b46094466e6a2fabb0e8a2177be922b17116008ef9da44051d16c72442085",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xb3b48c8b99ecd31659996435446a78f282b4016d": {
+    "snapshot": {
+      "total": "1024675612118433947758",
+      "balances": {
+        "initial": "2722838308968341986370",
+        "current": "1698162696849908038612",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1024675612118433947758"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x114889ae8ff1d85d31b55f4a0f087e695891d09028e3db9474702e8e040fe92b",
+      "0x218ad33bd974720bd0a4a8b5a406ff75c8ce3156239ead0b5828d65c8454e807",
+      "0x0706b17ee0f799d101f44bb22224d8b81dff316a1efdf82bb50c82afa79be915",
+      "0x8a38f366eda25319acc083f5ff82aeccc9877f55c2ee247c36b150d39d28d3b4",
+      "0xf147b026bf41c16e57eb9f72a9df8edae29106a4cda352471a31a21f5f1dd52e",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xc29c2dee6eacbd4c57c4afc18c1d01490e8f9d1c": {
+    "snapshot": {
+      "total": "6350983790156960463752",
+      "balances": {
+        "initial": "15029038358639629157042",
+        "current": "8678054568482668693290",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "6350983790156960463752"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xf181784423e125fe6558ea66a94ab487dfab3072d8337742ab9699912001bed0",
+      "0x218ad33bd974720bd0a4a8b5a406ff75c8ce3156239ead0b5828d65c8454e807",
+      "0x0706b17ee0f799d101f44bb22224d8b81dff316a1efdf82bb50c82afa79be915",
+      "0x8a38f366eda25319acc083f5ff82aeccc9877f55c2ee247c36b150d39d28d3b4",
+      "0xf147b026bf41c16e57eb9f72a9df8edae29106a4cda352471a31a21f5f1dd52e",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xbe39e1c960e43df3acc89fc73634850ded2a59ee": {
+    "snapshot": {
+      "total": "5477756751683239787528",
+      "balances": {
+        "initial": "12972446452337868917763",
+        "current": "7494689700654629130235",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "5477756751683239787528"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x098fc35e2b989da434a2b5986ab32af65bb596f781338904c7f1f8e3d6b783f1",
+      "0x41e3861d823b8214b15a574c0e0e03886a1d4d997286ecf89e8bcbbae36c093f",
+      "0x0706b17ee0f799d101f44bb22224d8b81dff316a1efdf82bb50c82afa79be915",
+      "0x8a38f366eda25319acc083f5ff82aeccc9877f55c2ee247c36b150d39d28d3b4",
+      "0xf147b026bf41c16e57eb9f72a9df8edae29106a4cda352471a31a21f5f1dd52e",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x040bfa96615fceed61e68223fef17b72ec0197ff": {
+    "snapshot": {
+      "total": "819500996839719721731",
+      "balances": {
+        "initial": "1775953857623603005665",
+        "current": "956452860783883283934",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "819500996839719721731"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x5b64c9084d2b41deff597e3c9a9ead26c5a271774376f74f0db41fc5ea5cb018",
+      "0x41e3861d823b8214b15a574c0e0e03886a1d4d997286ecf89e8bcbbae36c093f",
+      "0x0706b17ee0f799d101f44bb22224d8b81dff316a1efdf82bb50c82afa79be915",
+      "0x8a38f366eda25319acc083f5ff82aeccc9877f55c2ee247c36b150d39d28d3b4",
+      "0xf147b026bf41c16e57eb9f72a9df8edae29106a4cda352471a31a21f5f1dd52e",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xf634ed4015ef307f3576921422d8f1f9f59dc48f": {
+    "snapshot": {
+      "total": "1271474229959755676336",
+      "balances": {
+        "initial": "2280075643181688011213",
+        "current": "1008601413221932334877",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1271474229959755676336"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xb90c1e4daca2a01d0091ea14dd20b801d5d32fcb06b014cee2cd3b3b1d9e7b85",
+      "0x9546e50b60b1dfac4a6148591eb02dc1ab57084ca5dd74c9e5c35f2d1c72a202",
+      "0xf99439914eb4cf8ea63acef33265d8cd4d869ab0949b0b7d7a5a0dd2ed3e7256",
+      "0x8a38f366eda25319acc083f5ff82aeccc9877f55c2ee247c36b150d39d28d3b4",
+      "0xf147b026bf41c16e57eb9f72a9df8edae29106a4cda352471a31a21f5f1dd52e",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xbe9c3b0b6a213a91405f01ed2c351ab84c6164cc": {
+    "snapshot": {
+      "total": "419537995232182103614",
+      "balances": {
+        "initial": "840268438726424969079",
+        "current": "420730443494242865465",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "419537995232182103614"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xe1abb96152d4d9bc357e42565e696497a357f1b69d86ec503d242d2c22fd137e",
+      "0x9546e50b60b1dfac4a6148591eb02dc1ab57084ca5dd74c9e5c35f2d1c72a202",
+      "0xf99439914eb4cf8ea63acef33265d8cd4d869ab0949b0b7d7a5a0dd2ed3e7256",
+      "0x8a38f366eda25319acc083f5ff82aeccc9877f55c2ee247c36b150d39d28d3b4",
+      "0xf147b026bf41c16e57eb9f72a9df8edae29106a4cda352471a31a21f5f1dd52e",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xf57600eb2ed70b4ab293a91ae08f7172c2faca52": {
+    "snapshot": {
+      "total": "504690961678548731408",
+      "balances": {
+        "initial": "876968250817207764278",
+        "current": "372277289138659032870",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "504690961678548731408"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x71efdb2afe041cd7273299cb268f74dc758d3786a20804e0ddae856b1ebe34b3",
+      "0x56c207f16472fad3b6b7e91639b11ff0ac8bc63d7f85fafb9b9018affbeac5c6",
+      "0xf99439914eb4cf8ea63acef33265d8cd4d869ab0949b0b7d7a5a0dd2ed3e7256",
+      "0x8a38f366eda25319acc083f5ff82aeccc9877f55c2ee247c36b150d39d28d3b4",
+      "0xf147b026bf41c16e57eb9f72a9df8edae29106a4cda352471a31a21f5f1dd52e",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x206cb0be90188941db2b70cb2ce07eae3bee2d80": {
+    "snapshot": {
+      "total": "463240091826198298939",
+      "balances": {
+        "initial": "1194195793650001056835",
+        "current": "730955701823802757896",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "463240091826198298939"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x70fb747241644cddb2fa1abdcf5501461bd871a05da30351782ad786867ede6c",
+      "0x56c207f16472fad3b6b7e91639b11ff0ac8bc63d7f85fafb9b9018affbeac5c6",
+      "0xf99439914eb4cf8ea63acef33265d8cd4d869ab0949b0b7d7a5a0dd2ed3e7256",
+      "0x8a38f366eda25319acc083f5ff82aeccc9877f55c2ee247c36b150d39d28d3b4",
+      "0xf147b026bf41c16e57eb9f72a9df8edae29106a4cda352471a31a21f5f1dd52e",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x83c6c3411159f6bf5018fb3602e73518da88e838": {
+    "snapshot": {
+      "total": "434241428588516306013",
+      "balances": {
+        "initial": "1029638245529407778521",
+        "current": "595396816940891472508",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "434241428588516306013"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x1da586b052ba4e87ef7f1ec4d5def26f6c21c10a7dbeb74b2faa11fe2135ec7c",
+      "0x73dba1866be40e90a0ec188dae0b8c14dc7ead41e29c9b58edf75257117e5ad6",
+      "0xdfc1f51679fa417cad487daf2987727f445eddc6212ec2284d942466d025d730",
+      "0xe290cb85def52d3f372f98a6cd56ae78148c710e2fe00b58ab0363b245778b2b",
+      "0xf147b026bf41c16e57eb9f72a9df8edae29106a4cda352471a31a21f5f1dd52e",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x7c394cec0247e63d02643ce854197728e05233fa": {
+    "snapshot": {
+      "total": "845847113974382770514",
+      "balances": {
+        "initial": "1696890521190723453989",
+        "current": "851043407216340683475",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "845847113974382770514"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x6b0b69c964591b14417ce2a1c71ecb64483a3edce7fb44541fee03b17da8a9d2",
+      "0x73dba1866be40e90a0ec188dae0b8c14dc7ead41e29c9b58edf75257117e5ad6",
+      "0xdfc1f51679fa417cad487daf2987727f445eddc6212ec2284d942466d025d730",
+      "0xe290cb85def52d3f372f98a6cd56ae78148c710e2fe00b58ab0363b245778b2b",
+      "0xf147b026bf41c16e57eb9f72a9df8edae29106a4cda352471a31a21f5f1dd52e",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xf113a8031d4c17d0d42557db49d36072ad8943f7": {
+    "snapshot": {
+      "total": "488691282719585551869",
+      "balances": {
+        "initial": "1657170191147285559522",
+        "current": "1168478908427700007653",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "488691282719585551869"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x99bb67700e17278108a57e6b447e098203c771a6a31567a9f5769cf14783655f",
+      "0x23500741240b3725dad23c57a146c47bab40208e7eb9b5ba7739a6d75f2b7639",
+      "0xdfc1f51679fa417cad487daf2987727f445eddc6212ec2284d942466d025d730",
+      "0xe290cb85def52d3f372f98a6cd56ae78148c710e2fe00b58ab0363b245778b2b",
+      "0xf147b026bf41c16e57eb9f72a9df8edae29106a4cda352471a31a21f5f1dd52e",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x4907985b56ce53a84cd52470d9d133c6deced1b7": {
+    "snapshot": {
+      "total": "569108091056255206745",
+      "balances": {
+        "initial": "1881663682783092318157",
+        "current": "1312555591726837111412",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "569108091056255206745"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x35bb13c67d1384ff6b37d508bd5fb243bc71fd70d0d957535b504e7695649cf6",
+      "0x23500741240b3725dad23c57a146c47bab40208e7eb9b5ba7739a6d75f2b7639",
+      "0xdfc1f51679fa417cad487daf2987727f445eddc6212ec2284d942466d025d730",
+      "0xe290cb85def52d3f372f98a6cd56ae78148c710e2fe00b58ab0363b245778b2b",
+      "0xf147b026bf41c16e57eb9f72a9df8edae29106a4cda352471a31a21f5f1dd52e",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x1a026895485684985438c67316fe6a7671e66d47": {
+    "snapshot": {
+      "total": "537304815723977883533",
+      "balances": {
+        "initial": "1265664463182312900125",
+        "current": "728359647458335016592",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "537304815723977883533"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x13552ce5feb1546aea74d10474893f37b0a12178e4c14051fadfba9117d53411",
+      "0xd05862cec285f8521dc9a942dafe3afa93f29ff707a50471162727aa3f64a9ba",
+      "0xa3e122a65a9f58a6c4cd62ec170918c6bd84a79a6255d257f08d1ae191b20fb4",
+      "0xe290cb85def52d3f372f98a6cd56ae78148c710e2fe00b58ab0363b245778b2b",
+      "0xf147b026bf41c16e57eb9f72a9df8edae29106a4cda352471a31a21f5f1dd52e",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x6a78f926fc753955b75de9101789d22592b9edef": {
+    "snapshot": {
+      "total": "11650710435767311545446",
+      "balances": {
+        "initial": "26462864407445988907958",
+        "current": "14812153971678677362512",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "11650710435767311545446"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x5a9e894789ea9643494f6b180348825fd125e16bba796f9b514fb7dc103be819",
+      "0xd05862cec285f8521dc9a942dafe3afa93f29ff707a50471162727aa3f64a9ba",
+      "0xa3e122a65a9f58a6c4cd62ec170918c6bd84a79a6255d257f08d1ae191b20fb4",
+      "0xe290cb85def52d3f372f98a6cd56ae78148c710e2fe00b58ab0363b245778b2b",
+      "0xf147b026bf41c16e57eb9f72a9df8edae29106a4cda352471a31a21f5f1dd52e",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x1bf597460d746bb1fe25d494dc96fe340c11788f": {
+    "snapshot": {
+      "total": "596318994121790764087",
+      "balances": {
+        "initial": "1696931967936263291770",
+        "current": "1100612973814472527683",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "596318994121790764087"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xf606a1f619f31bd7623c027e401f3fe9d3866bd69f02359018fc0c40b226a2ba",
+      "0x59cca84aca60e433129d6f59fef45ab903afea3fdc0d3fdd481617e42fa3332b",
+      "0xa3e122a65a9f58a6c4cd62ec170918c6bd84a79a6255d257f08d1ae191b20fb4",
+      "0xe290cb85def52d3f372f98a6cd56ae78148c710e2fe00b58ab0363b245778b2b",
+      "0xf147b026bf41c16e57eb9f72a9df8edae29106a4cda352471a31a21f5f1dd52e",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x2ca679af72096bd926b13d9ce51316424338e6ae": {
+    "snapshot": {
+      "total": "1595978904483012036251",
+      "balances": {
+        "initial": "3171648614461932220551",
+        "current": "1575669709978920184300",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1595978904483012036251"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xcbf6b0753a456faae63e5c4b966f5e5d63e76132fa86ba6f77909375eec53ac6",
+      "0x59cca84aca60e433129d6f59fef45ab903afea3fdc0d3fdd481617e42fa3332b",
+      "0xa3e122a65a9f58a6c4cd62ec170918c6bd84a79a6255d257f08d1ae191b20fb4",
+      "0xe290cb85def52d3f372f98a6cd56ae78148c710e2fe00b58ab0363b245778b2b",
+      "0xf147b026bf41c16e57eb9f72a9df8edae29106a4cda352471a31a21f5f1dd52e",
+      "0xf2bc76026e6a7c016bda07c1eeefd6f01cff740c8d1a390184c8c83890466b81",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x5c5abb7047b27c70abec5a840f3d0c4c7759ce8f": {
+    "snapshot": {
+      "total": "617088635273930828568",
+      "balances": {
+        "initial": "2838095793743600562304",
+        "current": "2221007158469669733736",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "617088635273930828568"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xeb486203dd6a0b94c3fd9fd76bb3e58c774a66953431e9271419b8d81664bccc",
+      "0x06cae334c4ecbbdd112a336f493cc8a0fb3b6b8e4112e75b53b6979b1cebdf95",
+      "0x0b9bf0e70a5f5d29b6d34581bdbffd06943adef0e997ae324ac066c85c35009f",
+      "0xc33810e5e4f2b9a06264276300d77289f2e5bf5d74ff7f399564d18a5bbe0d30",
+      "0x2cf0f47eee83409b3f71e4cc9e4e9bc01f637d91a7d0a7300f2afbf1b27510ae",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xf81c957ff9b2af4f20e728c6699d3c169edbcf0e": {
+    "snapshot": {
+      "total": "434988683960510596869",
+      "balances": {
+        "initial": "935166914479951076150",
+        "current": "500178230519440479281",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "434988683960510596869"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xab4ac2021d84c0b28a76efe402c0773c8146e92806be8a72c6d7945fc9719b7b",
+      "0x06cae334c4ecbbdd112a336f493cc8a0fb3b6b8e4112e75b53b6979b1cebdf95",
+      "0x0b9bf0e70a5f5d29b6d34581bdbffd06943adef0e997ae324ac066c85c35009f",
+      "0xc33810e5e4f2b9a06264276300d77289f2e5bf5d74ff7f399564d18a5bbe0d30",
+      "0x2cf0f47eee83409b3f71e4cc9e4e9bc01f637d91a7d0a7300f2afbf1b27510ae",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x700132fb99afe7189e338dafd2a6db820f474e62": {
+    "snapshot": {
+      "total": "465849954348673482381",
+      "balances": {
+        "initial": "1094624419159125343798",
+        "current": "628774464810451861417",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "465849954348673482381"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x73fe12e35e6c7f7e6b9bb8fdbcce8fbcfcbc9705ac3fe73260223793c1906d9b",
+      "0xa2f3bd21c29713e90bd6b9394840e28c9c69a050bae8c8504d2b63b21a59aa56",
+      "0x0b9bf0e70a5f5d29b6d34581bdbffd06943adef0e997ae324ac066c85c35009f",
+      "0xc33810e5e4f2b9a06264276300d77289f2e5bf5d74ff7f399564d18a5bbe0d30",
+      "0x2cf0f47eee83409b3f71e4cc9e4e9bc01f637d91a7d0a7300f2afbf1b27510ae",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xbfa82faef8724c77a9eb84f255034954b380d05c": {
+    "snapshot": {
+      "total": "3622874438447783396919",
+      "balances": {
+        "initial": "9368050720548382757712",
+        "current": "5745176282100599360793",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "3622874438447783396919"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xa23f17f2530a848ea451480f86d419157fdaffca21584a0b4a94bd506e939941",
+      "0xa2f3bd21c29713e90bd6b9394840e28c9c69a050bae8c8504d2b63b21a59aa56",
+      "0x0b9bf0e70a5f5d29b6d34581bdbffd06943adef0e997ae324ac066c85c35009f",
+      "0xc33810e5e4f2b9a06264276300d77289f2e5bf5d74ff7f399564d18a5bbe0d30",
+      "0x2cf0f47eee83409b3f71e4cc9e4e9bc01f637d91a7d0a7300f2afbf1b27510ae",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x6ccb2e1685fa0a68767ebbe64187ce48a583d9ab": {
+    "snapshot": {
+      "total": "506118854254456328105",
+      "balances": {
+        "initial": "972529122236177153967",
+        "current": "466410267981720825862",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "506118854254456328105"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x9041c4f2be60f743245fcce72546c94e73fca50bf46a671e4b07880f2656bbcb",
+      "0x715ee6dc5d6acac5eb296a90006f5e0aa7a70957e03f8f18a9d67c768b75ef5a",
+      "0x67ce14361fdc138e41ae617c09bda768349c7e9b4e5b93aab9f4783a798d0fb4",
+      "0xc33810e5e4f2b9a06264276300d77289f2e5bf5d74ff7f399564d18a5bbe0d30",
+      "0x2cf0f47eee83409b3f71e4cc9e4e9bc01f637d91a7d0a7300f2afbf1b27510ae",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xd5157866f7bb8f490e13aba960f689178635ead2": {
+    "snapshot": {
+      "total": "302194958596279908806",
+      "balances": {
+        "initial": "640535968132907045527",
+        "current": "338341009536627136721",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "302194958596279908806"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xd2abfc697a8e67e93ef5e0b793fe42d478df2d0d58db88ac97a8d2f63885473a",
+      "0x715ee6dc5d6acac5eb296a90006f5e0aa7a70957e03f8f18a9d67c768b75ef5a",
+      "0x67ce14361fdc138e41ae617c09bda768349c7e9b4e5b93aab9f4783a798d0fb4",
+      "0xc33810e5e4f2b9a06264276300d77289f2e5bf5d74ff7f399564d18a5bbe0d30",
+      "0x2cf0f47eee83409b3f71e4cc9e4e9bc01f637d91a7d0a7300f2afbf1b27510ae",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xdf0c9d8619fcec35acbee338f33f074123a342ff": {
+    "snapshot": {
+      "total": "2393071687576184026495",
+      "balances": {
+        "initial": "6831884777920744919861",
+        "current": "4438813090344560893366",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "2393071687576184026495"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xcf951c38fea30c6afc9409d2c67c85a5fa5625ad8be788e3c4e457e5475e5446",
+      "0x3aa928470c1b3c5a2205a9cd73f0ea6a7bc4e56546f8917c5307b603857e9500",
+      "0x67ce14361fdc138e41ae617c09bda768349c7e9b4e5b93aab9f4783a798d0fb4",
+      "0xc33810e5e4f2b9a06264276300d77289f2e5bf5d74ff7f399564d18a5bbe0d30",
+      "0x2cf0f47eee83409b3f71e4cc9e4e9bc01f637d91a7d0a7300f2afbf1b27510ae",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x19882c42b8233128b4fc7c1c39ddb994060fd316": {
+    "snapshot": {
+      "total": "17830606182964860246623",
+      "balances": {
+        "initial": "40464645137844711119316",
+        "current": "22634038954879850872693",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "17830606182964860246623"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xae3d53310deb532a698e9e8c05910a89c063e468e069a68809cbd32ad28230ba",
+      "0x3aa928470c1b3c5a2205a9cd73f0ea6a7bc4e56546f8917c5307b603857e9500",
+      "0x67ce14361fdc138e41ae617c09bda768349c7e9b4e5b93aab9f4783a798d0fb4",
+      "0xc33810e5e4f2b9a06264276300d77289f2e5bf5d74ff7f399564d18a5bbe0d30",
+      "0x2cf0f47eee83409b3f71e4cc9e4e9bc01f637d91a7d0a7300f2afbf1b27510ae",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x42ead2b245ac5951afcffe6ed5552dfb729eb21e": {
+    "snapshot": {
+      "total": "1497560830857177087490",
+      "balances": {
+        "initial": "2672550507271729766282",
+        "current": "1174989676414552678792",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1497560830857177087490"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x2de506cad2c006c945b542541040fdfa5cc02e663864b1345cb77c6f8b0e8e8c",
+      "0xf6c0f1af16e26c26d1c2123b7b72f27f2ec924876aa382b6556e8423af76d450",
+      "0xdddc22fc7d03d3ea0e314be6c4b71153beca518ec8aceb9e3321de5b490a4e57",
+      "0xc6d6a65ec67be7c42b4e8810965392be104a001132b374d8f06999869427b25a",
+      "0x2cf0f47eee83409b3f71e4cc9e4e9bc01f637d91a7d0a7300f2afbf1b27510ae",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x8bdf174a84d797147d5066a4bc28bbbac68e33c7": {
+    "snapshot": {
+      "total": "541515404921829206732",
+      "balances": {
+        "initial": "1367805521852424095681",
+        "current": "826290116930594888949",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "541515404921829206732"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x2c869ebd6d4deb58c4fd86fbbb42b193981f98f84fa953b3c8dc842d87e4acce",
+      "0xf6c0f1af16e26c26d1c2123b7b72f27f2ec924876aa382b6556e8423af76d450",
+      "0xdddc22fc7d03d3ea0e314be6c4b71153beca518ec8aceb9e3321de5b490a4e57",
+      "0xc6d6a65ec67be7c42b4e8810965392be104a001132b374d8f06999869427b25a",
+      "0x2cf0f47eee83409b3f71e4cc9e4e9bc01f637d91a7d0a7300f2afbf1b27510ae",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xdcfd6d6e63f15a391d96d1b76575ae39ad6965d9": {
+    "snapshot": {
+      "total": "1761584400181647524505",
+      "balances": {
+        "initial": "4056761075841448087024",
+        "current": "2295176675659800562519",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1761584400181647524505"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x4f1a77e9043eff621a99e7202e3aa3ba81299d9c7d15e1f79ab33933d30fb344",
+      "0x58d1e4fd8e191f06c104ce9e2468dec91ce9c3f8a73287935a1597739d291c3f",
+      "0xdddc22fc7d03d3ea0e314be6c4b71153beca518ec8aceb9e3321de5b490a4e57",
+      "0xc6d6a65ec67be7c42b4e8810965392be104a001132b374d8f06999869427b25a",
+      "0x2cf0f47eee83409b3f71e4cc9e4e9bc01f637d91a7d0a7300f2afbf1b27510ae",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xca09da71d7d9d56461fe12968ee950cece2cc9d9": {
+    "snapshot": {
+      "total": "518201459584882064523",
+      "balances": {
+        "initial": "913703348873368156031",
+        "current": "395501889288486091508",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "518201459584882064523"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xa5e4396c73a25ac830576928c424673bf8db902d5e63239b0d00d7c004ef8ec5",
+      "0x58d1e4fd8e191f06c104ce9e2468dec91ce9c3f8a73287935a1597739d291c3f",
+      "0xdddc22fc7d03d3ea0e314be6c4b71153beca518ec8aceb9e3321de5b490a4e57",
+      "0xc6d6a65ec67be7c42b4e8810965392be104a001132b374d8f06999869427b25a",
+      "0x2cf0f47eee83409b3f71e4cc9e4e9bc01f637d91a7d0a7300f2afbf1b27510ae",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xe60a9fd5fe190de7620341636c3f02abf5b20ea5": {
+    "snapshot": {
+      "total": "449989091015586803073",
+      "balances": {
+        "initial": "1009794546295457071480",
+        "current": "559805455279870268407",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "449989091015586803073"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xedff0e4767a0c67a8b4823a98ae10848cc4f86371862f2dfff216fcf0fb76af9",
+      "0x842ba6358d248f5a499468de6961ba605c0b9dad3631becb7d5126bd334f9aaf",
+      "0x0e794bfbb1a7e3929c53df7cebcdece8004f0163d1da99f0e3b89cbf7854efa6",
+      "0xc6d6a65ec67be7c42b4e8810965392be104a001132b374d8f06999869427b25a",
+      "0x2cf0f47eee83409b3f71e4cc9e4e9bc01f637d91a7d0a7300f2afbf1b27510ae",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x49858cf717b720dda9366c71ddd0b6db31581a39": {
+    "snapshot": {
+      "total": "5174912684904043493943",
+      "balances": {
+        "initial": "11907456754623576378701",
+        "current": "6732544069719532884758",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "5174912684904043493943"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xbd4b585704b0966db66766d9f1c388c0316fdb6ef1fa2961b133a45c51128fda",
+      "0x842ba6358d248f5a499468de6961ba605c0b9dad3631becb7d5126bd334f9aaf",
+      "0x0e794bfbb1a7e3929c53df7cebcdece8004f0163d1da99f0e3b89cbf7854efa6",
+      "0xc6d6a65ec67be7c42b4e8810965392be104a001132b374d8f06999869427b25a",
+      "0x2cf0f47eee83409b3f71e4cc9e4e9bc01f637d91a7d0a7300f2afbf1b27510ae",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x78a18ddecda44f7d298d9b37512ed8a7f6b226c7": {
+    "snapshot": {
+      "total": "242435269651149201209",
+      "balances": {
+        "initial": "690928084550264847357",
+        "current": "448492814899115646148",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "242435269651149201209"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x326386fa98475185f46daeb65087f5545e0fce1c49d5ed826e82e8fe44496b67",
+      "0x1d5092894152f878fea1a8500a4cf0642554981dfd7ccb8b8d868fbc7f6585c8",
+      "0x0e794bfbb1a7e3929c53df7cebcdece8004f0163d1da99f0e3b89cbf7854efa6",
+      "0xc6d6a65ec67be7c42b4e8810965392be104a001132b374d8f06999869427b25a",
+      "0x2cf0f47eee83409b3f71e4cc9e4e9bc01f637d91a7d0a7300f2afbf1b27510ae",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x5a95338f086d25130e2a27e14609d30f4ce155d6": {
+    "snapshot": {
+      "total": "976360928416770891665",
+      "balances": {
+        "initial": "2752916687028216362348",
+        "current": "1776555758611445470683",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "976360928416770891665"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xf135a90ab3cc300a62010ac52b5eb13d9eddc0c4030b40082a555435c7b63809",
+      "0x1d5092894152f878fea1a8500a4cf0642554981dfd7ccb8b8d868fbc7f6585c8",
+      "0x0e794bfbb1a7e3929c53df7cebcdece8004f0163d1da99f0e3b89cbf7854efa6",
+      "0xc6d6a65ec67be7c42b4e8810965392be104a001132b374d8f06999869427b25a",
+      "0x2cf0f47eee83409b3f71e4cc9e4e9bc01f637d91a7d0a7300f2afbf1b27510ae",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x6d8a144efca3e16c8e2adbcdac7ccf34164b0796": {
+    "snapshot": {
+      "total": "1022852973185602189371",
+      "balances": {
+        "initial": "2687407460887074729623",
+        "current": "1664554487701472540252",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1022852973185602189371"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xe35fbe1bbdaae4b8c16acc160d417d7adb6bf0257bd75a50b192880cb62fef10",
+      "0xa315d0612a2f0b2abdc611f798db8d3113b3259ab978970249fedb56a94120ee",
+      "0xc0c573ec3e509f44afec8d8456de45293915b63c23dda75e80ca857182036164",
+      "0x72a001c27171e42a53c42db3ca9b2ace95c18d7e0c66110297a8a8d87463abc3",
+      "0x1816971d3829cb39c18f2ed7c83ebd999ee89d7026060597b11652c01bb14293",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x78b0da6715600fd6822d01715fa4aaf48b8b4f50": {
+    "snapshot": {
+      "total": "1367827552425570597596",
+      "balances": {
+        "initial": "2979683202519911272086",
+        "current": "1611855650094340674490",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1367827552425570597596"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x27877a4404ae8dbee384dbabc97d90c240f37401f2df534648b3be0b15a08a4e",
+      "0xa315d0612a2f0b2abdc611f798db8d3113b3259ab978970249fedb56a94120ee",
+      "0xc0c573ec3e509f44afec8d8456de45293915b63c23dda75e80ca857182036164",
+      "0x72a001c27171e42a53c42db3ca9b2ace95c18d7e0c66110297a8a8d87463abc3",
+      "0x1816971d3829cb39c18f2ed7c83ebd999ee89d7026060597b11652c01bb14293",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x15b458f7af474220ca05f34c22667dc70fde017e": {
+    "snapshot": {
+      "total": "2288003974236816398248",
+      "balances": {
+        "initial": "5458096219522107536016",
+        "current": "3170092245285291137768",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "2288003974236816398248"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x507b0e642fe96b15c2c11695c0f8ce99fc7e296a26320a066b1bef9fb4979606",
+      "0x89f424e795c4f07a7c6463cf4de67be540bc96ed7d4a334286929b3339a1a01c",
+      "0xc0c573ec3e509f44afec8d8456de45293915b63c23dda75e80ca857182036164",
+      "0x72a001c27171e42a53c42db3ca9b2ace95c18d7e0c66110297a8a8d87463abc3",
+      "0x1816971d3829cb39c18f2ed7c83ebd999ee89d7026060597b11652c01bb14293",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xf40b3d16ae26262db9b19e0ec80d8a490c40bdcb": {
+    "snapshot": {
+      "total": "826772662386112473414",
+      "balances": {
+        "initial": "1513435370210786935485",
+        "current": "686662707824674462071",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "826772662386112473414"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x9c48bf45bc2a58b2455978364588a2927a8faf22415df1745ac306df17927a18",
+      "0x89f424e795c4f07a7c6463cf4de67be540bc96ed7d4a334286929b3339a1a01c",
+      "0xc0c573ec3e509f44afec8d8456de45293915b63c23dda75e80ca857182036164",
+      "0x72a001c27171e42a53c42db3ca9b2ace95c18d7e0c66110297a8a8d87463abc3",
+      "0x1816971d3829cb39c18f2ed7c83ebd999ee89d7026060597b11652c01bb14293",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x5e3dd85fab542df122aa0ce691d8c71d5e8446a5": {
+    "snapshot": {
+      "total": "3912815877103058924632",
+      "balances": {
+        "initial": "10128997479638133752703",
+        "current": "6216181602535074828071",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "3912815877103058924632"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x23a5814c461464856a2ba7a8f7d7778be243932340832a11d91418e20daa8de0",
+      "0xf47ca84965146b06b849a608920cd0c5ef0bf5fedde52df0b8d3f0243473e28a",
+      "0x10c28b1104119a36e7a7c08721227c5a014e840db7a29e001d3ff96bf3f4cade",
+      "0x72a001c27171e42a53c42db3ca9b2ace95c18d7e0c66110297a8a8d87463abc3",
+      "0x1816971d3829cb39c18f2ed7c83ebd999ee89d7026060597b11652c01bb14293",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xdebc61576f3b1b3a6f4f56adeddbfea49737d0f0": {
+    "snapshot": {
+      "total": "945714157943762731202",
+      "balances": {
+        "initial": "1682420541799011183013",
+        "current": "736706383855248451811",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "945714157943762731202"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xd4f802f2056f4e133c107c92da28f22f07ac26faf411022cf409949539a6d86a",
+      "0xf47ca84965146b06b849a608920cd0c5ef0bf5fedde52df0b8d3f0243473e28a",
+      "0x10c28b1104119a36e7a7c08721227c5a014e840db7a29e001d3ff96bf3f4cade",
+      "0x72a001c27171e42a53c42db3ca9b2ace95c18d7e0c66110297a8a8d87463abc3",
+      "0x1816971d3829cb39c18f2ed7c83ebd999ee89d7026060597b11652c01bb14293",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xde38a4f997c4bb06e2085fc8bfa0f43032b40e98": {
+    "snapshot": {
+      "total": "704613358397048657179",
+      "balances": {
+        "initial": "1484004919919098943844",
+        "current": "779391561522050286665",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "704613358397048657179"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xd78d74b3be5a8a4a3d74a41fdcd368a1b7fb7cc7db1b7b133389be30a0ab3816",
+      "0xbae01e50a98dcc7d84af3c02db9bd25360e3d8cfec8aedc13c8cf64c46f73cce",
+      "0x10c28b1104119a36e7a7c08721227c5a014e840db7a29e001d3ff96bf3f4cade",
+      "0x72a001c27171e42a53c42db3ca9b2ace95c18d7e0c66110297a8a8d87463abc3",
+      "0x1816971d3829cb39c18f2ed7c83ebd999ee89d7026060597b11652c01bb14293",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x4fcdfa91b634e946b049a285f9009d6d02be0e26": {
+    "snapshot": {
+      "total": "1315149543437893100142",
+      "balances": {
+        "initial": "2876943999697175735444",
+        "current": "1561794456259282635302",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1315149543437893100142"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x275d533373c382a01e8d4eec4e4da50d10a41ae7bfb4536755c085e41eea6bda",
+      "0xbae01e50a98dcc7d84af3c02db9bd25360e3d8cfec8aedc13c8cf64c46f73cce",
+      "0x10c28b1104119a36e7a7c08721227c5a014e840db7a29e001d3ff96bf3f4cade",
+      "0x72a001c27171e42a53c42db3ca9b2ace95c18d7e0c66110297a8a8d87463abc3",
+      "0x1816971d3829cb39c18f2ed7c83ebd999ee89d7026060597b11652c01bb14293",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x56a201b872b50bbdee0021ed4d1bb36359d291ed": {
+    "snapshot": {
+      "total": "1063336024786129033936",
+      "balances": {
+        "initial": "1946472651754575021481",
+        "current": "883136626968445987545",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1063336024786129033936"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x31de2fdf0eb2f5faf6dea74dd3be49a134ca45c011a03c90954dbf51d709de2f",
+      "0xd74524d257c53123f2cdd189646d93e4d6dd2d3d0389181665c1d297c8bab8b4",
+      "0x84f9d5c80c87e5be773bf3c5210cc2de754cd68ef0cd52db3ec17ca9bd9c84bb",
+      "0x2a30ec98b8ef7cb410e3ece2766ea860c9c70519a61432d881e09f302dea80c6",
+      "0x1816971d3829cb39c18f2ed7c83ebd999ee89d7026060597b11652c01bb14293",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x1b74feb02ccdfcd4dbe617c9d01be7d323c251d6": {
+    "snapshot": {
+      "total": "3574713354406822472282",
+      "balances": {
+        "initial": "8305023352364992232538",
+        "current": "4730309997958169760256",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "3574713354406822472282"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x8a39de44eedaa118fd95cb15198c0ea170dc10f9d997360e92069da7d725b343",
+      "0xd74524d257c53123f2cdd189646d93e4d6dd2d3d0389181665c1d297c8bab8b4",
+      "0x84f9d5c80c87e5be773bf3c5210cc2de754cd68ef0cd52db3ec17ca9bd9c84bb",
+      "0x2a30ec98b8ef7cb410e3ece2766ea860c9c70519a61432d881e09f302dea80c6",
+      "0x1816971d3829cb39c18f2ed7c83ebd999ee89d7026060597b11652c01bb14293",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x2bb9de497d4df2c34d63b1cdabbbf1fd8e38026f": {
+    "snapshot": {
+      "total": "1408890382198657618140",
+      "balances": {
+        "initial": "2530881821494100276180",
+        "current": "1121991439295442658040",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1408890382198657618140"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xa391e1c166b4692dd295467b03369216d4cbd4eeeb22df10589a04ac5be42a07",
+      "0x6e38ff1fe0e52b2188ab96d6d842177ae476e6216ae5a2b93f38efd50a5e4ac4",
+      "0x84f9d5c80c87e5be773bf3c5210cc2de754cd68ef0cd52db3ec17ca9bd9c84bb",
+      "0x2a30ec98b8ef7cb410e3ece2766ea860c9c70519a61432d881e09f302dea80c6",
+      "0x1816971d3829cb39c18f2ed7c83ebd999ee89d7026060597b11652c01bb14293",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xad3bf94b5b1041d6d2d3f3c06440bd1ea0ff38cf": {
+    "snapshot": {
+      "total": "514521500578012485215",
+      "balances": {
+        "initial": "1208989704641134359514",
+        "current": "694468204063121874299",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "514521500578012485215"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x6f780fa591cf15e7995786254febb6914da8c340fabb60d6ebe46ac32ace6319",
+      "0x6e38ff1fe0e52b2188ab96d6d842177ae476e6216ae5a2b93f38efd50a5e4ac4",
+      "0x84f9d5c80c87e5be773bf3c5210cc2de754cd68ef0cd52db3ec17ca9bd9c84bb",
+      "0x2a30ec98b8ef7cb410e3ece2766ea860c9c70519a61432d881e09f302dea80c6",
+      "0x1816971d3829cb39c18f2ed7c83ebd999ee89d7026060597b11652c01bb14293",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xb4bd06133524ac00a41cc4da925265093bed793c": {
+    "snapshot": {
+      "total": "395665405329201723404",
+      "balances": {
+        "initial": "794898307684584654599",
+        "current": "399232902355382931195",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "395665405329201723404"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xf6a068c332b47d3fa88a5bb534ac598ee8034c33d997c66277f8d1ad74089acf",
+      "0xc8c0c8d94eac07e7c1e4d1ca1ec615a8ecad2b7ba59a51198d18d0accb6f881f",
+      "0xd4c731515b0fe2f536c9ef78756242ba1af0d8b568f7619ec9dcd2179f7dc081",
+      "0x2a30ec98b8ef7cb410e3ece2766ea860c9c70519a61432d881e09f302dea80c6",
+      "0x1816971d3829cb39c18f2ed7c83ebd999ee89d7026060597b11652c01bb14293",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x97c6f53b75d8243a7cbc1c3bc491c993842db3b3": {
+    "snapshot": {
+      "total": "508063672990027308179",
+      "balances": {
+        "initial": "1637557558286724936517",
+        "current": "1129493885296697628338",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "508063672990027308179"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0xf13ad4f0270f5122e6a02248088ef4572e11f8cc0f64c837f0e9abd0340a60ed",
+      "0xc8c0c8d94eac07e7c1e4d1ca1ec615a8ecad2b7ba59a51198d18d0accb6f881f",
+      "0xd4c731515b0fe2f536c9ef78756242ba1af0d8b568f7619ec9dcd2179f7dc081",
+      "0x2a30ec98b8ef7cb410e3ece2766ea860c9c70519a61432d881e09f302dea80c6",
+      "0x1816971d3829cb39c18f2ed7c83ebd999ee89d7026060597b11652c01bb14293",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0x5443b5e78414952eb33563eaa408e0c6569df330": {
+    "snapshot": {
+      "total": "1151239987990340862436",
+      "balances": {
+        "initial": "2805252692514218618040",
+        "current": "1654012704523877755604",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "1151239987990340862436"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x672c71996ee846b2f4738ab5f1b9e4272645252fa97447025f7e9d2694af1335",
+      "0x01ec1e3b59083e3220afe3dcf84c454a030f9cfb060d30883c19685c516af26e",
+      "0xd4c731515b0fe2f536c9ef78756242ba1af0d8b568f7619ec9dcd2179f7dc081",
+      "0x2a30ec98b8ef7cb410e3ece2766ea860c9c70519a61432d881e09f302dea80c6",
+      "0x1816971d3829cb39c18f2ed7c83ebd999ee89d7026060597b11652c01bb14293",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  },
+  "0xb08fa2dce2352fa89e682cf35da0396517d634ac": {
+    "snapshot": {
+      "total": "519780168633704018535",
+      "balances": {
+        "initial": "895046196380561368714",
+        "current": "375266027746857350179",
+        "swapped": "0",
+        "dexOnWallet": "0",
+        "delphiOnWallet": "519780168633704018535"
+      }
+    },
+    "merkleIndex": 3,
+    "merkleProofs": [
+      "0x9985bc4082baa3351b6c6d5ba1154785bed3660269f452999ffedd7609b799ce",
+      "0x01ec1e3b59083e3220afe3dcf84c454a030f9cfb060d30883c19685c516af26e",
+      "0xd4c731515b0fe2f536c9ef78756242ba1af0d8b568f7619ec9dcd2179f7dc081",
+      "0x2a30ec98b8ef7cb410e3ece2766ea860c9c70519a61432d881e09f302dea80c6",
+      "0x1816971d3829cb39c18f2ed7c83ebd999ee89d7026060597b11652c01bb14293",
+      "0xe51f7a3186107f36941f0a2754ecc30a9e1764ffedef0acee9b23af162d67f80",
+      "0xc353aefb503acb4a157594ca2f851c196b563874647986e45ef7ac91479ea5b2"
+    ]
+  }
+}
